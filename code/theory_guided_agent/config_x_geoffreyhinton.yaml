@@ -1,0 +1,86 @@
+paths:
+  root: D:/UserSimuAgent/项目最新版/UserAgent
+  env_file: D:/UserSimuAgent/UserAgent/agentic-harness-engineering/.env
+  genminds:
+    '1989660417': D:/UserSimuAgent/UserAgent/outputs/weibo_kg_genminds_1989660417/memory_bank.json
+    '7463374646': D:/UserSimuAgent/UserAgent/outputs/weibo_kg_genminds_7463374646/memory_bank.json
+    geoffreyhinton: D:\UserSimuAgent\项目最新版\UserAgent\theory_guided_agent\outputs\x_genminds_geoffreyhinton\memory_bank.json
+  persona:
+    '1989660417': D:/UserSimuAgent/UserAgent/outputs/weibo_user_1989660417/persona.json
+    '7463374646': D:/UserSimuAgent/UserAgent/outputs/weibo_user_7463374646/persona.json
+    geoffreyhinton: D:\UserSimuAgent\项目最新版\UserAgent\theory_guided_agent\outputs\x_user_geoffreyhinton\persona.json
+  user_csv:
+    '7463374646': D:/UserSimuAgent/UserAgent/7463374646.csv
+    '1989660417': D:/UserSimuAgent/CognitiveMap/1989660417.csv
+    geoffreyhinton: D:\UserSimuAgent\项目最新版\x_weibo_csv\geoffreyhinton.csv
+  theory_seed: data/theory_seed.json
+  theory_library: data/theory_library
+  user_state: data/users
+llm:
+  model: deepseek-v4-pro
+  max_tokens: 1200
+  temperature: 0.4
+  enable_thinking: true
+  reasoning_effort: high
+  base_url: https://api.deepseek.com
+  api_key: ''
+retrieval:
+  top_k_events: 6
+  top_k_theories: 3
+  max_motifs: 8
+loop:
+  max_iterations: 3
+  evolve_lr: 0.15
+  max_supervisor_restarts: 20
+  supervisor_backoff_s: 10
+agent:
+  max_tool_rounds: 4
+  tool_result_max_chars: 600
+  context_char_budget: 5500
+  temperature: 0.3
+  on_exhaust: finalize_forced
+  tool_protocol: native
+  skeptic_tool: false
+  log_messages: false
+path_agent:
+  min_confidence: 0.35
+  min_richness: 0.35
+  repair_budget: 1
+  skeptic_overturn_min_conf: 0.75
+  query_reformulation: true
+  skeptic_adaptive: true
+  attribution_cache_threshold: 0.6
+  adaptive_window: 50
+  adaptive_alpha: 0.3
+fast_path:
+  enabled: false
+  surprise_threshold: 0.8
+  w_topic: 0.35
+  w_lexical: 0.35
+  w_prior: 0.3
+  recent_window: 50
+failure_memory:
+  max_structures: 80
+  max_repairs: 120
+  admission_min_cause_freq: 2
+  enabled: true
+  weight_repairs_enabled: true
+  revoke_on_fail: true
+  revoke_min_feedback: 3
+  revoke_max_score: 0.4
+temporal_windows:
+  enabled: false
+  gap_hours: 1.0
+  sample_ratio: 0.0
+  sample_seed: 42
+  large_window_min: 5
+sampling:
+  stratify_ratio: 0.0
+  seed: 42
+scoring:
+  result_weights:
+    stance: 0.25
+    core_judgment: 0.25
+    belief: 0.25
+    value: 0.25
+  reason_weight: 0.0

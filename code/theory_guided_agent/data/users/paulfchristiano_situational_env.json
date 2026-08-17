@@ -1,0 +1,384 @@
+{
+  "user_id": "paulfchristiano",
+  "kind": "personal_reception_pathway",
+  "definition": "External communication/psychological/social context at posting time; not extracted user personality.",
+  "records": [
+    {
+      "user_id": "paulfchristiano",
+      "post_id": "845772910685970433",
+      "bid": "845772910685970433",
+      "date": "2017-03-25 23:02:30",
+      "topic": "比特币哈希预测赌约",
+      "text": "I owe @michael_nielsen $60k to donate as he pleases if https://t.co/QX57uY43nQ is between 0000000000... and 028F5C28F5... at noon PST on 4/2",
+      "slot_key": "2017-03-25||比特币哈希预测赌约",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#I owe @michael_nielsen $# + mention_directed",
+        "hashtag": "I owe @michael_nielsen $",
+        "temporal_cutoff": "2017-03-25",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "michael_nielsen"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#I owe @michael_nielsen $# + mention_directed",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": [
+          "michael_nielsen"
+        ]
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现（#I owe @michael_nielsen $#）",
+        "salient_cues_in_feed": [
+          "比特币价格区间",
+          "哈希值范围",
+          "对赌承诺",
+          "@michael_nielsen"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Nearly $2 billion has been wiped off bitcoin’s value in three days all because of a fork",
+          "url": "https://www.cnbc.com/2017/03/17/bitcoin-price-blockchain-fork-ethereum.html",
+          "snippet": "Bitcoin was trading at around $1,142.60 at time of publication, giving it a market cap of $18.53 billion, according to CoinDesk data. This is down from highs of $1,255.32 on Tuesday, which valued the total bitcoin pile at $20.36 billion.",
+          "role": "发帖前一周内比特币价格波动与分叉风险的报道，可作为用户关注比特币价格区间的背景",
+          "as_of": "2017-03-17"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前一周有CNBC报道比特币因分叉争议三日蒸发近20亿美元市值，价格从1255美元高点回落至1142美元附近",
+          "information_flow": "主流财经媒体（CNBC）报道比特币价格波动与分叉风险，信息从加密货币市场流向大众媒体",
+          "cues": [
+            "比特币",
+            "分叉",
+            "价格波动",
+            "市值蒸发"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "价格波动",
+            "分叉风险"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "2017年3月中旬比特币因区块链分叉争议出现价格下跌，市场存在不确定性",
+          "actors_groups": [
+            "比特币交易者",
+            "加密货币市场参与者"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "risk_perception",
+        "uncertainty_reduction",
+        "prospect_theory",
+        "framing"
+      ],
+      "summary": "发帖前一周比特币因分叉争议价格波动，用户通过话题标签页发布对赌承诺，以比特币哈希值区间为条件向@michael_nielsen承诺6万美元捐赠，呈现为公开对赌形式。",
+      "evidence_gaps": [
+        "检索片段中多数信息源（arXiv 2025、Forbes 2017-04-12、Bloomberg 2025、YouTube、TweetBinder等）晚于发帖时间2017-03-25，已忽略",
+        "无证据显示用户发帖前具体接触了哪些比特币价格信息或对赌动机",
+        "无证据表明@michael_nielsen与用户之间的互动历史或对赌背景",
+        "话题标签#I owe @michael_nielsen $#的传播路径和参与者不可考"
+      ],
+      "search_queries": [
+        "比特币哈希预测赌约 2017-03-25 news",
+        "比特币哈希预测赌约 2017-03-25 Twitter X reaction",
+        "比特币哈希预测赌约 2017-03-25 事件 背景 报道",
+        "比特币哈希预测赌约 2017-03-25"
+      ],
+      "web_evidence": [
+        {
+          "title": "Forecasting of Bitcoin Prices Using Hashrate Features: Wavelet and Deep Stacking approach",
+          "snippet": "| 2-10 | 7 | 17.71 | 19.15 | 16.32 | 22.05 | 14.86 | 21.1 | 15.90 | 13.86±1.01\\pm 1.01 |\n| 2-10 | 30 | 90.12 | 87.43 | 77.12 | 116.37 | 76.8 | 91.12 | 80.01 | 89.57±0.02\\pm 0.02 |\n| 2-10 | 90 | 96.01 | 98.03 | 72.23 | 109.22 | 78.32 | 90.1 | 81.00 | 70.81±1.1\\pm 1.1 |\n| 2-10 | Avg% | 42.06 | 43.1 | 35.27 | 53.21 | 24 | 27.91 | 37.18 | 38.57 |\n| RMSE | I | 6.13 | 2.37 | 1.58 | 1.58 | 2.22 | 2.45 | ",
+          "link": "https://arxiv.org/html/2501.13136v1",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Cryptocurrency Boom Predicted By Bitcoin Market Data CEO Confirmed, Trend 'Set To Continue'",
+          "snippet": "And, having good information at your fingers should help to spot the potential danger signs.\n\nThe Minsk-born CEO who came to Germany in 2000, predicted that market sentiment in the altcoin market, which encompasses all digital coins except bitcoin, remains extremely bullish. He claimed that 2017 would see a “dramatic boom”, and that this boom is just getting started.\n\n‘Third of a Third’ Wave [...]",
+          "link": "https://www.forbes.com/sites/rogeraitken/2017/04/12/cryptocurrency-boom-predicted-by-bitcoin-market-data-ceo-confirmed-trend-set-to-continue",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "A $25 Billion Bitcoin Bet Is Fraying as Doubt Hits Big Buyers",
+          "snippet": "# A $25 Billion Bitcoin Bet Frays as Doubt Hits Big Buyers - Bloomberg\n\nSkip to content\n\nBloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloomberg Anywhere LoginBloomberg Customer Support Customer Support\n\n   ### Bloomberg [...] [](\n\nHomeBTV+Market DataOpinionAudioOriginalsMagazineEvents\n\nNews\n\nMarketsEconomicsTechnology",
+          "link": "https://www.bloomberg.com/news/articles/2025-11-12/a-25-billion-bitcoin-bet-is-fraying-as-doubt-hits-big-buyers",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Bitcoin Risk and Price Analysis",
+          "snippet": "that it is going to experience a bull run, you're just not sure when it's going to happen then you know, I would say like if you're not buying um or at least if you don't have a plan um of of how you're going to buy and when you're going to buy uh what are you doing? Are you just are you waiting for it to go to $1,000 and maybe it would. I don't think it will. I think going to 1,000 would complete",
+          "link": "https://www.youtube.com/watch?v=4NeiTwqHTLo",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nearly $2 billion has been wiped off bitcoin’s value in three days all because of a fork",
+          "snippet": "Bitcoin was trading at around $1,142.60 at time of publication, giving it a market cap of $18.53 billion, according to CoinDesk data. This is down from highs of $1,255.32 on Tuesday, which valued the total bitcoin pile at $20.36 billion. [...] \"Bitcoin traders may have wanted to offset some of their exposure should a fork occur or the scaling deadlock continue, and ether seems to be the most promi",
+          "link": "https://www.cnbc.com/2017/03/17/bitcoin-price-blockchain-fork-ethereum.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "[PDF] Ask “Who”, Not “What”: Bitcoin Volatility Forecasting with Twitter Data",
+          "snippet": "MAPE MAE RMSE MSLE TCN 0.23 ± 0.01 1.63 ± 0.06 2.58 ± 0.07 0.11 ± 0.01 D-TCNUser 0.20 ± 0.01  1.44 ± 0.03  2.36 ± 0.05  0.08 ± 0.01  D-TCNTweet 0.21 ± 0.01  1.59 ± 0.08  2.45 ± 0.09  0.09 ± 0.01  D-TCNVADER 0.26 ± 0.02 1.72 ± 0.08 2.70 ± 0.09 0.13 ± 0.01 D-TCNCount 0.32 ± 0.05 1.97 ± 0.19 3.27 ± 0.47 0.16 ± 0.02 D-TCNVADER, Tweet, User 0.21 ± 0.01  1.47 ± 0.05  2.38 ± 0.06  0.09 ± 0.01  D-TCNVADER",
+          "link": "https://arxiv.org/pdf/2110.14317",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "[PDF] Predicting Bitcoin price fluctuation with Twitter sentiment analysis",
+          "snippet": "IN DEGREE PROJECT TECHNOLOGY, FIRST CYCLE, 15 CREDITS , STOCKHOLM SWEDEN 2017 Predicting Bitcoin price fluctuation with Twitter sentiment analysis EVITA STENQVIST JACOB LÖNNÖ KTH ROYAL INSTITUTE OF TECHNOLOGY SCHOOL OF COMPUTER SCIENCE AND COMMUNICATION Predicting Bitcoin price ﬂuctuation with Twitter sentiment analysis EVITA STENQVIST JACOB LÖNNÖ Master in Computer Science Date: June 14, 2017 Sup",
+          "link": "https://www.diva-portal.org/smash/get/diva2:1110776/FULLTEXT01.pdf",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Bitcoin Twitter: Predict the price of Bitcoin using Twitter in 2019",
+          "snippet": "Bitcoin was created by Satoshi Nakamoto. People try to predict bitcoin’s price using Twitter. Bitcoin was released in 2009 and now is the largest cryptocurrency in terms of market capitalization with more than 142 billion dollars and everyday there are news about BTC that made for example increase its value 2000% in 2017 to reach the maximum of $20089 in December 2017. Can you predict the price of",
+          "link": "https://www.tweetbinder.com/blog/bitcoin-twitter",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Bitcoin (@Bitcoin) / Posts / X - Twitter",
+          "snippet": "Aug 1\n\n  Actually devastating because the people using Coldcards were the biggest most security conscious type of Bitcoin holder. They were the ones who believed so much in the mission of Bitcoin that they actually learned how to set up a Coldcard. The true believers got rugged. Very sad. [...] Aug 5\n\n  $64,005.52 #Bitcoin\n\n  \n user avatar\n\n  Bitcoin\n\n  @Bitcoin\n\n  Aug 4\n\n  $63,314.79 #Bitcoin\n\n  ",
+          "link": "https://x.com/Bitcoin",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Bitcoin on X: \"€83,419.06\" / X",
+          "snippet": "Log inSign up\n\n## Post\n\n# Bitcoin on X: \"€83,419.06\"\n\n user avatar\n\n  Bitcoin\n\n  @Bitcoin\n\n  €83,419.06\n\n  4:14 PM · Jan 14, 202656.1KViews\n user avatar\n\n  Shark Cat 🦈🐱\n\n  @SharkCatSolana\n\n  Jan 14\n\n  🦈😺 ❤️❤️\n user avatar\n\n  BITTY\n\n  @Bitty4Bitcoin\n\n  Jan 14\n\n  €0.002\n user avatar\n\n  Brain2jene💫\n\n  @brain2jene\n\n  Jan 14\n\n  $100K+ is the next post , calling this since its bottom. #Bitcoin",
+          "link": "https://x.com/Bitcoin/status/2011472059163935174",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2017-03-25",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "比特币哈希预测赌约",
+        "tavily_hits": 17
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "paulfchristiano",
+      "post_id": "818985748271501312",
+      "bid": "818985748271501312",
+      "date": "2017-01-11 00:59:53",
+      "topic": "捐赠彩票",
+      "text": "Donor lottery: https://t.co/p7Sho8vuzD (SHA-256 of agreement is 3c0ade0f0490dff240b5b4a97c522c14cfd1490a2d40b4dddc535e0bd238c6fb)",
+      "slot_key": "2017-01-11||捐赠彩票",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Donor lottery: https://t#",
+        "hashtag": "Donor lottery: https://t",
+        "temporal_cutoff": "2017-01-11",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Donor lottery: https://t#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现，标签文本为 'Donor lottery: https://t'",
+        "salient_cues_in_feed": [
+          "Donor lottery",
+          "彩票",
+          "公益",
+          "捐赠"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "公益新闻",
+          "url": "https://www.xzxw.com/gongyi_5554/gyxw_16.html",
+          "snippet": "2017-01-11; 仁增妈妈和她的23个孩子2017-01-09. 西藏体育彩票2016年销量突破7亿元2017-01-06; 西藏航空特事特办救急救难2017-01-05; 昌都市设计院走进类乌齐县小学开展 ...Read more",
+          "role": "公益/彩票类新闻聚合页，呈现彩票与公益议题",
+          "as_of": "2017-01-11"
+        },
+        {
+          "title": "新闻- 公益时报网",
+          "url": "http://www.gongyishibao.com/html/qiyeCSR/list_5_41.html",
+          "snippet": "40万网友参与博时“捐步”活动 2017-01-11 23:21:05 高捐赠车辆2017-01-11 23:19:47",
+          "role": "公益时报企业CSR列表页，呈现捐赠与公益行为",
+          "as_of": "2017-01-11"
+        },
+        {
+          "title": "厨师买彩多年终中巨奖捐二十万元慷慨助人 - 财经",
+          "url": "http://ifinance.ifeng.com/15136825/news.shtml",
+          "snippet": "1月9日上午，一位河南籍的女子在丈夫的陪同下，到山西省福利彩票发行中心领走了双色球游戏2017003期的一等奖奖金1000万元（税前），并定向捐款20万元 ...Read more",
+          "role": "彩票中奖与捐款的新闻报道",
+          "as_of": "2017-01-09"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前证据显示微博/媒体上存在彩票、公益、捐赠类新闻的呈现，如西藏体育彩票销量、中奖捐款等",
+          "information_flow": "信息从公益类新闻聚合页、公益时报网、财经新闻等渠道流出，框架为彩票公益与捐赠行为",
+          "cues": [
+            "彩票",
+            "公益",
+            "捐赠",
+            "中奖"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "彩票公益",
+            "中奖捐款"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "发帖前证据显示彩票公益与捐赠类新闻在2017年1月上旬有持续报道，如西藏体育彩票销量、双色球中奖捐款等",
+          "actors_groups": [
+            "彩票发行中心",
+            "中奖者",
+            "公益时报",
+            "捐赠者"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting",
+        "uses_gratifications",
+        "diffusion_innovation"
+      ],
+      "summary": "用户通过微博话题标签页进入，标签为'Donor lottery: https://t'，发帖前证据环境中有彩票公益与捐赠类新闻呈现，用户发布含链接与哈希值的原创帖，具体传播路径不明。",
+      "evidence_gaps": [
+        "post_cutoff_leakage_ignored: 检索片段中包含2017-12-30、2026-04-15等晚于发帖时间的内容，已忽略",
+        "用户发帖前实际浏览的话题页内容无直接证据",
+        "Donor lottery 链接的具体内容与来源无证据",
+        "用户为何发布该哈希值无证据支持"
+      ],
+      "search_queries": [
+        "捐赠彩票 2017-01-11 news",
+        "捐赠彩票 2017-01-11 Twitter X reaction",
+        "捐赠彩票 2017-01-11 事件 背景 报道",
+        "捐赠彩票 2017-01-11"
+      ],
+      "web_evidence": [
+        {
+          "title": "公益新闻",
+          "snippet": "2017-01-11; 仁增妈妈和她的23个孩子2017-01-09. 西藏体育彩票2016年销量突破7亿元2017-01-06; 西藏航空特事特办救急救难2017-01-05; 昌都市设计院走进类乌齐县小学开展 ...Read more",
+          "link": "https://www.xzxw.com/gongyi_5554/gyxw_16.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "新闻- 公益时报网",
+          "snippet": "40万网友参与博时“捐步”活动 2017-01-11 23:21:05 高捐赠车辆2017-01-11 23:19:47",
+          "link": "http://www.gongyishibao.com/html/qiyeCSR/list_5_41.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "厨师买彩多年终中巨奖捐二十万元慷慨助人 - 财经",
+          "snippet": "1月9日上午，一位河南籍的女子在丈夫的陪同下，到山西省福利彩票发行中心领走了双色球游戏2017003期的一等奖奖金1000万元（税前），并定向捐款20万元 ...Read more",
+          "link": "http://ifinance.ifeng.com/15136825/news.shtml",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "一张中奖彩票俩主人？泰国借助法医学手段寻真相",
+          "snippet": "Dec 30, 2017 — 现年50岁的泰国教师比差·班格莱宽今年10月在北碧府市场上买了4组彩票，每组各有5张数字相同的彩票。比差称，自己弄丢了其中一组5张彩票，而这组 ...Read more",
+          "link": "https://www.xinhuanet.com/world/2017-12/30/c_129778835.htm",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Raffle winner thrilled to claim a $1 million Picasso with ...",
+          "snippet": "Apr 15, 2026 — A Parisian art enthusiast could not believe his luck when he found out Tuesday he'd won a Pablo Picasso painting worth $1 million with a $117",
+          "link": "https://www.wbaltv.com/article/100-euro-picasso-raffle-alzheimers/71027725",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "\"#乐发彩票\" - Results on X | Live Posts & Updates",
+          "snippet": "Results for &quot;#乐发彩票&quot; on X (Twitter). Find the latest posts, discussions, and updates about #乐发彩票. Live Posts & Updates X (Twitter)",
+          "link": "https://x.com/hashtag/%E4%B9%90%E5%8F%91%E5%BD%A9%E7%A5%A8?lang=cs",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "BTS OFFICIAL TWITTER 2017 MAMA #상탄소년단 🏆🏆🏆 ...",
+          "snippet": "[TWITTER POST] 171201 - BTS OFFICIAL TWITTER 2017 MAMA #상탄소년단 투표와 응원을 정말 열심히 해준 아미들에게 이 영광을 돌립니다",
+          "link": "https://www.facebook.com/btsph/posts/twitter-post-171201-bts-official-twitter2017-mama-%EC%83%81%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8-%ED%88%AC%ED%91%9C%EC%99%80-%EC%9D%91%EC%9B%90%EC%9D%84-%EC%A0%95%EB%A7%90-%EC%97%B4%EC%8B%AC%ED%9E%88-%ED%95%B4%EC%A4%80-%EC%95%84%EB%AF%B8%EB%93%A4%EC%97%90%EA%B2%8C-/1503245349753641",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Post",
+          "snippet": "Post.",
+          "link": "https://x.com/gift_news/status/786734356756824064",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Raffle winner left stunned after scooping a $1M Picasso ...",
+          "snippet": "Share your videos with friends, family, and the world.",
+          "link": "https://www.youtube.com/watch?v=gvktmpnizxM",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "新闻- 公益时报网",
+          "snippet": "《公益时报》由国家民政部主管，中国社会工作协会主办,中国基金会管理信息披露指定媒体，中国福利彩票发行管理中心指定媒体。",
+          "link": "http://gongyishibao.com/html/gongyizixun/list_8_132.html",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2017-01-11",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "捐赠彩票",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    }
+  ],
+  "slots": {},
+  "retrieval": "tavily",
+  "num_posts": 2
+}

@@ -1,0 +1,18 @@
+﻿# secrets
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.py[cod]
+
+# local artifacts
+*.log
+cookies*.json
+x_cookies*
+
+# large generated outputs
+outputs/
+exp_outputs*/
+sit_env/

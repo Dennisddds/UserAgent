@@ -1,0 +1,383 @@
+# Theory library crawl taxonomy for communication / psychology / sociology.
+# Used by bootstrap-theory to build a paper-backed support corpus (OpenAlex).
+# Not literally "all papers on the web" — curated domains + high-citation works.
+
+coordinates:
+  - risk_perception
+  - trust
+  - identity_threat
+  - fairness
+  - technology_threat
+  - uncertainty_reduction
+  - motivated_reasoning
+  - social_identity
+  - framing
+  - agenda_setting
+  - spiral_of_silence
+  - inoculation
+  - misinformation
+  - moral_foundations
+  - affective_polarization
+  - selective_exposure
+  - narrative_persuasion
+  - cognitive_dissonance
+  - prospect_theory
+  - cultural_cognition
+  - source_credibility
+  - collective_action
+  - third_person_effect
+  - hostile_media
+  - opinion_leadership
+  - dual_process
+  - face_culture
+  - public_opinion_china
+  # --- social-media-relevant OB / developmental / macro ---
+  - organizational_behavior
+  - impression_management
+  - developmental_media
+  - parasocial
+  - uses_gratifications
+  - social_capital
+  - macro_social_theory
+  - public_sphere
+  - network_society
+  - habitus_capital
+  # --- wave-3: CMC / algorithms / crisis / health / classic media effects ---
+  - cultivation
+  - priming
+  - diffusion_innovation
+  - cmc_theory
+  - echo_chamber
+  - algorithmic_curation
+  - online_disinhibition
+  - privacy_calculus
+  - crisis_communication
+  - health_communication
+  - social_comparison
+  - media_dependency
+  - digital_divide
+  - system_justification
+  - terror_management
+  - cancel_culture
+
+# OpenAlex search queries. Each query pulls top-cited works (paginated).
+queries:
+  # --- classic communication ---
+  - coordinate: framing
+    q: "framing theory public opinion media effects"
+  - coordinate: framing
+    q: "equivalency framing emphasis framing Entman"
+  - coordinate: agenda_setting
+    q: "agenda setting theory McCombs Shaw"
+  - coordinate: agenda_setting
+    q: "second-level agenda setting attribute salience"
+  - coordinate: spiral_of_silence
+    q: "spiral of silence Noelle-Neumann public opinion"
+  - coordinate: opinion_leadership
+    q: "two-step flow opinion leadership Lazarsfeld"
+  - coordinate: narrative_persuasion
+    q: "narrative transportation persuasion Green Brock"
+  - coordinate: third_person_effect
+    q: "third-person effect media influence Davison"
+  - coordinate: hostile_media
+    q: "hostile media effect partisan perception"
+  - coordinate: source_credibility
+    q: "source credibility persuasion Hovland"
+
+  # --- persuasion / cognition ---
+  - coordinate: motivated_reasoning
+    q: "elaboration likelihood model Petty Cacioppo"
+  - coordinate: motivated_reasoning
+    q: "heuristic systematic model Chaiken persuasion"
+  - coordinate: motivated_reasoning
+    q: "motivated reasoning political cognition Kunda"
+  - coordinate: dual_process
+    q: "dual process theory System 1 System 2 judgment"
+  - coordinate: cognitive_dissonance
+    q: "cognitive dissonance Festinger attitude change"
+  - coordinate: selective_exposure
+    q: "selective exposure confirmation bias media"
+  - coordinate: prospect_theory
+    q: "prospect theory Kahneman Tversky loss aversion"
+  - coordinate: uncertainty_reduction
+    q: "uncertainty reduction theory Berger Calabrese"
+  - coordinate: uncertainty_reduction
+    q: "visual evidence uncertainty persuasion correction"
+
+  # --- risk / trust / tech ---
+  - coordinate: risk_perception
+    q: "psychometric risk perception Slovic dread"
+  - coordinate: risk_perception
+    q: "risk communication fear appeal public health"
+  - coordinate: trust
+    q: "trust repair after violation organizational"
+  - coordinate: trust
+    q: "epistemic trust science communication credibility"
+  - coordinate: trust
+    q: "rumor correction trust recovery social media"
+  - coordinate: technology_threat
+    q: "technology threat appraisal automation anxiety"
+  - coordinate: technology_threat
+    q: "AI anxiety algorithm aversion public attitude"
+
+  # --- identity / morality / polarization ---
+  - coordinate: social_identity
+    q: "social identity theory Tajfel Turner group"
+  - coordinate: identity_threat
+    q: "social identity threat motivated reasoning"
+  - coordinate: identity_threat
+    q: "national identity threat political communication"
+  - coordinate: moral_foundations
+    q: "moral foundations theory Haidt political"
+  - coordinate: affective_polarization
+    q: "affective polarization partisan animosity"
+  - coordinate: cultural_cognition
+    q: "cultural cognition risk Kahan worldview"
+  - coordinate: fairness
+    q: "procedural justice Tyler fairness legitimacy"
+  - coordinate: fairness
+    q: "distributive justice equity public opinion"
+
+  # --- misinformation / inoculation ---
+  - coordinate: inoculation
+    q: "inoculation theory McGuire prebunking"
+  - coordinate: inoculation
+    q: "prebunking misinformation resistance"
+  - coordinate: misinformation
+    q: "misinformation correction continued influence effect"
+  - coordinate: misinformation
+    q: "debunking handbook Lewandowsky fact checking"
+  - coordinate: misinformation
+    q: "fake news social media belief updating"
+  - coordinate: misinformation
+    q: "rumor psychology Allport Postman transmission"
+
+  # --- collective / China / culture ---
+  - coordinate: collective_action
+    q: "collective action relative deprivation Klandermans"
+  - coordinate: face_culture
+    q: "face culture guanxi Chinese communication"
+  - coordinate: face_culture
+    q: "high-context communication East Asia Hall"
+  - coordinate: public_opinion_china
+    q: "Weibo public opinion China social media discourse"
+  - coordinate: public_opinion_china
+    q: "Chinese nationalism online public opinion"
+  - coordinate: public_opinion_china
+    q: "censorship expression online China public sphere"
+
+  # --- extra high-value mechanisms ---
+  - coordinate: risk_perception
+    q: "availability heuristic risk judgment Tversky"
+  - coordinate: social_identity
+    q: "in-group out-group bias political psychology"
+  - coordinate: motivated_reasoning
+    q: "backfire effect worldview correction Nyhan"
+  - coordinate: framing
+    q: "moral reframing persuasion political arguments"
+  - coordinate: trust
+    q: "conspiracy belief distrust institutions"
+  - coordinate: narrative_persuasion
+    q: "exemplification theory media exemplars"
+  - coordinate: dual_process
+    q: "affect heuristic Slovic decision making"
+  - coordinate: collective_action
+    q: "bandwagon effect social proof conformity"
+
+  # --- deepen: moral / collective / face / China ---
+  - coordinate: moral_foundations
+    q: "moral foundations theory social media outrage"
+  - coordinate: moral_foundations
+    q: "moral dumbfounding Haidt intuitionism"
+  - coordinate: moral_foundations
+    q: "moral contagion social media Brady"
+  - coordinate: collective_action
+    q: "social media collective action connective action Bennett"
+  - coordinate: collective_action
+    q: "online mobilization protest digital activism"
+  - coordinate: collective_action
+    q: "resource mobilization theory social movements"
+  - coordinate: face_culture
+    q: "mianzi facework Chinese interpersonal conflict"
+  - coordinate: face_culture
+    q: "face negotiation theory Ting-Toomey"
+  - coordinate: face_culture
+    q: "saving face social media China embarrassment"
+  - coordinate: public_opinion_china
+    q: "Chinese public opinion survey nationalism identity"
+  - coordinate: public_opinion_china
+    q: "online rumor Weibo correction China"
+  - coordinate: public_opinion_china
+    q: "ideological spectrum Chinese social media discourse"
+  - coordinate: public_opinion_china
+    q: "astroturfing fifty cent party online opinion China"
+
+  # --- organizational behavior (social-media-user relevant) ---
+  - coordinate: organizational_behavior
+    q: "organizational identification social media employees"
+  - coordinate: organizational_behavior
+    q: "employee voice silence social media"
+  - coordinate: organizational_behavior
+    q: "psychological safety online teams communication"
+  - coordinate: organizational_behavior
+    q: "organizational reputation crisis social media"
+  - coordinate: organizational_behavior
+    q: "workplace cyberbullying online deviance"
+  - coordinate: impression_management
+    q: "impression management Goffman self-presentation"
+  - coordinate: impression_management
+    q: "self-presentation social networking sites"
+  - coordinate: impression_management
+    q: "strategic self-presentation Instagram Facebook"
+  - coordinate: impression_management
+    q: "authenticity paradox social media identity"
+
+  # --- developmental psychology / media users ---
+  - coordinate: developmental_media
+    q: "adolescent identity development social media"
+  - coordinate: developmental_media
+    q: "peer influence social media adolescents"
+  - coordinate: developmental_media
+    q: "emerging adulthood digital identity exploration"
+  - coordinate: developmental_media
+    q: "social comparison Instagram well-being adolescents"
+  - coordinate: parasocial
+    q: "parasocial interaction Horton Wohl media figures"
+  - coordinate: parasocial
+    q: "parasocial relationships influencers social media"
+  - coordinate: parasocial
+    q: "celebrity endorsement parasocial persuasion"
+  - coordinate: uses_gratifications
+    q: "uses and gratifications social media Katz"
+  - coordinate: uses_gratifications
+    q: "uses and gratifications Weibo Twitter motivations"
+  - coordinate: uses_gratifications
+    q: "media dependency theory Ball-Rokeach Defleur"
+
+  # --- social capital / macro theory (media-relevant) ---
+  - coordinate: social_capital
+    q: "social capital Putnam bonding bridging online"
+  - coordinate: social_capital
+    q: "social capital Nan Lin social networks"
+  - coordinate: social_capital
+    q: "online social capital Facebook well-being Ellison"
+  - coordinate: public_sphere
+    q: "public sphere Habermas digital internet deliberation"
+  - coordinate: public_sphere
+    q: "networked public sphere social media Fraser"
+  - coordinate: network_society
+    q: "network society Castells communication power"
+  - coordinate: network_society
+    q: "networked individualism Wellman social media"
+  - coordinate: habitus_capital
+    q: "Bourdieu habitus cultural capital media consumption"
+  - coordinate: habitus_capital
+    q: "cultural capital digital inequality social media"
+  - coordinate: macro_social_theory
+    q: "risk society Beck media amplification"
+  - coordinate: macro_social_theory
+    q: "Foucault discourse power surveillance social media"
+  - coordinate: macro_social_theory
+    q: "Giddens modernity self-identity media reflexivity"
+  - coordinate: macro_social_theory
+    q: "liquid modernity Bauman online identity"
+
+  # --- wave-3 gap fill: classic media effects ---
+  - coordinate: cultivation
+    q: "cultivation theory Gerbner mean world television"
+  - coordinate: cultivation
+    q: "cultivation analysis social media reality perception"
+  - coordinate: priming
+    q: "media priming theory Iyengar Kinder political"
+  - coordinate: priming
+    q: "semantic priming political communication media"
+  - coordinate: diffusion_innovation
+    q: "diffusion of innovations Rogers communication"
+  - coordinate: diffusion_innovation
+    q: "innovation diffusion social media adoption"
+  - coordinate: media_dependency
+    q: "media system dependency Ball-Rokeach social media"
+  - coordinate: social_comparison
+    q: "social comparison theory Festinger upward downward"
+  - coordinate: social_comparison
+    q: "social comparison social networking sites envy"
+
+  # --- CMC / platforms ---
+  - coordinate: cmc_theory
+    q: "hyperpersonal model Walther computer-mediated communication"
+  - coordinate: cmc_theory
+    q: "social information processing theory Walther CMC"
+  - coordinate: cmc_theory
+    q: "SIDE model social identity deindividuation effects"
+  - coordinate: cmc_theory
+    q: "media richness theory Daft Lengel communication"
+  - coordinate: cmc_theory
+    q: "social presence theory Short Williams Christie"
+  - coordinate: cmc_theory
+    q: "warranting theory Walther online impression"
+  - coordinate: online_disinhibition
+    q: "online disinhibition effect Suler"
+  - coordinate: online_disinhibition
+    q: "cyberbullying flaming anonymity social media"
+  - coordinate: echo_chamber
+    q: "echo chamber filter bubble social media polarization"
+  - coordinate: echo_chamber
+    q: "selective exposure echo chambers Sunstein"
+  - coordinate: algorithmic_curation
+    q: "algorithmic curation recommender systems public opinion"
+  - coordinate: algorithmic_curation
+    q: "filter bubble Pariser personalization media"
+  - coordinate: algorithmic_curation
+    q: "algorithmic amplification outrage engagement social media"
+
+  # --- privacy / crisis / health ---
+  - coordinate: privacy_calculus
+    q: "privacy calculus theory social media disclosure"
+  - coordinate: privacy_calculus
+    q: "contextual integrity Nissenbaum privacy"
+  - coordinate: privacy_calculus
+    q: "privacy paradox social networking sites"
+  - coordinate: crisis_communication
+    q: "situational crisis communication theory Coombs"
+  - coordinate: crisis_communication
+    q: "image repair theory Benoit crisis response"
+  - coordinate: crisis_communication
+    q: "crisis communication social media rumor management"
+  - coordinate: health_communication
+    q: "health belief model communication persuasion"
+  - coordinate: health_communication
+    q: "extended parallel process model Witte fear appeals"
+  - coordinate: health_communication
+    q: "health misinformation social media correction"
+
+  # --- inequality / ideology / culture ---
+  - coordinate: digital_divide
+    q: "digital divide second-level skills social media"
+  - coordinate: digital_divide
+    q: "knowledge gap hypothesis Tichenor media"
+  - coordinate: system_justification
+    q: "system justification theory Jost political psychology"
+  - coordinate: terror_management
+    q: "terror management theory mortality salience media"
+  - coordinate: cancel_culture
+    q: "online public shaming cancel culture social media"
+  - coordinate: cancel_culture
+    q: "moral outrage social media firestorms"
+  - coordinate: social_identity
+    q: "self-categorization theory Turner group polarization"
+  - coordinate: trust
+    q: "source credibility social media influencers expertise"
+  - coordinate: misinformation
+    q: "illusory truth effect repetition misinformation"
+  - coordinate: motivated_reasoning
+    q: "identity-protective cognition Kahan cultural cognition"
+  - coordinate: public_opinion_china
+    q: "Chinese social media opinion leaders wanghong influence"
+  - coordinate: face_culture
+    q: "face and favor Chinese social behavior Hwang"
+  - coordinate: collective_action
+    q: "slacktivism online activism efficacy social media"
+  - coordinate: developmental_media
+    q: "Fear of missing out FoMO social media anxiety"
+  - coordinate: impression_management
+    q: "false self-presentation social media authenticity"

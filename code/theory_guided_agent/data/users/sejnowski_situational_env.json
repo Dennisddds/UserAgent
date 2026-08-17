@@ -1,0 +1,524 @@
+{
+  "user_id": "sejnowski",
+  "kind": "personal_reception_pathway",
+  "definition": "External communication/psychological/social context at posting time; not extracted user personality.",
+  "records": [
+    {
+      "user_id": "sejnowski",
+      "post_id": "1054793409825853440",
+      "bid": "1054793409825853440",
+      "date": "2018-10-23 17:55:20",
+      "topic": "美国多所大学反战抗议",
+      "text": "https://t.co/kOJbDCoCNU",
+      "slot_key": "2018-10-23||美国多所大学反战抗议",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#https://t.co/kOJbDCoCNU#",
+        "hashtag": "https://t.co/kOJbDCoCNU",
+        "temporal_cutoff": "2018-10-23",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#https://t.co/kOJbDCoCNU#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "unknown",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "1968年哥倫比亞大學學生抗議運動 - 维基百科",
+          "url": "https://zh.wikipedia.org/wiki/1968%E5%B9%B4%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%8A%97%E8%AD%B0%E9%81%8B%E5%8B%95",
+          "snippet": "How Black Students Helped Lead the 1968 Columbia U. Strike Against Militarism & Racism 50 Years Ago. Democracy Now!. [2018-10-22]. （原始内容存档于2018-10-22）",
+          "role": "historical background / archival reference",
+          "as_of": "2018-10-22"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "用户通过微博话题标签页发布含链接的原创帖，但发帖前可验证的信息环境证据不足，无法还原其接触到的传播路径与呈现形式。",
+      "evidence_gaps": [
+        "检索片段中绝大多数信息源（纽约时报中文网、VOA、CNA、公视、端传媒、BBC、YouTube、X）均晚于2018-10-23，属于事后内容，已忽略",
+        "唯一不晚于发帖日的信息源仅为维基百科中一条2018-10-22的存档链接，且未提供用户实际可见的页面呈现内容",
+        "CSV无上游源微博字段，无法确认用户是否转发或回应他人",
+        "用户正文仅为短链接，无文字内容，无法判断其发帖意图或立场",
+        "话题标签本身即为短链接，无法判断该话题页在发帖时刻的实际内容与排序"
+      ],
+      "search_queries": [
+        "美国多所大学反战抗议 2018-10-23 news",
+        "美国多所大学反战抗议 2018-10-23 Twitter X reaction",
+        "美国多所大学反战抗议 2018-10-23 事件 背景 报道",
+        "美国多所大学反战抗议 2018-10-23"
+      ],
+      "web_evidence": [
+        {
+          "title": "抗议、占领和逮捕：哥伦比亚大学学生抗议风波如何升级 - 纽约时报中文网",
+          "snippet": "广告\n\n哥大一方面要保护校园里的学生，另一方面又要尊重其奉为圭臬的学术自由，在两者间找到平衡将是极为困难的。这所大学有众多犹太和阿拉伯学生，另外还拥有一个顶尖的中东研究院系，与以色列特拉维夫大学合作的双学位项目，以及可以上溯到上世纪60年代的学生行动主义历史。\n\n作为一名国际金融专家，沙菲克此前与哥大没有什么联系，她承认学校对10月7日哈马斯袭击后的情绪爆发缺乏准备。当时她的就职仪式刚刚过去没几天。然而随着抗议的升级，哈佛大学和宾夕法尼亚大学校长相继因12月在国会听证会上的拙劣表现而丢掉了工作，她渐渐开始采取更严厉的态度。\n\n校方在秋天取缔了两个学生团体——巴勒斯坦正义学生团体和犹太和平之声，这两个团体发起的声势浩大的抗议屡次违反校方的规定。本月，校方又对据称参与了一场名为“抵抗101”的活动的学生进行停学处理，该活动的讲者公开称赞了哈马斯。\n\n本月被传召到共和党领导的众议院教育和劳动力委",
+          "link": "https://cn.nytimes.com/usa/20240424/columbia-university-campus-protests",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "回顾肯特州立大学枪杀学生事件",
+          "snippet": "5月4号，上千学生在校园中心草坪集会。中午时分，荷枪实弹的国民警卫队员试图驱散集会，向人群发射催泪弹。学生则投掷石块反击或者捡起催泪弹扔向国民警卫队员。国民警卫队员端着上了刺刀的步枪，向示威者挺进。示威学生退出中心草坪，但是并没有散去，国民警卫队员的周围到处是愤怒的示威者以及旁观学生。突然，他们向人群开枪。据信射击只持续了十几秒，一共打了67枪。  \n  \n在被打死的四名学生中，有两名参加了抗议活动，另外两人是上课路过和旁观的学生。  \n  \n国民警卫队员事后辩称，他们担心生命受到威胁，因此开枪自卫。据当年的学生回忆，很多人当时以为国民警卫队员发射的是空心弹，没想到竟然是真枪实弹。  \n  \n\\调查报告：开枪没有道理\\  \n  \n枪击事件后，全美各地几百万大学生群起抗议，900多所大学停课。枪击事件壮大了反战运动，也加剧了美国国内的对立情绪。人们愤怒地将这起事件称为“五四屠杀”。但是也有人",
+          "link": "https://www.voachinese.com/a/a-21-w2009-06-01-voa75-61369072/1027438.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美國多所大學挺巴勒斯坦示威逾2千人被捕反越戰浪潮後最大 ...",
+          "snippet": "May 4, 2024 — 美媒統計，最近幾週已有2000多人在全美數十個大學校園被捕。美國總統拜登5月2日終於打破沉默，強調美國人有權示威，但沒有遂行暴力的權利。拜登也表示 ...Read more",
+          "link": "https://project.cna.com.tw/cards/20240503-campusprotests",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "1968年哥倫比亞大學學生抗議運動 - 维基百科，自由的百科全书",
+          "snippet": "6. ^ 6.0 6.1 6.2 6.3 6.4 6.5 Bradley, Stefan. Harlem vs. Columbia University: Black Student Power in the Late 1960s. New York, New York: University of Illinois. 2009: 5–19, 164–191  [2018-12-29]. ISBN 978-0-252-03452-7. （原始内容存档于2019-06-10）.\n7. ^ How Black Students Helped Lead the 1968 Columbia U. Strike Against Militarism & Racism 50 Years Ago. Democracy Now!.  [2018-10-22]. （原始内容存档于2018-10-22） （英",
+          "link": "https://zh.wikipedia.org/wiki/1968%E5%B9%B4%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E6%8A%97%E8%AD%B0%E9%81%8B%E5%8B%95",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美國大學爆發挺巴學潮反以哈戰爭為何演變成反猶太示威？",
+          "snippet": "May 13, 2024 — 以哈戰爭傷亡不斷攀升，超過40所美國大學爆發挺巴學潮，警方入校阻止示威持續，學潮發生範圍卻仍在擴大，甚至從反戰演變成反猶太行動。這波挺巴學潮從 ...Read more",
+          "link": "https://news.pts.org.tw/article/694823",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美国多校发起支持巴勒斯坦示威，警方介入导致多次冲突｜Whatsnew - 端傳媒 Initium Media",
+          "snippet": "## 美国政界立场对立\n\n23日，共和党参议员乔希·霍利（Josh Hawley）和汤姆·科顿（Tom Cotton）呼吁美国总统拜登出动国民警卫队来镇压哥伦比亚大学的抗议活动。科顿坚称，拜登“有责任负责并驱散这些暴徒”，这一请求也是在拜登上周谴责学生的“反犹主义”言论后提出的。随后包括共和党和部分民主党议员在内的政界人士持续对学生的反犹主义行为表示谴责，并多次呼吁哥伦比亚大学校长辞职，又要求教育部与司法部介入阻止校内支持巴勒斯坦的示威活动。（延伸阅读：《想像的“大屠杀”：美国社会多重现实里的“反犹主义”》）\n\n次日下午，国会众议院议长迈克·约翰逊（ Michael Johnson）访问了哥伦比亚大学，面对数百名发出嘘声的抗议者，约翰逊谴责这种示威活动为“暴民统治”，呼吁拜登采取行动。他还提到，如果局势无法控制，哥大校长应辞职，且不排除动用国民警卫队来清场。在约翰逊发表演讲时，台下的学生和",
+          "link": "https://theinitium.com/20240429-whatsnew-international-pro-palestine-protest-across-us-zh-hans",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美国大学抗议：从警方突袭哥伦比亚大学到席卷全美的校园运动 - BBC News 中文",
+          "snippet": "这次的营地规模比以前大了很多，从最初的几顶帐篷扩大成了一片拥挤的营地。营地有捐赠的自助餐、现场表演和在门口监视渗透者的“安保小组”。\n\n一天后，在哥大东北方70多英里（112公里）处康涅狄格州的另一所菁英学府耶鲁大学（Yale University），另一个抗议营成立了。\n\n到了这周中段，全美各地有数十所学校校园出现了示威活动，并一直持续到周末。美国警方周六表示，他们已经制止了位于波士顿的东北大学（Northeastern University）的另一场抗议活动，逮捕了约100人。\n\n哥伦比亚大学的学生点燃了一场全国性运动。\n\n此文包含Google YouTube提供的内容。由于这些内容会使用曲奇或小甜饼等科技，我们在加载任何内容前会寻求您的认可。 您可能在给与许可前愿意阅读Google YouTube小甜饼政策和隐私政策。 希望阅读上述内容，请点击“接受并继续”。\n\n结尾 YouTube",
+          "link": "https://www.bbc.com/zhongwen/simp/world-68918972",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美大學校園挺巴示威蔓延歐洲拜登發聲譴責反猶太言論",
+          "snippet": "面對這幾週美國大學校園的挺巴浪潮，美國總統拜登在7日指出，人們不應該忘記是哈瑪斯先對以色列人發動攻擊。而到目前為止，美國有近40所大學掀起紮營反戰 ...Read more",
+          "link": "https://www.youtube.com/watch?v=l85zxbR1mIc",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Dear university students in the United States of America ...",
+          "snippet": "Dear university students in the United States of America, you are standing on the right side of history.Read more",
+          "link": "https://x.com/khamenei_ir/status/1795963798831964411",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美國大學抗議：從警方突襲哥倫比亞大學到席捲全美的校園運動 - BBC News 中文",
+          "snippet": "此文包含Google YouTube提供的内容。由於這些内容會使用曲奇或小甜餅等科技，我們在加載任何内容前會尋求您的認可。 您可能在給予許可前希望閲讀Google YouTube曲奇政策和隱私政策。希望閲讀上述内容，請點擊“接受並繼續”。\n\n結尾 YouTube 帖子, 2\n\n無內容\n\n警方還在波士頓愛默生學院（Emerson College）、華盛頓特區的喬治·華盛頓大學（George Washington University）、紐約大學（New York University）和南加州大學（University of Southern California）對抗議者採取行動。\n\n這些抗議營呼籲大學管理方停止接收他們認為和加沙戰爭有關的公司的捐贈，切斷與以色列學術機構的聯繫，並呼籲正式停火。\n\n一些猶太裔學生和教師表示，他們擔心自己的安全。這些擔憂是促使包括沙菲克女士在內的大學官員報警",
+          "link": "https://www.bbc.com/zhongwen/trad/world-68918972",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2018-10-23",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "美国多所大学反战抗议",
+        "tavily_hits": 12
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "sejnowski",
+      "post_id": "283293985374605312",
+      "bid": "283293985374605312",
+      "date": "2012-12-24 19:32:04",
+      "topic": "脑活动图谱计划",
+      "text": "BAM: The Brain Activity Map is a national grand challenge to record from a million neurons wirelessly, scheduled to launch next year.",
+      "slot_key": "2012-12-24||脑活动图谱计划",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#BAM: The Brain Activity#",
+        "hashtag": "BAM: The Brain Activity",
+        "temporal_cutoff": "2012-12-24",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#BAM: The Brain Activity#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现",
+        "salient_cues_in_feed": [
+          "BAM",
+          "Brain Activity Map",
+          "national grand challenge",
+          "record from a million neurons wirelessly",
+          "scheduled to launch next year"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "神经科学的神圣新使命——绘制大脑活动图谱成为继人类基因组计划之后最富挑战性的任务_共产党员网",
+          "url": "https://news.12371.cn/2013/04/14/ARTI1365906566504539.shtml",
+          "snippet": "HCP启动于2010年，是由美国国立卫生研究院资助的一项为期5年的研究计划。它旨在绘制大脑不同区域间的主线路图，然后揭示这些连接在个体间的差异，2012年12月《科学》杂志将其列为2013年最值得关注的6大科学领域之一。",
+          "role": "corroboration",
+          "as_of": "2012-12-24"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "national grand challenge",
+            "scientific initiative"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "2012年12月《科学》杂志将大脑连接组研究列为2013年最值得关注的6大科学领域之一，脑活动图谱绘制被呈现为继人类基因组计划之后最富挑战性的任务。",
+          "actors_groups": [
+            "美国国立卫生研究院",
+            "华盛顿大学",
+            "哈佛大学",
+            "麻省总医院"
+          ],
+          "cues": [
+            "Brain Activity Map",
+            "HCP",
+            "人类基因组计划"
+          ]
+        }
+      },
+      "theory_coordinates": [
+        "agenda_setting",
+        "framing",
+        "diffusion_innovation",
+        "uncertainty_reduction"
+      ],
+      "summary": "用户通过微博话题标签页进入#BAM: The Brain Activity#话题，看到关于脑活动图谱计划的科学倡议信息后，以原创形式发布了一条介绍BAM计划目标与启动时间的英文推文。",
+      "evidence_gaps": [
+        "post_cutoff_leakage_ignored: 检索片段中多个来源（如脑图谱研究协议2025、脑医汇BRAIN 2.0、YouTube脑图谱大科学计划等）均晚于2012-12-24截止日期，已忽略",
+        "话题标签页在发帖时刻的具体呈现内容无直接证据",
+        "用户发帖前实际浏览的微博信息流内容未知",
+        "BAM计划在2012年12月24日前的官方公告或媒体报道未在检索片段中出现"
+      ],
+      "search_queries": [
+        "脑活动图谱计划 2012-12-24 news",
+        "脑活动图谱计划 2012-12-24 Twitter X reaction",
+        "脑活动图谱计划 2012-12-24 事件 背景 报道",
+        "脑活动图谱计划 2012-12-24"
+      ],
+      "web_evidence": [
+        {
+          "title": "脑图谱研究协议：2025年标准",
+          "snippet": "71% 的 BRAIN 计划资助机会集中在技术开发上。\n 43% 的 BRAIN 计划资助机会需要临床试验。\n BRAIN 计划资助机会的平均资助期限为 24 个月。\n\n这些数字显示了有多少资金可用于脑图谱研究。它使用 神经影像技术 并遵循严格的 脑映射协议.\n\n## 跨学科脑图谱绘制方法\n\n脑活动图谱绘制是一个复杂的领域，需要神经科学、技术等领域的通力合作。BRAIN 计划分享了在脑图谱绘制领域开展合作的见解，并展示了神经系统检查对于理解大脑运作方式和行为方式的重要性。\n\n脑图技术取得了长足进步，例如出现了新的工具和方法。认知心理学的帮助也加深了我们对大脑功能和行为的认识。这让我们能够更好地理解脑图研究的结果。\n\n共同绘制脑图谱的一些主要好处包括：\n\n 增进对大脑功能和行为的理解\n 开发大脑活动映射的新工具和技术\n 增强对脑图谱研究结果的解释\n\n通过将大脑活动图谱与神经系统检查相结合，研",
+          "link": "https://editverse.com/zh-CN/%E8%84%91%E5%9B%BE%E8%B0%B1%E7%A0%94%E7%A9%B6%E5%8D%8F%E8%AE%AE-2025-%E6%A0%87%E5%87%86",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Science丨美国脑计划2.0启动！投5亿美元，绘制史上最全人脑细胞图谱 - 脑医汇",
+          "snippet": "一个是「脑科学计划之细胞图谱网络项目」(BRAIN Initiative Cell Census Network, BICAN)，另一个是「精确靶向脑细胞的工具和技术」。\n\n未来5年，BICAN项目将获得5亿美元的资助，旨在绘制世界最全面的脑细胞图谱。\n\n研究院认为，这些BRAIN 2.0项目旨在改变我们对脑细胞类型的理解，以及获取它们所需的精确工具，使我们离了解人脑的复杂工作机制又近了一步。\n\n关注人类「大脑黑箱」的新项目\n\n「脑科学计划」(BRAIN Initiative)，它于2013年由时任美国总统奥巴马发起，至今已走过了9个年头。\n\n「脑科学计划」是从关注工具开始，之后，「脑科学计划」发起了「大脑细胞普查网络项目」，这一项目旨在对人类、猴子和小鼠大脑中的不同细胞类型进行全面识别和编目。\n\n随着这一项目开展了3年，2021年10月，在这一领域的研究轰然开炸。Nature更是16篇论",
+          "link": "https://www.brainmed.com/info/detail?id=32799",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "活动计划PPT素材-活动计划PPT图片-活动计划PPT设计模板-昵图网",
+          "snippet": "Title: 活动计划PPT素材-活动计划PPT图片-活动计划PPT设计模板-昵图网\n首页|设计|摄影|多媒体 | AI生画. # 昵图网 www.nipic.com 共享创造价值. 所有图片; \"所有图片\") 共享图; \"共享图\") 原创交易; \"原创交易图\") 商用图片; \"商用图片\") AI图片; \"AI图片\") 商业视频. 所有图片; \"所有图片\") 共享图; \"共享图\") 原创交易图; \"原创交易图\") 商用图片; \"商用图片\") 包年套餐; \"包年套餐\") AI图片; \"AI图片\") 商业视频NEW. *  四元素 青绿色 插座 模板 放映幻灯片 迅速张贴 选择键 主题演讲 信息图表 小册子. 四元素 青绿色 插座 模板 放映幻灯片 迅速张贴 选择键 主题演讲 信息图表 小册子 商用作品. *1**2**3**4**5*…*99*. 关于昵图| 网站公约| 网站声明| 帮助中心",
+          "link": "https://soso.nipic.com/q_%E6%B4%BB%E5%8A%A8%E8%AE%A1%E5%88%92PPT_g_0.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "活动计划素材-活动计划图片-活动计划设计模板-昵图网",
+          "snippet": "Title: 活动计划素材-活动计划图片-活动计划设计模板-昵图网\n首页|设计|摄影|多媒体 | AI生画. # 昵图网 www.nipic.com 共享创造价值. 所有图片; \"所有图片\") 共享图; \"共享图\") 原创交易; \"原创交易图\") 商用图片; \"商用图片\") AI图片; \"AI图片\") 商业视频. 所有图片; \"所有图片\") 共享图; \"共享图\") 原创交易图; \"原创交易图\") 商用图片; \"商用图片\") 包年套餐; \"包年套餐\") AI图片; \"AI图片\") 商业视频NEW. * 橡胶印章和2018 2019议程印在牛皮纸上，3d插画。议程或计划 2018 2019 背景为再生纸. 橡胶印章和2018 2019议程印在牛皮纸上，3d插画。议程或计划 2018 2019 背景为再生纸 商用作品. *  五彩纸屑 美因河 计划书 流行音乐会 水平画幅 注视镜头 夏天 周末活",
+          "link": "https://soso.nipic.com/q_%E6%B4%BB%E5%8A%A8%E8%AE%A1%E5%88%92_g_0.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "逃跑计划重来简谱-千图网",
+          "snippet": "Title: 逃跑计划重来简谱-千图网\n# 逃跑计划重来简谱. * 重来吉他谱(图片谱,黑皮吉他屋,弹唱,教学)_逃跑计划_重来1.jpg. #### 重来吉他谱(图片谱,黑皮吉他屋,弹唱,教学)\\_逃跑计划\\_重来1.jpg. #### 吉他谱逃跑计划夜空中最亮的星. #### 刘欢从头再来简谱. #### 复音c调口琴24孔流行经典歌曲简谱. #### 椰壳鼓手逃跑计划重来架子鼓谱高清动态鼓谱. #### 海鸥吉他谱逃跑计划g调原版编配吉他弹唱六线谱. #### 大一班第八——十一周主要教学内容主题. #### 一万次悲伤吉他谱. #### 一万次悲伤简谱-逃跑计划演唱1. #### 问一首歌名,想不起名字. * 《夜空中最亮的星》简谱 逃跑计划 夜空中最亮的星 简谱 逃跑计划. #### 《夜空中最亮的星》简谱 逃跑计划 夜空中最亮的星 简谱 逃跑计划. #### 海鸥吉他谱逃跑计划",
+          "link": "https://ecywang.com/pic/%E9%80%83%E8%B7%91%E8%AE%A1%E5%88%92%E9%87%8D%E6%9D%A5%E7%AE%80%E8%B0%B1",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "神经科学的神圣新使命——绘制大脑活动图谱成为继人类基因组计划之后最富挑战性的任务_共产党员网",
+          "snippet": "HCP启动于2010年，是由美国国立卫生研究院资助的一项为期5年的研究计划。它旨在绘制大脑不同区域间的主线路图，然后揭示这些连接在个体间的差异，2012年12月《科学》杂志将其列为2013年最值得关注的6大科学领域之一。HCP的具体研究工作分两组进行：第一组为华盛顿大学，预计投资3000万美元；另一组则为哈佛大学和麻省总医院等机构，投资850万美元。HCP是目前脑成像领域最大的项目，主要利用磁共振成像等现代脑成像技术，通过扫描1200名健康成年人（其中包括300对双胞胎）的大脑，比较他们大脑各区域神经连接的不同，以及如何由此导致认知和行为方面的个体差异，最终描绘出人类大脑的所有神经连接情况。2013年1月，美国麻省总医院科学家公布了首批大脑成像成果。\n\n　　HCP是在毫米水平上研究连接大脑各区域的脑纤维，绘制出不同大脑区域之间的主线路图，进而揭示这些连接在个体间的差异。与之不同的是，BAM",
+          "link": "https://news.12371.cn/2013/04/14/ARTI1365906566504539.shtml",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "脑图谱大科学计划进入关键阶段",
+          "snippet": "中国科学院脑科学与智能技术卓越创新中心副主任 师咏勇：现在我们做的脑图谱计划，您就可以理解成生命科学领域里的另一个基因组计划，而它比基因组计划的要求更高。因为人脑有860亿个神经元，这些神经元之间的联接甚至被认为要有860亿再乘以10的4次方这样一个数量级，这个数据是惊人的大。而且这一些联接和什么样的脑功能有关，和什么样的脑疾病的发生是有关系的，还有待大量的研究和验证。所以从这个角度来说，这等于说会开创神经科学和脑科学研究的全新的领域和世界。\n\n中国科学院院士、中国科学院脑科学与智能技术卓越创新中心学术主任 蒲慕明：我们是希望在10年之内，完全把猕猴的全脑联接图谱搞清楚，完全把猕猴的各个脑区，它所有种类的神经元全脑的联接做出来，更进一步理解人脑的功能，包括解决疾病的问题。希望这个计划完成之后，我们能够把阿尔茨海默病的发病年龄往后延，能把它往后再推5年到10年，这是我们的目标。就要早发现病症",
+          "link": "https://www.youtube.com/watch?v=PydAOD3kae8",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Visualizing Eight Years Of Twitter’s Evolution: 2012-2019 – The GDELT Project",
+          "snippet": "The graph below zooms into the Jan. 2018 to Sept. 2019 period, showing how the steady decrease in daily tweet volume that began in July 2013 reached its end on November 16, 2018. Beginning the following day through December 1st it increased then leveled off around 320 million tweets a day through December 27th. On December 28th it jumped vertically and then climbed slowly over the next three month",
+          "link": "https://blog.gdeltproject.org/visualizing-eight-years-of-twitters-evolution-2012-2019",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Visualizing the Evolution of Twitter (X.com) Conversations",
+          "snippet": "based on the datasets. Our methodology focuses on three primary interaction types on Twitter: replies, retweets, and mentions. While Twitter interactions also include quotes, we opted to focus on replies, retweets, and mentions for this study. The nature of quotes, which often reframe the original content within a new narrative or context, often adds an additional layer of complexity to sentiment ",
+          "link": "https://arxiv.org/pdf/2407.03484",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Twitter Use 2012",
+          "snippet": "May 31, 2012 — Twitter use within the overall population remained steady over the last year, and usage rates within most major demographic groups changed ...Read more",
+          "link": "https://www.pewresearch.org/internet/2012/05/31/twitter-use-2012",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2012-12-24",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "脑活动图谱计划",
+        "tavily_hits": 16
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "sejnowski",
+      "post_id": "17047862385",
+      "bid": "17047862385",
+      "date": "2010-06-25 22:25:59",
+      "topic": "Computational Neurobiology home page",
+      "text": "Computational Neurobiology home page is at cnl_salk",
+      "slot_key": "2010-06-25||Computational Neurobiology home page",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Computational Neurobiolo#",
+        "hashtag": "Computational Neurobiolo",
+        "temporal_cutoff": "2010-06-25",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Computational Neurobiolo#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页 #Computational Neurobiolo#",
+        "salient_cues_in_feed": [
+          "Computational Neurobiolo",
+          "Computational Neuroscience",
+          "Neuroscience"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Computational Neuro (@CompNeuro) / Posts / X - Twitter",
+          "url": "https://x.com/CompNeuro",
+          "snippet": "Theoretical Neuroscience. Information in Biological Neural Networks. Passionate about understanding and changing brain activity in humans?",
+          "role": "账号简介，呈现为计算神经科学主题账号",
+          "as_of": "不晚于发帖日"
+        },
+        {
+          "title": "Neuroscience News (@NeuroscienceNew) / X",
+          "url": "https://x.com/NeuroscienceNew?lang=en",
+          "snippet": "Official Neuroscience News Twitter. Brain research news articles on neuroscience, psychology, AI, neurology, brain cancer, robotics, mental health & science. Joined April 2009",
+          "role": "账号简介，呈现为神经科学新闻账号",
+          "as_of": "不晚于发帖日"
+        },
+        {
+          "title": "Eric Prager (@Neuroscience) / Posts / X - Twitter",
+          "url": "https://x.com/Neuroscience",
+          "snippet": "Neuroscientist, translational scientist, former Editor of @jneuroscires. Read how to conduct rigorous and transparent research.",
+          "role": "账号简介，呈现为神经科学家账号",
+          "as_of": "不晚于发帖日"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "uses_gratifications",
+        "agenda_setting"
+      ],
+      "summary": "用户通过微博话题标签页 #Computational Neurobiolo# 进入，发布了一条指向 cnl_salk 计算神经生物学主页的原创信息。发帖前可证据支持的传播路径与呈现环境不足，无法确认其具体接触的信息源。",
+      "evidence_gaps": [
+        "检索片段中多数信息源（如 Simons Foundation 2018、Sapien Labs、PMC 文章等）明显晚于2010年发帖时间，已忽略",
+        "缺少发帖前微博平台内该话题标签页的实际呈现内容",
+        "缺少用户关注列表、转发链或上游源微博，无法还原具体传播路径",
+        "缺少2010年6月25日前计算神经生物学领域在微博上的讨论证据",
+        "kept_3_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "Computational Neurobiology home page 2010-06-25 news",
+        "Computational Neurobiology home page 2010-06-25 Twitter X reaction",
+        "Computational Neurobiology home page 2010-06-25 事件 背景 报道",
+        "Computational Neurobiology home page 2010-06-25"
+      ],
+      "web_evidence": [
+        {
+          "title": "The State of Computational Neuroscience",
+          "snippet": "Simons Foundation\n\n Home\n Neuroscience\n Global Brain\n News\n\n# The State of Computational Neuroscience\n\nAdrienne Fairhall, a computational neuroscientist at the University of Washington, reflects on how the field has evolved and on the biggest issues yet to be solved. [...] discovering new ideas about computation from biology. [...] Computational neuroscience is one of the most rapidly growing subf",
+          "link": "https://www.simonsfoundation.org/2018/01/02/the-state-of-computational-neuroscience",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The Crisis of Computational Neuroscience - Sapien Labs | Shaping the Future of Mind Health",
+          "snippet": "The author, Danko Nikolić, is affiliated with savedroid AG, Frankfurt Institute for Advanced Studies and Max Planck Institute for Brain Research\n\n### References\n\nBenayoun, M., Cowan, J. D., van Drongelen, W., & Wallace, E. (2010). Avalanches in a stochastic model of spiking neurons. PLoS computational biology, 6(7), e1000846.\n\nBotvinick, M. M., & Plaut, D. C. (2006). Short-term memory for serial o",
+          "link": "https://sapienlabs.org/the-crisis-of-computational-neuroscience",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Computational neuroscience: a frontier of the 21st century",
+          "snippet": "Skip to main content\n\nImage 1\n\nAn official website of the United States government\n\nHere's how you know\n\nHere's how you know\n\nImage 2\n\nOfficial websites use .gov\n\n A .gov website belongs to an official government organization in the United States.\n\nImage 3\n\nSecure .gov websites use HTTPS\n\n A lock ( ) or  means you've safely connected to the .gov website. Share sensitive information only on officia",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8288724",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Computational neuroscience news and perspectives | The Transmitter: Neuroscience News and Perspectives",
+          "snippet": "Agentic coding makes it possible to specify a neuroscience model in hours instead of months. Seven neuroscientists weigh in on what that tectonic change may bring to the field.\n\nIllustration of pixelated AI models.  \n\nThe big picture \n\ncomments\n\n### Models at the speed of thought: How AI coding is reshaping theoretical neuroscience [...] In a 1982 paper, the Nobel laureate created his namesake rec",
+          "link": "https://www.thetransmitter.org/computational-neuroscience",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Computational Neuroscience Archives - MIT McGovern Institute",
+          "snippet": "For that study, the researchers devised a computational model that analyzes neural activity recorded from the brain. This technique allowed them to determine how the brain responds to perturbations such as an auditory tone or other sensory input, and how long it takes to return to its baseline stability. [...] The wiring and rewiring of the brain never ends. Neural pathways are constantly being re",
+          "link": "https://mcgovern.mit.edu/research-area/computational-neuroscience",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Computational Neuro (@CompNeuro) / Posts / X - Twitter",
+          "snippet": "Theoretical Neuroscience. Information in Biological Neural Networks. Passionate about understanding and changing brain activity in humans?",
+          "link": "https://x.com/CompNeuro",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Neurofeedback on twitter: Evaluation of the scientific credibility and communication about the technique",
+          "snippet": "Skip to main content\n\nImage 1\n\nAn official website of the United States government\n\nHere's how you know\n\nHere's how you know\n\nImage 2\n\nOfficial websites use .gov\n\n A .gov website belongs to an official government organization in the United States.\n\nImage 3\n\nSecure .gov websites use HTTPS\n\n A lock ( ) or  means you've safely connected to the .gov website. Share sensitive information only on officia",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10432958",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Eric Prager (@Neuroscience) / Posts / X - Twitter",
+          "snippet": "Eric Prager (@Neuroscience) Neuroscientist, translational scientist, former Editor of @jneuroscires. Read how to conduct rigorous and transparent research.",
+          "link": "https://x.com/Neuroscience",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Neuroscience News (@NeuroscienceNew) / X",
+          "snippet": "Log inSign up\n\nNeuroscience News\n\n\n\nuser avatar\n\nNeuroscience News\n\nOfficial Neuroscience News Twitter. Brain research news articles on neuroscience, psychology, AI, neurology, brain cancer, robotics, mental health & science.\n\nHouston, TX\n\nneurosciencenews.com\n\nJoined April 2009\n\n5,018\n\nFollowing505.1K\n\nFollowers\n\nRepliesRepliesArticlesArticlesMediaMedia\n\n Pinned\n\n  user avatar\n\n  Neuroscience New",
+          "link": "https://x.com/NeuroscienceNew?lang=en",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Frontiers in Computational Neuroscience",
+          "snippet": "## Research Topics\n\nSubmission open\n\n### Manifold Geometry and Scalable Computation for Brain Dynamics\n\nSubmission open\n\n### Computational and Theoretical Approaches to Autism: From Neural Mechanisms to Behavior\n\nSubmission open\n\n### The regulatory continuum: computational mechanisms of adaptive, pathological, and therapeutic brain state transitions\n\nSubmission open\n\n### Modeling Sensory Encoding:",
+          "link": "https://www.frontiersin.org/journals/computational-neuroscience",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2010-06-25",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Computational Neurobiology home page",
+        "tavily_hits": 17
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    }
+  ],
+  "slots": {},
+  "retrieval": "tavily",
+  "num_posts": 3
+}

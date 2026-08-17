@@ -1,0 +1,909 @@
+[
+  {
+    "id": "canon_elm",
+    "name": "Elaboration Likelihood Model (ELM)",
+    "authors": "Petty & Cacioppo",
+    "year": 1986,
+    "coordinate": "motivated_reasoning",
+    "source": "canonical",
+    "weight": 1.4,
+    "trigger": [
+      "说服",
+      "论证",
+      "涉入",
+      "态度",
+      "线索",
+      "persuasion",
+      "elaboration",
+      "central",
+      "peripheral",
+      "argument"
+    ],
+    "constructs": [
+      "elaboration likelihood",
+      "central route",
+      "peripheral route",
+      "argument quality",
+      "involvement",
+      "need for cognition"
+    ],
+    "conditions": [
+      "高议题涉入或高认知需求 → 中心路径",
+      "低涉入或干扰高 → 边缘路径",
+      "信息源线索、情绪、数量等作为边缘线索"
+    ],
+    "propositions": [
+      "态度改变可通过中心或边缘两条路径发生",
+      "中心路径形成的态度更持久、更能预测行为",
+      "边缘线索在低精细加工时主导态度"
+    ],
+    "outcomes": [
+      "态度改变",
+      "态度强度",
+      "行为意图",
+      "对纠正信息的接受度"
+    ],
+    "summary": "ELM 认为说服效果取决于受众精细加工（elaboration）的动机与能力。高涉入时走中心路径，主要依据论证质量；低涉入时走边缘路径，依赖来源可信度、情绪、信息数量等线索。对辟谣/风险沟通：高涉入用户需要机制与证据；低涉入用户更吃可视化与来源权威。",
+    "mechanism": "动机×能力决定 elaboration likelihood；高则整合论据更新态度，低则依赖启发式线索。",
+    "prediction": "若用户对该事件高涉入，详细证据与因果解释更有效；若低涉入，清晰可视化与可信来源更能推动接受。",
+    "boundary": "不解释深度身份威胁下的动机性拒绝；与社会身份理论叠加时需另判。",
+    "url": "https://doi.org/10.1016/S0065-2601(08)60214-2"
+  },
+  {
+    "id": "canon_inoculation",
+    "name": "Inoculation Theory",
+    "authors": "McGuire",
+    "year": 1964,
+    "coordinate": "inoculation",
+    "source": "canonical",
+    "weight": 1.35,
+    "trigger": [
+      "接种",
+      "预告",
+      "驳斥",
+      "谣言手法",
+      "prebunk",
+      "inoculation",
+      "refutational",
+      "forewarning"
+    ],
+    "constructs": [
+      "threat",
+      "refutational preemption",
+      "resistance",
+      "forewarning",
+      "attitude strength"
+    ],
+    "conditions": [
+      "在强误导到达前先暴露弱化版攻击",
+      "同时提供反驳模板",
+      "适用于可预见的误导话术"
+    ],
+    "propositions": [
+      "预告威胁会激发防御动机",
+      "预先反驳能增强后续抵抗",
+      "主动生成反驳比被动阅读更强"
+    ],
+    "outcomes": [
+      "对误导的抵抗力上升",
+      "态度更稳",
+      "识别操纵手法能力上升"
+    ],
+    "summary": "接种理论借用免疫隐喻：先让人接触弱化的攻击论点并学会反驳，可提高对后续强误导的抵抗。当代 prebunking/debunking 手册大量基于此。对辟谣：先讲「常见话术」，再给事实，往往比事后硬怼更稳。",
+    "mechanism": "威胁感知激活防御动机 + 预置反驳脚本 → 后续误导更难改态度。",
+    "prediction": "先揭露夸张图表/选择性截取等手法，再给完整证据，比只贴反驳事实更有效。",
+    "boundary": "对已高度内化且与身份绑定的信念，单次接种不够，需重复与社会支持。",
+    "url": ""
+  },
+  {
+    "id": "canon_risk_psychometric",
+    "name": "Psychometric Paradigm of Risk Perception",
+    "authors": "Slovic",
+    "year": 1987,
+    "coordinate": "risk_perception",
+    "source": "canonical",
+    "weight": 1.4,
+    "trigger": [
+      "风险",
+      "恐惧",
+      "危险",
+      "未知",
+      "可控",
+      "崩溃",
+      "危机",
+      "risk",
+      "dread",
+      "unknown",
+      "hazard"
+    ],
+    "constructs": [
+      "dread risk",
+      "unknown risk",
+      "voluntariness",
+      "controllability",
+      "catastrophic potential"
+    ],
+    "conditions": [
+      "风险被描述为不可控、不公平、灾难性",
+      "专家概率与公众感知系统分离",
+      "媒体放大 dread 线索"
+    ],
+    "propositions": [
+      "公众风险判断由心理维度驱动，而非只看客观概率",
+      "高 dread + 高 unknown 会抬升风险感知",
+      "感知风险驱动政策偏好与拒绝/接受"
+    ],
+    "outcomes": [
+      "感知风险升高",
+      "支持严管或抵制",
+      "对安抚信息怀疑"
+    ],
+    "summary": "心理测量范式指出，人们用 dread（恐惧、灾难性、不公）与 unknown（新颖、不可观测、延迟）等维度评估风险。因此「经济崩溃」「技术失控」类叙事即便概率低，也可能因高 dread 而被强烈感知。辟谣若只报数字、不处理恐惧结构，常无效。",
+    "mechanism": "刺激激活 dread/unknown 维度 → 感知风险偏离统计风险 → 态度与行为跟感知走。",
+    "prediction": "夸张崩溃图表会抬高 dread，促使用户更排斥安抚式辟谣，除非同时降低不确定与恐惧。",
+    "boundary": "文化世界观（cultural cognition）会调节同一风险的 dread 解读。",
+    "url": "https://doi.org/10.1126/science.3563507"
+  },
+  {
+    "id": "canon_uncertainty_reduction",
+    "name": "Uncertainty Reduction & Clarity Effects",
+    "authors": "Berger & Calabrese; visual persuasion literature",
+    "year": 1975,
+    "coordinate": "uncertainty_reduction",
+    "source": "canonical",
+    "weight": 1.45,
+    "trigger": [
+      "不确定",
+      "可视化",
+      "清楚",
+      "证据",
+      "图表",
+      "明白",
+      "uncertainty",
+      "visual",
+      "clarity",
+      "ambiguity"
+    ],
+    "constructs": [
+      "uncertainty",
+      "information seeking",
+      "ambiguity aversion",
+      "visual clarity",
+      "epistemic confidence"
+    ],
+    "conditions": [
+      "信息模糊、冲突、多源矛盾",
+      "提供结构化可视化或可核验证据",
+      "用户有降低不确定的动机"
+    ],
+    "propositions": [
+      "人有降低不确定的动机",
+      "明确证据可提高认知信心",
+      "可视化若降低歧义，可提升纠正接受度"
+    ],
+    "outcomes": [
+      "不确定感下降",
+      "对纠正信息接受度上升",
+      "信息寻求行为变化"
+    ],
+    "summary": "不确定感会阻碍态度更新。开会假设指出：明确可视化结果降低不确定感，从而更易接受辟谣。关键是可视化必须真正消歧，而不是用更夸张图像抬高 dread。与信任修复结合时，透明证据链最有效。",
+    "mechanism": "清晰可核验信息 → 降低认知不确定 → 提高对纠正主张的可接受性。",
+    "prediction": "同等事实下，结构清晰、可核对的可视化比含糊叙述更能促成接受辟谣。",
+    "boundary": "若与核心身份/价值冲突，仅降不确定不足；可能触发动机性推理。",
+    "url": ""
+  },
+  {
+    "id": "canon_trust_repair",
+    "name": "Trust Repair after Violation",
+    "authors": "Kim, Dirks & Cooper",
+    "year": 2009,
+    "coordinate": "trust",
+    "source": "canonical",
+    "weight": 1.35,
+    "trigger": [
+      "信任",
+      "辟谣",
+      "澄清",
+      "造假",
+      "失信",
+      "trust",
+      "repair",
+      "apology",
+      "integrity",
+      "competence"
+    ],
+    "constructs": [
+      "competence-based trust",
+      "integrity-based trust",
+      "attribution",
+      "apology",
+      "evidence",
+      "denial"
+    ],
+    "conditions": [
+      "信任已被破坏",
+      "违规被归因为能力不足或诚信问题",
+      "修复方能提供证据或承担责任"
+    ],
+    "propositions": [
+      "能力型违规与诚信型违规需要不同修复策略",
+      "证据与透明有助于能力归因修复",
+      "诚信违规更难修复，否认/甩锅常失败"
+    ],
+    "outcomes": [
+      "信任恢复程度",
+      "对后续信息的采信",
+      "关系继续/断裂"
+    ],
+    "summary": "信任修复研究区分能力失败与诚信失败两类归因。辟谣场景里，若公众认为是「说错/数据不足」，透明更正与可核验证据有效；若认为「故意骗」，仅贴事实往往不够，还需程序公正、问责与持续可信行为。匹配时结合用户对来源的历史信任排序。",
+    "mechanism": "归因类型决定修复策略有效性：能力→展示能力与证据；诚信→承认、惩罚与制度约束。",
+    "prediction": "清晰证据链 + 低不确定可视化，更利于修复能力型不信任；对诚信质疑需额外公正程序。",
+    "boundary": "深度党派/身份对立时，信任修复可能被看作站队。",
+    "url": ""
+  },
+  {
+    "id": "canon_identity_threat",
+    "name": "Social Identity Threat & Motivated Reasoning",
+    "authors": "Tajfel & Turner; Kunda",
+    "year": 1990,
+    "coordinate": "identity_threat",
+    "source": "canonical",
+    "weight": 1.45,
+    "trigger": [
+      "爱国",
+      "辱华",
+      "我们",
+      "他们",
+      "精日",
+      "西方",
+      "identity",
+      "national",
+      "in-group",
+      "threat",
+      "motivated"
+    ],
+    "constructs": [
+      "social identity",
+      "identity threat",
+      "motivated reasoning",
+      "in-group favoritism",
+      "directional goals"
+    ],
+    "conditions": [
+      "信息被解读为贬低内群体",
+      "议题与身份符号绑定",
+      "存在方向性结论目标"
+    ],
+    "propositions": [
+      "身份威胁会启动防御性信息加工",
+      "动机性推理优先保护认同而非更新信念",
+      "同等证据在威胁框架下更易被拒"
+    ],
+    "outcomes": [
+      "抵制纠正",
+      "反弹效应",
+      "强化原立场",
+      "攻击信息源"
+    ],
+    "summary": "社会身份威胁与动机性推理指出：当纠正/批评触及群体身份时，加工目标从「求真」转向「护认同」。同一套事实在中性框架可被接受，在辱骂或站队框架下会反弹。个体建模应先判断刺激是否激活内外群对立，再决定证据密度与措辞。",
+    "mechanism": "身份威胁 → 方向性动机 → 选择性采信/反驳 → 立场极化。",
+    "prediction": "带身份羞辱色彩的纠正更易失败；去身份化、强调共享目标的表述更易被听。",
+    "boundary": "非身份议题或低认同显著时，该机制权重应下降。",
+    "url": ""
+  },
+  {
+    "id": "canon_framing",
+    "name": "Framing Theory (Media Effects)",
+    "authors": "Entman; equivalency/emphasis framing literature",
+    "year": 1993,
+    "coordinate": "framing",
+    "source": "canonical",
+    "weight": 1.3,
+    "trigger": [
+      "框架",
+      "表述",
+      "强调",
+      "叙事角度",
+      "framing",
+      "frame",
+      "emphasis",
+      "equivalency"
+    ],
+    "constructs": [
+      "problem definition",
+      "causal interpretation",
+      "moral evaluation",
+      "treatment recommendation",
+      "emphasis framing"
+    ],
+    "conditions": [
+      "同一事实可用不同框架呈现",
+      "媒体/意见领袖选择强调某些面向",
+      "受众缺乏替代框架"
+    ],
+    "propositions": [
+      "框架通过选择与凸显影响人们如何理解事件",
+      "等价框架（收益/损失）可改变风险偏好",
+      "竞争框架下效果取决于可及性与适用性"
+    ],
+    "outcomes": [
+      "问题归因变化",
+      "政策偏好变化",
+      "情绪与责任判断变化"
+    ],
+    "summary": "框架理论强调：媒体效果关键不只是「给什么事实」，而是「突出什么面向」（问题定义、因果、道德、对策）。崩溃论图表常是损失/灾难框架；辟谣可用阶段性波动、外部冲击、可核对指标等竞争框架重构。匹配时看用户历史更吃哪种框架语言。",
+    "mechanism": "选择+凸显特定面向 → 改变因果与道德解读 → 改变态度。",
+    "prediction": "把「崩溃」框架改写为「波动+可核对指标」框架，可降低恐慌式接受错误结论。",
+    "boundary": "强党派媒体生态中，框架效果受选择性接触制约。",
+    "url": ""
+  },
+  {
+    "id": "canon_continued_influence",
+    "name": "Continued Influence Effect of Misinformation",
+    "authors": "Johnson & Seifert; Lewandowsky et al.",
+    "year": 1994,
+    "coordinate": "misinformation",
+    "source": "canonical",
+    "weight": 1.4,
+    "trigger": [
+      "谣言",
+      "假新闻",
+      "辟谣",
+      "撤回",
+      "纠正",
+      "misinformation",
+      "debunk",
+      "retraction",
+      "continued influence"
+    ],
+    "constructs": [
+      "mental model",
+      "continued influence",
+      "retraction",
+      "alternative causal account",
+      "familiarity backfire"
+    ],
+    "conditions": [
+      "错误信息已进入因果心智模型",
+      "纠正只否定不提供替代解释",
+      "重复错误表述可能增加熟悉感"
+    ],
+    "propositions": [
+      "纠正后错误信息仍可能继续影响推理",
+      "提供替代因果解释比单纯否认更有效",
+      "重复谣言标题有熟悉性风险"
+    ],
+    "outcomes": [
+      "错误信念残留",
+      "推理仍引用旧因",
+      "纠正部分成功"
+    ],
+    "summary": "持续影响效应：错误信息进入因果心智模型后，即使看到撤回，仍可能被用来补全故事。有效纠正=明确否定+替代因果解释+避免无谓重复谣言金句。对个体预测：只喊「假的」的回应较弱；给出「真实机制是什么」更贴近有效辟谣路径。",
+    "mechanism": "心智模型需要完整因果；空洞撤回留下缺口，旧误导被继续调用。",
+    "prediction": "只说「这是假的」效果弱；说明「真实机制/数据来源是什么」才能降低残留影响。",
+    "boundary": "与世界观/身份强绑定的误导，需结合信任与身份策略。",
+    "url": ""
+  },
+  {
+    "id": "canon_fairness",
+    "name": "Procedural and Distributive Fairness",
+    "authors": "Tyler; equity theory",
+    "year": 2000,
+    "coordinate": "fairness",
+    "source": "canonical",
+    "weight": 1.25,
+    "trigger": [
+      "公平",
+      "双标",
+      "不公",
+      "程序",
+      "特权",
+      "歧视",
+      "fair",
+      "justice",
+      "equity",
+      "procedural"
+    ],
+    "constructs": [
+      "procedural justice",
+      "distributive justice",
+      "voice",
+      "neutrality",
+      "respect",
+      "equity"
+    ],
+    "conditions": [
+      "权威或媒体被感知为双标",
+      "结果分配不公",
+      "程序不透明"
+    ],
+    "propositions": [
+      "程序公正提升对权威决定的服从与信任",
+      "感知双标会否定事实纠正的合法性",
+      "给声音/中立程序可缓冲不利结果"
+    ],
+    "outcomes": [
+      "拒绝采信",
+      "愤怒",
+      "质疑动机",
+      "选择性抵制"
+    ],
+    "summary": "程序公正与分配公正解释为何「事实正确」仍可能被拒：若用户感到双标、选择性执法或不透明，会先否定信息源合法性。辟谣需强调一致标准、多方核验与可申诉程序。与身份威胁叠加时，公平话术也可能被读成另一套站队。",
+    "mechanism": "不公感知 → 否定信息源合法性 → 抵制内容更新。",
+    "prediction": "被框成双标的纠正会失败；展示一贯标准与多方核验可提高接受度。",
+    "boundary": "与身份威胁叠加时，公平框架可能被解读为另一套站队话术。",
+    "url": ""
+  },
+  {
+    "id": "canon_tech_threat",
+    "name": "Technology Threat Appraisal",
+    "authors": "technology acceptance / threat literature",
+    "year": 2010,
+    "coordinate": "technology_threat",
+    "source": "canonical",
+    "weight": 1.2,
+    "trigger": [
+      "AI",
+      "算法",
+      "监控",
+      "取代",
+      "技术",
+      "automation",
+      "algorithm",
+      "surveillance",
+      "threat"
+    ],
+    "constructs": [
+      "perceived threat",
+      "perceived opportunity",
+      "efficacy",
+      "control",
+      "technostress"
+    ],
+    "conditions": [
+      "技术被描述为失控/取代/监视",
+      "个人效能感低",
+      "缺乏可控性解释"
+    ],
+    "propositions": [
+      "威胁评估驱动抵制态度",
+      "机会评估驱动接受",
+      "可控性与效能感调节反应"
+    ],
+    "outcomes": [
+      "技术焦虑",
+      "抵制相关辟谣来源",
+      "支持严管"
+    ],
+    "summary": "技术威胁评估把同一技术读成失控/取代/监视或机会/赋能。威胁框架下用户更怀疑技术相关辟谣的动机；提高可控性与效能感可缓和。匹配 AI/算法/监控话题时，先看用户历史是威胁叙事还是机会叙事主导。",
+    "mechanism": "威胁/机会评估 → 情感与态度 → 对相关信息源的信任。",
+    "prediction": "AI/算法被框成失控时，即使用户看到辟谣，也更易质疑来源。",
+    "boundary": "技术爱好者可能反转威胁评估。",
+    "url": ""
+  },
+  {
+    "id": "canon_spiral_silence",
+    "name": "Spiral of Silence",
+    "authors": "Noelle-Neumann",
+    "year": 1974,
+    "coordinate": "spiral_of_silence",
+    "source": "canonical",
+    "weight": 1.15,
+    "trigger": [
+      "舆论",
+      "沉默",
+      "多数",
+      "不敢说",
+      "气候",
+      "spiral",
+      "silence",
+      "climate of opinion"
+    ],
+    "constructs": [
+      "climate of opinion",
+      "fear of isolation",
+      "quasi-statistical sense",
+      "willingness to speak"
+    ],
+    "conditions": [
+      "感知多数意见与己见冲突",
+      "议题道德化/高争议",
+      "公开表达有孤立风险"
+    ],
+    "propositions": [
+      "恐孤立抑制少数意见表达",
+      "表达抑制使多数显得更强",
+      "形成螺旋强化"
+    ],
+    "outcomes": [
+      "公开意见扭曲",
+      "少数沉默",
+      "表面共识"
+    ],
+    "summary": "沉默螺旋解释公开舆论不等于真实态度分布：感知多数+恐孤立→表达抑制→多数显得更强。对个体预测：一边倒舆论场中，公开评论可能更靠近感知多数，或用讽刺/转述降低风险；网络匿名与圈层化会削弱经典螺旋。",
+    "mechanism": "感知意见气候 → 恐孤立 → 表达意愿下降 → 气候进一步扭曲。",
+    "prediction": "在一边倒舆论场，用户公开评论可能更靠近感知多数，而非私人信念。",
+    "boundary": "网络匿名与圈层化会削弱经典螺旋。",
+    "url": ""
+  },
+  {
+    "id": "canon_selective_exposure",
+    "name": "Selective Exposure",
+    "authors": "confirmation bias / selective exposure literature",
+    "year": 2009,
+    "coordinate": "selective_exposure",
+    "source": "canonical",
+    "weight": 1.25,
+    "trigger": [
+      "选择性",
+      "过滤泡",
+      "只看",
+      "站队媒体",
+      "confirmation",
+      "selective exposure",
+      "echo chamber"
+    ],
+    "constructs": [
+      "confirmation bias",
+      "selective exposure",
+      "cognitive dissonance avoidance",
+      "information utility"
+    ],
+    "conditions": [
+      "高选择自由度",
+      "态度已较强",
+      "信息环境可过滤"
+    ],
+    "propositions": [
+      "人更愿接触态度一致信息",
+      "不一致信息会被回避或贬低",
+      "效用动机可覆盖一致性动机"
+    ],
+    "outcomes": [
+      "信息饮食极化",
+      "纠正触达失败",
+      "信念巩固"
+    ],
+    "summary": "选择性接触与确认偏误使态度一致信息更易被选中，不一致信息被回避或贬低，导致纠正根本触达不到人。若用户历史高度圈层化，匹配应先标「触达/动机瓶颈」，再谈内容机制；突发高不确定事件可能短暂提高跨立场寻求。",
+    "mechanism": "一致性动机引导信息选择 → 证据基座偏斜 → 态度更稳。",
+    "prediction": "对长期只接触单一叙事的用户，突然对立辟谣更易被忽略或嘲讽。",
+    "boundary": "突发高不确定事件可能短暂提高跨立场信息寻求。",
+    "url": ""
+  },
+  {
+    "id": "canon_agenda_setting",
+    "name": "Agenda Setting",
+    "authors": "McCombs & Shaw",
+    "year": 1972,
+    "coordinate": "agenda_setting",
+    "source": "canonical",
+    "weight": 1.15,
+    "trigger": [
+      "议程",
+      "关注什么",
+      "头条",
+      "热搜",
+      "agenda",
+      "salience",
+      "what to think about"
+    ],
+    "constructs": [
+      "object salience",
+      "attribute agenda",
+      "need for orientation"
+    ],
+    "conditions": [
+      "媒体/平台反复突出某议题",
+      "受众导向需求高"
+    ],
+    "propositions": [
+      "媒体不直接告诉人怎么想，但告诉人想什么",
+      "属性议程影响如何评价对象"
+    ],
+    "outcomes": [
+      "议题显要性",
+      "评价维度被设定"
+    ],
+    "summary": "议程设置：媒体未必直接告诉人怎么想，但通过反复凸显告诉人想什么；属性议程则设定用哪些维度评价对象。唱衰叙事占热搜时，辟谣是在争夺属性议程（评价经济用哪些指标）。用户评论可能围着议程转，即使未必深度相信崩溃。",
+    "mechanism": "反复凸显 → 对象/属性显要性上升 → 公众议题排序改变。",
+    "prediction": "若崩溃叙事占据热搜，用户评论更可能围绕该议程，即使个人未必深度相信。",
+    "boundary": "社交媒体多元议程削弱传统单向设置。",
+    "url": ""
+  },
+  {
+    "id": "canon_source_credibility",
+    "name": "Source Credibility",
+    "authors": "Hovland; credibility literature",
+    "year": 1951,
+    "coordinate": "source_credibility",
+    "source": "canonical",
+    "weight": 1.2,
+    "trigger": [
+      "来源",
+      "权威",
+      "专家",
+      "官媒",
+      "可信",
+      "source",
+      "credibility",
+      "expertise",
+      "trustworthiness"
+    ],
+    "constructs": [
+      "expertise",
+      "trustworthiness",
+      "goodwill",
+      "identification"
+    ],
+    "conditions": [
+      "来源可被识别",
+      "议题需要外部权威",
+      "低涉入更依赖来源线索"
+    ],
+    "propositions": [
+      "高可信来源提升说服",
+      "可信度=专业×可靠",
+      "来源效应随时间可能衰减（睡眠者效应相关）"
+    ],
+    "outcomes": [
+      "消息采信",
+      "态度改变",
+      "抵制对立来源"
+    ],
+    "summary": "来源可信度（专业×可靠×善意）是边缘路径关键线索，也调节信任修复。对特定用户，官媒/外媒/KOL 的可信排序不同，必须结合个人历史实体立场。低涉入更依赖来源启发式；高涉入时论据可部分覆盖弱来源，但睡眠者效应下源效应可能衰减。",
+    "mechanism": "来源线索启发式 → 提高/降低信息权重。",
+    "prediction": "若用户历史不信任某类来源，即使内容正确也难得分。",
+    "boundary": "高涉入中心路径下，论据可部分覆盖弱来源。",
+    "url": ""
+  },
+  {
+    "id": "canon_cultural_cognition",
+    "name": "Cultural Cognition of Risk",
+    "authors": "Kahan",
+    "year": 2010,
+    "coordinate": "cultural_cognition",
+    "source": "canonical",
+    "weight": 1.2,
+    "trigger": [
+      "世界观",
+      "价值观",
+      "文化认知",
+      "worldview",
+      "cultural cognition",
+      "identity-protective"
+    ],
+    "constructs": [
+      "grid-group",
+      "identity-protective cognition",
+      "cultural worldview",
+      "risk perception"
+    ],
+    "conditions": [
+      "风险议题与文化价值绑定",
+      "专家主张被看作价值站队"
+    ],
+    "propositions": [
+      "人按保护身份的方式感知风险",
+      "同样科学信息被不同世界观解读为相反含义"
+    ],
+    "outcomes": [
+      "极化风险感知",
+      "专家信任分裂"
+    ],
+    "summary": "文化认知：风险判断常服务身份保护，而非单纯「缺知识」。同样科学/经济信息会被不同世界观读成相反含义，导致专家信任分裂。沟通需匹配受众世界观表达与共享价值，而不是只补事实；低价值相关的技术细节议题影响较弱。",
+    "mechanism": "世界观过滤证据 → 风险感知极化。",
+    "prediction": "同一经济数据在不同价值群体中会被读成「韧性」或「崩溃」。",
+    "boundary": "低价值相关的技术细节议题影响较弱。",
+    "url": ""
+  },
+  {
+    "id": "canon_dissonance",
+    "name": "Cognitive Dissonance",
+    "authors": "Festinger",
+    "year": 1957,
+    "coordinate": "cognitive_dissonance",
+    "source": "canonical",
+    "weight": 1.2,
+    "trigger": [
+      "矛盾",
+      "改口",
+      "言行不一",
+      "自我辩护",
+      "dissonance",
+      "inconsistency",
+      "rationalization"
+    ],
+    "constructs": [
+      "dissonance",
+      "consonance",
+      "effort justification",
+      "selective exposure"
+    ],
+    "conditions": [
+      "新信息与旧信念/行为冲突",
+      "承诺已公开",
+      "无法轻易改变行为"
+    ],
+    "propositions": [
+      "失调引发不适并推动减少失调",
+      "可通过改态度、加辅音认知或贬低来源实现"
+    ],
+    "outcomes": [
+      "合理化",
+      "贬低辟谣",
+      "态度极化"
+    ],
+    "summary": "认知失调：新信息与旧信念或公开承诺冲突时，人会通过改态度、加辅音认知或贬低来源减少不适。正面打脸式辟谣易激发攻击来源；给台阶（信息曾不足/部分正确）可降低防御。低承诺态度的改变成本更低，更易更新。",
+    "mechanism": "信念-证据冲突 → 失调 → 防御性更新路径。",
+    "prediction": "正面打脸式辟谣易激发贬低来源；允许体面修正更有效。",
+    "boundary": "低承诺态度改变成本更低。",
+    "url": ""
+  },
+  {
+    "id": "canon_prospect",
+    "name": "Prospect Theory (Loss Framing)",
+    "authors": "Kahneman & Tversky",
+    "year": 1979,
+    "coordinate": "prospect_theory",
+    "source": "canonical",
+    "weight": 1.2,
+    "trigger": [
+      "损失",
+      "收益",
+      "亏了",
+      "崩溃",
+      "损失厌恶",
+      "loss",
+      "gain",
+      "prospect",
+      "framing"
+    ],
+    "constructs": [
+      "reference point",
+      "loss aversion",
+      "diminishing sensitivity",
+      "probability weighting"
+    ],
+    "conditions": [
+      "结果相对参照点被编码为收益或损失",
+      "概率被主观扭曲"
+    ],
+    "propositions": [
+      "损失比等量收益更痛",
+      "损失框架下更倾向冒险",
+      "表述框架改变选择"
+    ],
+    "outcomes": [
+      "风险寻求/规避",
+      "恐慌反应",
+      "政策偏好"
+    ],
+    "summary": "前景理论：结果相对参照点被编码为收益或损失，损失厌恶使等量损失更痛；损失框架下更易冒险或恐慌。崩溃叙事把现状编码为巨大损失，夸张图表放大反应。辟谣可重设参照点（相对历史/外部冲击），把「失去一切」改为可管理波动。",
+    "mechanism": "参照点编码 → 损失厌恶放大情绪 → 态度极化。",
+    "prediction": "「即将失去一切」的图表比中性指标叙述更能驱动恐慌评论。",
+    "boundary": "专家受众可能更接近期望效用，框架效应较弱。",
+    "url": ""
+  },
+  {
+    "id": "canon_hostile_media",
+    "name": "Hostile Media Effect",
+    "authors": "Vallone, Ross & Lepper",
+    "year": 1985,
+    "coordinate": "hostile_media",
+    "source": "canonical",
+    "weight": 1.15,
+    "trigger": [
+      "媒体有偏见",
+      "双标报道",
+      "敌意媒体",
+      "hostile media",
+      "biased coverage"
+    ],
+    "constructs": [
+      "hostile media perception",
+      "partisan involvement",
+      "reach",
+      "influence"
+    ],
+    "conditions": [
+      "高涉入党派/认同议题",
+      "内容自称中立"
+    ],
+    "propositions": [
+      "对立双方都觉得同一报道对自己不公",
+      "感知敌意降低对媒体信任"
+    ],
+    "outcomes": [
+      "不信任媒体",
+      "抵制纠正",
+      "寻找替代信源"
+    ],
+    "summary": "敌意媒体效应：高涉入党派/认同用户会把自称中立的报道看成对自己不公，从而降低信任并抵制内容。辟谣若来自「对立阵营媒体」，敌意感知可能先于数据讨论杀掉说服。低涉入议题效应弱；可换认同内信源或去党派化表述。",
+    "mechanism": "高涉入 → 标准严苛 → 感知偏见 → 拒绝内容。",
+    "prediction": "用户可能攻击辟谣媒体偏袒，而非讨论数据本身。",
+    "boundary": "低涉入议题效应弱。",
+    "url": ""
+  },
+  {
+    "id": "canon_two_step",
+    "name": "Two-Step Flow / Opinion Leadership",
+    "authors": "Lazarsfeld; Katz",
+    "year": 1955,
+    "coordinate": "opinion_leadership",
+    "source": "canonical",
+    "weight": 1.15,
+    "trigger": [
+      "意见领袖",
+      "大V",
+      "转述",
+      "KOL",
+      "opinion leader",
+      "two-step",
+      "influencer",
+      "大V自称"
+    ],
+    "constructs": [
+      "opinion leader",
+      "two-step flow",
+      "personal influence",
+      "homophily"
+    ],
+    "conditions": [
+      "存在活跃意见领袖",
+      "大众媒体信息经人际二次传播"
+    ],
+    "propositions": [
+      "许多态度变化经由意见领袖中介",
+      "人际影响常强于直接媒体影响"
+    ],
+    "outcomes": [
+      "追随领袖立场",
+      "转述式表达",
+      "圈层扩散"
+    ],
+    "summary": "两级传播/意见领袖：许多态度变化经意见领袖中介，人际影响常强于直接媒体。用户评论常转述大V口径而非原创完整论证。对意见领袖类账号，匹配应优先其对历史对齐的领袖实体与话术，再叠加抽象理论机制；网络中也可能呈多级网状传播。",
+    "mechanism": "媒体→意见领袖→追随者。",
+    "prediction": "用户更可能用领袖口径回应事件，而非原创完整论证。",
+    "boundary": "去中心化网络中可能多级/网状传播。",
+    "url": ""
+  },
+  {
+    "id": "canon_third_person",
+    "name": "Third-Person Effect",
+    "authors": "Davison",
+    "year": 1983,
+    "coordinate": "third_person_effect",
+    "source": "canonical",
+    "weight": 1.1,
+    "trigger": [
+      "别人会信",
+      "群众被骗",
+      "他人影响",
+      "third-person",
+      "others are influenced"
+    ],
+    "constructs": [
+      "perceived influence on self vs others",
+      "behavioral component",
+      "social distance"
+    ],
+    "conditions": [
+      "负面或宣传性信息",
+      "社会距离大的「他人」"
+    ],
+    "propositions": [
+      "人倾向于认为媒体对他人影响大于对自己",
+      "该感知驱动支持审查/辟谣行动"
+    ],
+    "outcomes": [
+      "支持治理",
+      "低估自我易感",
+      "对「愚民」叙事共鸣"
+    ],
+    "summary": "第三人效果：人倾向于认为媒体对他人影响大于对自己，并可能据此支持治理或嘲讽「被带节奏的群众」。辟谣讨论中用户更常说「别人别信」，而非承认自己曾不确定。负面/宣传性信息与社会距离大的「他人」时效应更强；正面信息可能出现第一人效果。",
+    "mechanism": "自我增强偏差 → 感知他人更易感 → 呼吁管制或嘲讽受众。",
+    "prediction": "辟谣讨论中用户更可能评论「别人别信」，而非承认自己曾不确定。",
+    "boundary": "正面信息可能出现第一人效果。",
+    "url": ""
+  }
+]

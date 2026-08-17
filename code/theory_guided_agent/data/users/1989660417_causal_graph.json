@@ -1,0 +1,1350 @@
+{
+ "nodes": [
+  {
+   "id": "factor:爱泼斯坦案中，除其本人外无任何权贵被追责，是否违背了法律面前人人平等的原则？",
+   "kind": "factor",
+   "label": "爱泼斯坦案中，除其本人外无任何权贵被追责，是否违背了法律面前人人平等的原则？",
+   "freq": 1,
+   "confidence": 0.655,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "coordinate:moral",
+   "kind": "coordinate",
+   "label": "moral",
+   "freq": 2,
+   "confidence": 0.655,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "stance:mixed",
+   "kind": "stance",
+   "label": "mixed",
+   "freq": 42,
+   "confidence": 0.5232828945785516,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:刘强东面临严重罪名指控",
+   "kind": "evidence",
+   "label": "刘强东面临严重罪名指控",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "factor:该案涉及多名权贵却无人被追责，是否反映了资本和权力对司法资源的分配产生了不当影响？",
+   "kind": "factor",
+   "label": "该案涉及多名权贵却无人被追责，是否反映了资本和权力对司法资源的分配产生了不当影响？",
+   "freq": 1,
+   "confidence": 0.64,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "coordinate:interest",
+   "kind": "coordinate",
+   "label": "interest",
+   "freq": 2,
+   "confidence": 0.6399999999999999,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "evidence:江西国企员工“炫富秀权”事件",
+   "kind": "evidence",
+   "label": "江西国企员工“炫富秀权”事件",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "factor:爱泼斯坦在狱中死亡，官方给出的死因是否足以让公众信服，信源的可信度是否受到质疑？",
+   "kind": "factor",
+   "label": "爱泼斯坦在狱中死亡，官方给出的死因是否足以让公众信服，信源的可信度是否受到质疑？",
+   "freq": 1,
+   "confidence": 0.6100000000000001,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "coordinate:source",
+   "kind": "coordinate",
+   "label": "source",
+   "freq": 2,
+   "confidence": 0.6100000000000001,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "evidence:雷蒙多称限制对华出口只占中美贸易1%",
+   "kind": "evidence",
+   "label": "雷蒙多称限制对华出口只占中美贸易1%",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "evidence:特朗普被捕并在狱中赢得总统选举",
+   "kind": "evidence",
+   "label": "特朗普被捕并在狱中赢得总统选举",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "factor:案件细节涉及对弱势群体的性虐待，这种极端恶行极易引发公众的愤怒和共情。",
+   "kind": "factor",
+   "label": "案件细节涉及对弱势群体的性虐待，这种极端恶行极易引发公众的愤怒和共情。",
+   "freq": 1,
+   "confidence": 0.5950000000000001,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "coordinate:emotion",
+   "kind": "coordinate",
+   "label": "emotion",
+   "freq": 2,
+   "confidence": 0.5950000000000001,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "evidence:香飘飘被指戏弄消费公众爱国热情",
+   "kind": "evidence",
+   "label": "香飘飘被指戏弄消费公众爱国热情",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042311.955221,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "id": "factor:高收入群体承担了超一半的个税，引发关于税负公平与自身利益分配的讨论",
+   "kind": "factor",
+   "label": "高收入群体承担了超一半的个税，引发关于税负公平与自身利益分配的讨论",
+   "freq": 1,
+   "confidence": 0.655,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "coordinate:f1",
+   "kind": "coordinate",
+   "label": "f1",
+   "freq": 2,
+   "confidence": 0.655,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "evidence:美国精英痛感被“薅了羊毛”",
+   "kind": "evidence",
+   "label": "美国精英痛感被“薅了羊毛”",
+   "freq": 2,
+   "confidence": 0.5,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "factor:数据被解读为'富人贡献大'还是'工薪层税感重'，触发对税收正义的价值判断",
+   "kind": "factor",
+   "label": "数据被解读为'富人贡献大'还是'工薪层税感重'，触发对税收正义的价值判断",
+   "freq": 1,
+   "confidence": 0.625,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "coordinate:f2",
+   "kind": "coordinate",
+   "label": "f2",
+   "freq": 2,
+   "confidence": 0.625,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "evidence:唐山烧烤店打人事件",
+   "kind": "evidence",
+   "label": "唐山烧烤店打人事件",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "evidence:九三盛大阅兵",
+   "kind": "evidence",
+   "label": "九三盛大阅兵",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "factor:财政部官方数据与中央财大教授解读的权威性，影响用户对数据真实性与解读倾向的信任度",
+   "kind": "factor",
+   "label": "财政部官方数据与中央财大教授解读的权威性，影响用户对数据真实性与解读倾向的信任度",
+   "freq": 1,
+   "confidence": 0.5950000000000001,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "coordinate:f3",
+   "kind": "coordinate",
+   "label": "f3",
+   "freq": 2,
+   "confidence": 0.5950000000000001,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "evidence:外电原报道视频内容",
+   "kind": "evidence",
+   "label": "外电原报道视频内容",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "factor:'1%的人缴五成税'的强烈对比，容易唤起普通用户的相对剥夺感或公平感",
+   "kind": "factor",
+   "label": "'1%的人缴五成税'的强烈对比，容易唤起普通用户的相对剥夺感或公平感",
+   "freq": 1,
+   "confidence": 0.625,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "coordinate:f4",
+   "kind": "coordinate",
+   "label": "f4",
+   "freq": 2,
+   "confidence": 0.625,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "evidence:2023年普通国人感动瞬间视频",
+   "kind": "evidence",
+   "label": "2023年普通国人感动瞬间视频",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "evidence:2023年高考举行",
+   "kind": "evidence",
+   "label": "2023年高考举行",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042312.4237828,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "id": "factor:正式文件内容有限，但社交媒体上出现大量未经证实的补充信息，导致用户对整体事件真实性的判断高度依赖信源可信度",
+   "kind": "factor",
+   "label": "正式文件内容有限，但社交媒体上出现大量未经证实的补充信息，导致用户对整体事件真实性的判断高度依赖信源可信度",
+   "freq": 1,
+   "confidence": 0.64,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "coordinate:source_credibility",
+   "kind": "coordinate",
+   "label": "source_credibility",
+   "freq": 2,
+   "confidence": 0.6399999999999999,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "evidence:胡锡进就瓦格纳事件发表英文评论",
+   "kind": "evidence",
+   "label": "胡锡进就瓦格纳事件发表英文评论",
+   "freq": 2,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "evidence:胡鑫宇事件",
+   "kind": "evidence",
+   "label": "胡鑫宇事件",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "factor:文件提及比尔·盖茨曾患性病及英国安德鲁王子性丑闻，直接触发公众对权贵阶层道德腐败的强烈谴责情绪",
+   "kind": "factor",
+   "label": "文件提及比尔·盖茨曾患性病及英国安德鲁王子性丑闻，直接触发公众对权贵阶层道德腐败的强烈谴责情绪",
+   "freq": 1,
+   "confidence": 0.655,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "coordinate:framing",
+   "kind": "coordinate",
+   "label": "framing",
+   "freq": 6,
+   "confidence": 0.609406,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:马斯克“大查账”揭露美式腐败",
+   "kind": "evidence",
+   "label": "马斯克“大查账”揭露美式腐败",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "factor:事件涉及美国政商精英与英国王室成员，天然激活普通民众与特权阶层的对立阵营意识",
+   "kind": "factor",
+   "label": "事件涉及美国政商精英与英国王室成员，天然激活普通民众与特权阶层的对立阵营意识",
+   "freq": 1,
+   "confidence": 0.6100000000000001,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "coordinate:identity_threat",
+   "kind": "coordinate",
+   "label": "identity_threat",
+   "freq": 4,
+   "confidence": 0.6253,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "evidence:应对美国全面打压",
+   "kind": "evidence",
+   "label": "应对美国全面打压",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "evidence:美国称对轰炸加沙医院事件开展国际调查“不合适”",
+   "kind": "evidence",
+   "label": "美国称对轰炸加沙医院事件开展国际调查“不合适”",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "evidence:9·11二十周年美国精英反思反恐战争",
+   "kind": "evidence",
+   "label": "9·11二十周年美国精英反思反恐战争",
+   "freq": 2,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "factor:'性丑闻''未成年''权贵'等关键词组合构成高唤醒度的情绪钩子，驱动用户快速站队和传播",
+   "kind": "factor",
+   "label": "'性丑闻''未成年''权贵'等关键词组合构成高唤醒度的情绪钩子，驱动用户快速站队和传播",
+   "freq": 1,
+   "confidence": 0.5950000000000001,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "evidence:美国对印度援助雷声大雨点小",
+   "kind": "evidence",
+   "label": "美国对印度援助雷声大雨点小",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042313.5129943,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "id": "factor:正式文件内容有限，但社交媒体上出现大量未经证实的补充信息，真假难辨。",
+   "kind": "factor",
+   "label": "正式文件内容有限，但社交媒体上出现大量未经证实的补充信息，真假难辨。",
+   "freq": 1,
+   "confidence": 0.655,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "coordinate:agenda_setting",
+   "kind": "coordinate",
+   "label": "agenda_setting",
+   "freq": 2,
+   "confidence": 0.655,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "stance:oppose",
+   "kind": "stance",
+   "label": "oppose",
+   "freq": 9,
+   "confidence": 0.5373306965499999,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "evidence:特朗普团队被指“草台班子”",
+   "kind": "evidence",
+   "label": "特朗普团队被指“草台班子”",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "factor:文件提及比尔·盖茨曾患性病及英国安德鲁王子性丑闻，涉及公众人物的道德污点。",
+   "kind": "factor",
+   "label": "文件提及比尔·盖茨曾患性病及英国安德鲁王子性丑闻，涉及公众人物的道德污点。",
+   "freq": 1,
+   "confidence": 0.655,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "coordinate:parasocial",
+   "kind": "coordinate",
+   "label": "parasocial",
+   "freq": 2,
+   "confidence": 0.655,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "evidence:高市早苗发表涉武言论",
+   "kind": "evidence",
+   "label": "高市早苗发表涉武言论",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "evidence:胡锡进微博视频提及撞翻事件",
+   "kind": "evidence",
+   "label": "胡锡进微博视频提及撞翻事件",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "factor:事件核心关联美国权贵阶层与英国王室成员，强化了精英阶层腐化的群体印象。",
+   "kind": "factor",
+   "label": "事件核心关联美国权贵阶层与英国王室成员，强化了精英阶层腐化的群体印象。",
+   "freq": 1,
+   "confidence": 0.64,
+   "first_seen": 1785042430.3899994,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "id": "factor:高收入群体承担了超过一半的个税，引发税负公平与资源分配争议",
+   "kind": "factor",
+   "label": "高收入群体承担了超过一半的个税，引发税负公平与资源分配争议",
+   "freq": 1,
+   "confidence": 0.655,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "coordinate:fairness",
+   "kind": "coordinate",
+   "label": "fairness",
+   "freq": 4,
+   "confidence": 0.6473499999999999,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:胡锡进评现代渑池会事件",
+   "kind": "evidence",
+   "label": "胡锡进评现代渑池会事件",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:张小平离职事件引发国企用人机制讨论",
+   "kind": "evidence",
+   "label": "张小平离职事件引发国企用人机制讨论",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "factor:数据被解读为“富人贡献大”还是“工薪族税负重”，触发公平性价值判断",
+   "kind": "factor",
+   "label": "数据被解读为“富人贡献大”还是“工薪族税负重”，触发公平性价值判断",
+   "freq": 1,
+   "confidence": 0.64,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:关于取消对罪犯子女考公限制的提案",
+   "kind": "evidence",
+   "label": "关于取消对罪犯子女考公限制的提案",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:男子买10万彩票中奖2.2亿",
+   "kind": "evidence",
+   "label": "男子买10万彩票中奖2.2亿",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "factor:财政部官方数据与中央财大教授解读的权威性，影响用户对数据真实性与立场的信任度",
+   "kind": "factor",
+   "label": "财政部官方数据与中央财大教授解读的权威性，影响用户对数据真实性与立场的信任度",
+   "freq": 1,
+   "confidence": 0.6100000000000001,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "coordinate:trust",
+   "kind": "coordinate",
+   "label": "trust",
+   "freq": 2,
+   "confidence": 0.6100000000000001,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:耶伦与中国官员会谈",
+   "kind": "evidence",
+   "label": "耶伦与中国官员会谈",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:印度高调宣布‘世界第四’",
+   "kind": "evidence",
+   "label": "印度高调宣布‘世界第四’",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "factor:“1%的人缴五成以上税”的对比性表述，容易激发相对剥夺感或阶层对立情绪",
+   "kind": "factor",
+   "label": "“1%的人缴五成以上税”的对比性表述，容易激发相对剥夺感或阶层对立情绪",
+   "freq": 1,
+   "confidence": 0.5950000000000001,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:联合国上演“第二战场”，挺巴和挺以派谁占上风",
+   "kind": "evidence",
+   "label": "联合国上演“第二战场”，挺巴和挺以派谁占上风",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "id": "evidence:中美博弈方式对比",
+   "kind": "evidence",
+   "label": "中美博弈方式对比",
+   "freq": 1,
+   "confidence": 0.5,
+   "first_seen": 1785042432.3281665,
+   "last_seen": 1785042432.3281665
+  }
+ ],
+ "edges": [
+  {
+   "src": "factor:爱泼斯坦案中，除其本人外无任何权贵被追责，是否违背了法律面前人人平等的原则？",
+   "dst": "coordinate:moral",
+   "type": "triggers",
+   "weight": 0.35,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "coordinate:moral",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "evidence:刘强东面临严重罪名指控",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.15947323018612516,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "factor:该案涉及多名权贵却无人被追责，是否反映了资本和权力对司法资源的分配产生了不当影响？",
+   "dst": "coordinate:interest",
+   "type": "triggers",
+   "weight": 0.3,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "coordinate:interest",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "evidence:江西国企员工“炫富秀权”事件",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.17875307751726538,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "factor:爱泼斯坦在狱中死亡，官方给出的死因是否足以让公众信服，信源的可信度是否受到质疑？",
+   "dst": "coordinate:source",
+   "type": "triggers",
+   "weight": 0.2,
+   "confidence": 0.6100000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "coordinate:source",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.6100000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "evidence:雷蒙多称限制对华出口只占中美贸易1%",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.2672612419124244,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "evidence:特朗普被捕并在狱中赢得总统选举",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.2342606428329091,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "factor:案件细节涉及对弱势群体的性虐待，这种极端恶行极易引发公众的愤怒和共情。",
+   "dst": "coordinate:emotion",
+   "type": "triggers",
+   "weight": 0.15,
+   "confidence": 0.5950000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "coordinate:emotion",
+   "dst": "stance:mixed",
+   "type": "moderates",
+   "weight": 1.0,
+   "confidence": 0.5950000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "evidence:香飘飘被指戏弄消费公众爱国热情",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.28426762180748055,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042311.955221
+  },
+  {
+   "src": "factor:高收入群体承担了超一半的个税，引发关于税负公平与自身利益分配的讨论",
+   "dst": "coordinate:f1",
+   "type": "triggers",
+   "weight": 0.35,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "coordinate:f1",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "evidence:美国精英痛感被“薅了羊毛”",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.3198010745334156,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "factor:数据被解读为'富人贡献大'还是'工薪层税感重'，触发对税收正义的价值判断",
+   "dst": "coordinate:f2",
+   "type": "triggers",
+   "weight": 0.25,
+   "confidence": 0.625,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "coordinate:f2",
+   "dst": "stance:mixed",
+   "type": "moderates",
+   "weight": 1.0,
+   "confidence": 0.625,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "evidence:唐山烧烤店打人事件",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.19364916731037082,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "evidence:九三盛大阅兵",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.16947980485980962,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "factor:财政部官方数据与中央财大教授解读的权威性，影响用户对数据真实性与解读倾向的信任度",
+   "dst": "coordinate:f3",
+   "type": "triggers",
+   "weight": 0.15,
+   "confidence": 0.5950000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "coordinate:f3",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.5950000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "evidence:外电原报道视频内容",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.15404884978892902,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "factor:'1%的人缴五成税'的强烈对比，容易唤起普通用户的相对剥夺感或公平感",
+   "dst": "coordinate:f4",
+   "type": "triggers",
+   "weight": 0.25,
+   "confidence": 0.625,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "coordinate:f4",
+   "dst": "stance:mixed",
+   "type": "moderates",
+   "weight": 1.0,
+   "confidence": 0.625,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "evidence:2023年普通国人感动瞬间视频",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.1392715036327889,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "evidence:2023年高考举行",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.12229626827123635,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042312.4237828
+  },
+  {
+   "src": "factor:正式文件内容有限，但社交媒体上出现大量未经证实的补充信息，导致用户对整体事件真实性的判断高度依赖信源可信度",
+   "dst": "coordinate:source_credibility",
+   "type": "triggers",
+   "weight": 0.3,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "coordinate:source_credibility",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "evidence:胡锡进就瓦格纳事件发表英文评论",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.30316953129541624,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "evidence:胡鑫宇事件",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.25624885305538925,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "factor:文件提及比尔·盖茨曾患性病及英国安德鲁王子性丑闻，直接触发公众对权贵阶层道德腐败的强烈谴责情绪",
+   "dst": "coordinate:framing",
+   "type": "triggers",
+   "weight": 0.35,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "coordinate:framing",
+   "dst": "stance:mixed",
+   "type": "triggers",
+   "weight": 1.0,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "evidence:马斯克“大查账”揭露美式腐败",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.17616606585441102,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "factor:事件涉及美国政商精英与英国王室成员，天然激活普通民众与特权阶层的对立阵营意识",
+   "dst": "coordinate:identity_threat",
+   "type": "triggers",
+   "weight": 0.2,
+   "confidence": 0.6100000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "coordinate:identity_threat",
+   "dst": "stance:mixed",
+   "type": "triggers",
+   "weight": 1.0,
+   "confidence": 0.6100000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "evidence:应对美国全面打压",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.29444959152304273,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "evidence:美国称对轰炸加沙医院事件开展国际调查“不合适”",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.2684624220856097,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "evidence:9·11二十周年美国精英反思反恐战争",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.24854790640048002,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "factor:'性丑闻''未成年''权贵'等关键词组合构成高唤醒度的情绪钩子，驱动用户快速站队和传播",
+   "dst": "coordinate:framing",
+   "type": "triggers",
+   "weight": 0.15,
+   "confidence": 0.5950000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "coordinate:framing",
+   "dst": "stance:mixed",
+   "type": "moderates",
+   "weight": 1.0,
+   "confidence": 0.5950000000000001,
+   "freq": 2,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:美国对印度援助雷声大雨点小",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.11487593716012254,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042313.5129943
+  },
+  {
+   "src": "factor:正式文件内容有限，但社交媒体上出现大量未经证实的补充信息，真假难辨。",
+   "dst": "coordinate:agenda_setting",
+   "type": "triggers",
+   "weight": 0.35,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "coordinate:agenda_setting",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "evidence:胡锡进就瓦格纳事件发表英文评论",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 0.3110855084191276,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "evidence:特朗普团队被指“草台班子”",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 0.3078948034744713,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "factor:文件提及比尔·盖茨曾患性病及英国安德鲁王子性丑闻，涉及公众人物的道德污点。",
+   "dst": "coordinate:parasocial",
+   "type": "triggers",
+   "weight": 0.35,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "coordinate:parasocial",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "evidence:高市早苗发表涉武言论",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 0.16070147520167405,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "evidence:胡锡进微博视频提及撞翻事件",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 0.1533929977694741,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "factor:事件核心关联美国权贵阶层与英国王室成员，强化了精英阶层腐化的群体印象。",
+   "dst": "coordinate:identity_threat",
+   "type": "triggers",
+   "weight": 0.3,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "coordinate:identity_threat",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "evidence:9·11二十周年美国精英反思反恐战争",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 0.33407655239053047,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "evidence:美国精英痛感被“薅了羊毛”",
+   "dst": "stance:oppose",
+   "type": "supports",
+   "weight": 0.3198010745334156,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042430.3899994
+  },
+  {
+   "src": "factor:高收入群体承担了超过一半的个税，引发税负公平与资源分配争议",
+   "dst": "coordinate:fairness",
+   "type": "triggers",
+   "weight": 0.35,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "coordinate:fairness",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.655,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:胡锡进评现代渑池会事件",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.21055872190307895,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:张小平离职事件引发国企用人机制讨论",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.1938287215142766,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "factor:数据被解读为“富人贡献大”还是“工薪族税负重”，触发公平性价值判断",
+   "dst": "coordinate:fairness",
+   "type": "triggers",
+   "weight": 0.3,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "coordinate:fairness",
+   "dst": "stance:mixed",
+   "type": "triggers",
+   "weight": 1.0,
+   "confidence": 0.64,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:关于取消对罪犯子女考公限制的提案",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.1849000654084097,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:男子买10万彩票中奖2.2亿",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.1632993161855452,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "factor:财政部官方数据与中央财大教授解读的权威性，影响用户对数据真实性与立场的信任度",
+   "dst": "coordinate:trust",
+   "type": "triggers",
+   "weight": 0.2,
+   "confidence": 0.6100000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "coordinate:trust",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 1.0,
+   "confidence": 0.6100000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:耶伦与中国官员会谈",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.1986798535597566,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:印度高调宣布‘世界第四’",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.17801724872907798,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "factor:“1%的人缴五成以上税”的对比性表述，容易激发相对剥夺感或阶层对立情绪",
+   "dst": "coordinate:framing",
+   "type": "triggers",
+   "weight": 0.15,
+   "confidence": 0.5950000000000001,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:联合国上演“第二战场”，挺巴和挺以派谁占上风",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.18257418583505536,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  },
+  {
+   "src": "evidence:中美博弈方式对比",
+   "dst": "stance:mixed",
+   "type": "supports",
+   "weight": 0.14383899044561524,
+   "confidence": 0.5,
+   "freq": 1,
+   "reliability": 1.0,
+   "contested": false,
+   "last_seen": 1785042432.3281665
+  }
+ ]
+}

@@ -1,0 +1,1804 @@
+{
+  "user_id": "jensenhuang",
+  "kind": "personal_reception_pathway",
+  "definition": "External communication/psychological/social context at posting time; not extracted user personality.",
+  "records": [
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2087755674650603534",
+      "bid": "2087755674650603534",
+      "date": "2026-08-13 04:18:36",
+      "topic": "NVIDIA CUDA平台持续升级",
+      "text": "The mighty A100 fleet are mission-capable from 2020 through 2029. NVIDIA computing is more than chips. CUDA gives developers and NVIDIA engineers a common platform to continually upgrade Ampere, Hopper and Blackwell throughout their useful lives. CUDA makes NVIDIA computing",
+      "slot_key": "2026-08-13||NVIDIA CUDA平台持续升级",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#The mighty A100 fleet ar#",
+        "hashtag": "The mighty A100 fleet ar",
+        "temporal_cutoff": "2026-08-13",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#The mighty A100 fleet ar#",
+        "hashtag": "The mighty A100 fleet ar",
+        "temporal_cutoff": "2026-08-13",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "CUDA: New Features and Beyond S81859 | GTC San Jose 2026 | NVIDIA On-Demand",
+          "url": "https://www.nvidia.com/zh-tw/on-demand/session/gtc26-s81859",
+          "snippet": "Platforms\n\n CUDA-X\n Autonomous Machines\n Cloud & Data Center\n Deep Learning & AI\n Design & Visualization\n Healthcare & Life Sciences\n High Performance Computing\n Self-Driving Cars\n Gaming & Entertainment\n NGC\n\nProducts\n\n DGX Systems\n DRIVE AGX\n GeForce RTX 30 Series\n NVIDIA Virtual GPU\n Jetson\n Quadro\n SHIELD TV\n Data Center GPUs\n\nDevelopers\n\n NVIDIA Developer\n Developer News\n Developer Blog\n Deve",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "CUDA News Today: NVIDIA Toolkit, AMD ROCm, and AI ...",
+          "url": "https://www.spheron.network/blog/cuda-news-today-nvidia-toolkit-amd-rocm-ai-frameworks-2026",
+          "snippet": "Engineering\n\n# CUDA News Today: NVIDIA Toolkit, AMD ROCm, and AI Framework Releases (2026)\n\nBack to BlogWritten by Mitrasish, Co-founder & CTO, SpheronMay 20, 2026\n\ncuda news todaynvidia cuda newsamd rocm newsrocm newscuda toolkit newsnvidia framework newsCUDA ToolkitROCmPyTorchGPU Cloud\n\nCUDA News Today: NVIDIA Toolkit, AMD ROCm, and AI Framework Releases (2026) [...] CUDA 13.2 is the current sta",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "CUDA: New Features and Beyond | NVIDIA GTC",
+          "url": "https://www.youtube.com/watch?v=VdIVQcMn0CA",
+          "snippet": "# CUDA: New Features and Beyond | NVIDIA GTC\n## NVIDIA Developer\n221000 subscribers\n345 likes\n\n### Description\n13960 views\nPosted: 31 Mar 2026\nThe CUDA platform underpins GPU computing, providing the libraries, compilers, runtimes, and programming model used by modern applications and frameworks.\n\nStephen Jones, Distinguished Software Architect for CUDA at NVIDIA, discusses recent updates and what",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA Introduces 60+ Updates to CUDA-X Libraries, Opening New Science and Industries to Accelerated Computing | NVIDIA Newsroom",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-60+-updates-to-cuda-x-libraries-opening-new-science-and-industries-to-accelerated-computing",
+          "snippet": "Dozens of updates are immediately available, reinforcing CUDA’s position as the industry’s most comprehensive platform for developers to build accelerated applications to address challenges across high performance computing fields such as research in 6G, quantum computing, genomics, drug discovery and logistics optimization, as well as advanced work in robotics, cybersecurity, data analytics and m",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "CommonWealth Magazine –Taiwan’s Most Influential Economic News Media",
+          "url": "https://english.cw.com.tw",
+          "snippet": "August 11, 2026 -- Today’s top stories: Nvidia and Wall Street Assemble $500 Billion AI Infrastructure War Chest, JPMorgan Raises S&P 500 Target to 8,000 as AI Spending Starts Paying Off, and US Lawmakers Question OpenAI and Anthropic Over “Rogue” AI Agents.\n\n2026-08-11\n\nImage 10: Don’t Forget to Feed the Hungry Ghosts: Taiwan’s Ghost Month Explained\n\n#### View\n\n4987\n\nShare \"Share on Facebook\")\n\nT",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA (@nvidia) / X",
+          "url": "https://x.com/nvidia",
+          "snippet": "SpaceXAI\n\n  @SpaceXAI\n\n  22h\n\n  Introducing Grok 4.6. It delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n  \n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  23h\n\n  We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA wha",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "Read more:",
+          "url": "https://x.com/nvidia/status/2072719484339524074",
+          "snippet": "NVIDIA (@nvidia). 46 likes 3 replies. NVIDIA and Partners Build in America, for America",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA GeForce (@NVIDIAGeForce) / X",
+          "url": "https://x.com/NVIDIAGeForce",
+          "snippet": "NVIDIA\n\n  @NVIDIAGeForce\n\n  Aug 8\n\n  Tune in for a special RTX Play Live with @GeForce\\_JacobF + @robeytech live from #QuakeCon for a chance to win: 🟢 GeForce RTX 5070 GPU 🟢 GeForce Trading Cards Live at 11AM PT today 📺 twitch.tv/nvidia\n\n  \n\n  00:00\n user avatar\n\n  NVIDIA GeForce\n\n  NVIDIA\n\n  @NVIDIAGeForce\n\n  Aug 7\n\n  GeForce Trading Cards Series 1 making a home at @QuakeCon 👀 [...] 6h\n\n  ☀️ Lapt",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "kept_7_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "NVIDIA CUDA平台持续升级 2026-08-13 news",
+        "NVIDIA CUDA平台持续升级 2026-08-13 Twitter X reaction",
+        "NVIDIA CUDA平台持续升级 2026-08-13 事件 背景 报道",
+        "NVIDIA CUDA平台持续升级 2026-08-13"
+      ],
+      "web_evidence": [
+        {
+          "title": "CUDA: New Features and Beyond S81859 | GTC San Jose 2026 | NVIDIA On-Demand",
+          "snippet": "Platforms\n\n CUDA-X\n Autonomous Machines\n Cloud & Data Center\n Deep Learning & AI\n Design & Visualization\n Healthcare & Life Sciences\n High Performance Computing\n Self-Driving Cars\n Gaming & Entertainment\n NGC\n\nProducts\n\n DGX Systems\n DRIVE AGX\n GeForce RTX 30 Series\n NVIDIA Virtual GPU\n Jetson\n Quadro\n SHIELD TV\n Data Center GPUs\n\nDevelopers\n\n NVIDIA Developer\n Developer News\n Developer Blog\n Deve",
+          "link": "https://www.nvidia.com/zh-tw/on-demand/session/gtc26-s81859",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "CUDA News Today: NVIDIA Toolkit, AMD ROCm, and AI ...",
+          "snippet": "Engineering\n\n# CUDA News Today: NVIDIA Toolkit, AMD ROCm, and AI Framework Releases (2026)\n\nBack to BlogWritten by Mitrasish, Co-founder & CTO, SpheronMay 20, 2026\n\ncuda news todaynvidia cuda newsamd rocm newsrocm newscuda toolkit newsnvidia framework newsCUDA ToolkitROCmPyTorchGPU Cloud\n\nCUDA News Today: NVIDIA Toolkit, AMD ROCm, and AI Framework Releases (2026) [...] CUDA 13.2 is the current sta",
+          "link": "https://www.spheron.network/blog/cuda-news-today-nvidia-toolkit-amd-rocm-ai-frameworks-2026",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "CUDA: New Features and Beyond | NVIDIA GTC",
+          "snippet": "# CUDA: New Features and Beyond | NVIDIA GTC\n## NVIDIA Developer\n221000 subscribers\n345 likes\n\n### Description\n13960 views\nPosted: 31 Mar 2026\nThe CUDA platform underpins GPU computing, providing the libraries, compilers, runtimes, and programming model used by modern applications and frameworks.\n\nStephen Jones, Distinguished Software Architect for CUDA at NVIDIA, discusses recent updates and what",
+          "link": "https://www.youtube.com/watch?v=VdIVQcMn0CA",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA Introduces 60+ Updates to CUDA-X Libraries, Opening New Science and Industries to Accelerated Computing | NVIDIA Newsroom",
+          "snippet": "Dozens of updates are immediately available, reinforcing CUDA’s position as the industry’s most comprehensive platform for developers to build accelerated applications to address challenges across high performance computing fields such as research in 6G, quantum computing, genomics, drug discovery and logistics optimization, as well as advanced work in robotics, cybersecurity, data analytics and m",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-introduces-60+-updates-to-cuda-x-libraries-opening-new-science-and-industries-to-accelerated-computing",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "CommonWealth Magazine –Taiwan’s Most Influential Economic News Media",
+          "snippet": "August 11, 2026 -- Today’s top stories: Nvidia and Wall Street Assemble $500 Billion AI Infrastructure War Chest, JPMorgan Raises S&P 500 Target to 8,000 as AI Spending Starts Paying Off, and US Lawmakers Question OpenAI and Anthropic Over “Rogue” AI Agents.\n\n2026-08-11\n\nImage 10: Don’t Forget to Feed the Hungry Ghosts: Taiwan’s Ghost Month Explained\n\n#### View\n\n4987\n\nShare \"Share on Facebook\")\n\nT",
+          "link": "https://english.cw.com.tw",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA (@nvidia) / X",
+          "snippet": "SpaceXAI\n\n  @SpaceXAI\n\n  22h\n\n  Introducing Grok 4.6. It delivers frontier intelligence and is a significant improvement over Grok 4.5 at the same price.\n\n  \n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  23h\n\n  We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 A very meaningful recognition, grounded in feedback from the people who make NVIDIA wha",
+          "link": "https://x.com/nvidia",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Read more:",
+          "snippet": "NVIDIA (@nvidia). 46 likes 3 replies. NVIDIA and Partners Build in America, for America",
+          "link": "https://x.com/nvidia/status/2072719484339524074",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA GeForce (@NVIDIAGeForce) / X",
+          "snippet": "NVIDIA\n\n  @NVIDIAGeForce\n\n  Aug 8\n\n  Tune in for a special RTX Play Live with @GeForce\\_JacobF + @robeytech live from #QuakeCon for a chance to win: 🟢 GeForce RTX 5070 GPU 🟢 GeForce Trading Cards Live at 11AM PT today 📺 twitch.tv/nvidia\n\n  \n\n  00:00\n user avatar\n\n  NVIDIA GeForce\n\n  NVIDIA\n\n  @NVIDIAGeForce\n\n  Aug 7\n\n  GeForce Trading Cards Series 1 making a home at @QuakeCon 👀 [...] 6h\n\n  ☀️ Lapt",
+          "link": "https://x.com/NVIDIAGeForce",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "GeForce On Community Update | CES 2026",
+          "snippet": "together and it's been a great experience working with NVIDIA. I would hope that we find a \nnew fresh audience for Bond and that they get to connect to this character and I would hope for \nthem that they get to fall in love with him a little bit like we have during this development. \nWe are very proud at being the team that can actually bring 007 back into gaming. This is \nsomething that we want t",
+          "link": "https://www.youtube.com/watch?v=Foltcapx62E",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Take a walk with Aaron Luk, NVIDIA's Director of Product Management ...",
+          "snippet": "Video by NVIDIA Omniverse on June 10, 2026. May be an image of one or more people, microphone and text that says 'NYDIA took a picture and and a video of a'.\n\nVideo by NVIDIA Robotics on May 28, 2026. May be an image of segway, treadmill and text that says 'VAL Thank Thankyou,Taiwan. you, Taiwan. Techman'.\n\nSee more posts\n\n--- [...] Video by NVIDIA Omniverse on July 31, 2026. May be a cartoon of r",
+          "link": "https://www.instagram.com/reel/DVSPs1KE73s",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-08-13",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "NVIDIA CUDA平台持续升级",
+        "tavily_hits": 11
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2087184542050496763",
+      "bid": "2087184542050496763",
+      "date": "2026-08-11 14:29:07",
+      "topic": "Nemotron 3.5 Lightning发布",
+      "text": "Lightning strikes for continuous and long-run agents! Nemotron 3.5 Lightning is smart, fast, efficient and open.",
+      "slot_key": "2026-08-11||Nemotron 3.5 Lightning发布",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Lightning strikes for co#",
+        "hashtag": "Lightning strikes for co",
+        "temporal_cutoff": "2026-08-11",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Lightning strikes for co#",
+        "hashtag": "Lightning strikes for co",
+        "temporal_cutoff": "2026-08-11",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "Nvidia launches Nemotron 3.5 Lightning as US open ...",
+          "url": "https://www.constellationr.com/insights/news/nvidia-launches-nemotron-35-lightning-us-open-model-momentum-picks",
+          "snippet": "August 11, 2026\n\n### Nvidia launches Nemotron 3.5 Lightning as US open model momentum picks up\n\nData to Decisions\n\nNvidia launched Nemotron 3.5 Lightning, a lightweight open model, and NeMo Switchyard, a routing library for AI agents, in a move that adds another open model to the mix for local ...\n\nLarry Dignan\n\nInsights News\n\nAugust 10, 2026\n\n### Meta releases open weight Muse Glimmer model with ",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Nvidia's Nemotron 3.5 Lightning Targets the Workhorse Role in Agentic AI -- Pure AI",
+          "url": "https://pureai.com/articles/2026/08/11/nvidias-nemotron-3-5-lightning-targets-the-workhorse-role-in-agentic-ai.aspx",
+          "snippet": "Released Aug. 11, Nemotron 3.5 Lightning is a 30 billion-parameter mixture-of-experts model that activates 3 billion parameters per token. Nvidia says it supports context windows of up to 1 million tokens and can deliver up to four times the output speed of similar-sized models. The company is offering the model with open weights, training data and recipes under its OpenMDW-1.1 license. [...] Foll",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Nvidia releases Nemotron 3.5 Lightning open-source AI model",
+          "url": "https://qz.com/nvidia-nemotron-35-lightning-open-source-ai-model-081126",
+          "snippet": "Quartz\n\nSitemap\n\n- About\n\n- Accessibility\n\n- Privacy\n\n- Terms of Service\n\n- Advertising\n\n© 2026 Quartz Media, Inc. All rights reserved.\n\nA.I.\n\n# Nvidia is releasing a lightweight open-source AI model that can run on a single GPU\n\nThe 30-billion-parameter Nemotron 3.5 Lightning is free to download, use, and modify, and is aimed at autonomous agent workloads\n\nBy Cris Tolomia·2 min read·Updated Augus",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Instructions to use nvidia/NVIDIA-Nemotron-3.5 ...",
+          "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+          "snippet": "### Use Case\n\nNVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 is a general purpose reasoning and chat model intended to be used in English and coding languages. Other non-English languages (Spanish, French, German, Italian, Japanese) are also supported. Intended for developers designing AI Agent systems, chatbots, RAG systems, and other AI-powered applications. Also suitable for typical instruction-fo",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate ...",
+          "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents",
+          "snippet": "Technical Blog\n\nRelated Resources\n\nAgentic AI / Generative AI\n\n# NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents\n\nAug 11, 2026\n\nBy Chris Alexiuk and Chintan Patel\n\nDiscuss (0)\n\n L\n T\n F\n R\n E\n\nAI-Generated Summary\n\nLike\n\nDislike [...] NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active parameters built ",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "NVIDIA AI on X: \"Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models. https://t.co/ENWrZe76pU\" / X",
+          "url": "https://x.com/NVIDIAAI/status/2087162151995629926",
+          "snippet": "NVIDIA\n\n  Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.\n\n  \n\n  1:00 PM · Aug 11, 20262.3MViews\n user avatar\n\n  NVIDIA AI\n\n  NVIDIA\n\n  @NVIDIAAI\n\n  Aug 11 [...] user avatar\n\n  NVIDIA AI\n\n  NVIDIA\n\n  @NVIDIAAI\n\n  Au",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA launches Nemotron 3.5 Lightning",
+          "url": "https://artificialanalysis.ai/articles/nemotron-3-5-lightning-launch",
+          "snippet": "Artificial Analysis\n\nAll articles\n\nAugust 11, 2026\n\nNVIDIA has just released the first Nemotron 3.5 model: Nemotron 3.5 Lightning, a highly efficient small open weights model with performance similar to gpt-oss-120b at around a quarter of the total parameters [...] AA-AnalystAgent tests agents on 80 private quantitative analysis questions across 14 business and scientific domains, each answered fr",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "removed_1_sources_later_than_cutoff",
+        "kept_6_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "Nemotron 3.5 Lightning发布 2026-08-11 news",
+        "Nemotron 3.5 Lightning发布 2026-08-11 Twitter X reaction",
+        "Nemotron 3.5 Lightning发布 2026-08-11 事件 背景 报道",
+        "Nemotron 3.5 Lightning发布 2026-08-11"
+      ],
+      "web_evidence": [
+        {
+          "title": "Nvidia launches Nemotron 3.5 Lightning as US open ...",
+          "snippet": "August 11, 2026\n\n### Nvidia launches Nemotron 3.5 Lightning as US open model momentum picks up\n\nData to Decisions\n\nNvidia launched Nemotron 3.5 Lightning, a lightweight open model, and NeMo Switchyard, a routing library for AI agents, in a move that adds another open model to the mix for local ...\n\nLarry Dignan\n\nInsights News\n\nAugust 10, 2026\n\n### Meta releases open weight Muse Glimmer model with ",
+          "link": "https://www.constellationr.com/insights/news/nvidia-launches-nemotron-35-lightning-us-open-model-momentum-picks",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia's Nemotron 3.5 Lightning Targets the Workhorse Role in Agentic AI -- Pure AI",
+          "snippet": "Released Aug. 11, Nemotron 3.5 Lightning is a 30 billion-parameter mixture-of-experts model that activates 3 billion parameters per token. Nvidia says it supports context windows of up to 1 million tokens and can deliver up to four times the output speed of similar-sized models. The company is offering the model with open weights, training data and recipes under its OpenMDW-1.1 license. [...] Foll",
+          "link": "https://pureai.com/articles/2026/08/11/nvidias-nemotron-3-5-lightning-targets-the-workhorse-role-in-agentic-ai.aspx",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia releases Nemotron 3.5 Lightning open-source AI model",
+          "snippet": "Quartz\n\nSitemap\n\n- About\n\n- Accessibility\n\n- Privacy\n\n- Terms of Service\n\n- Advertising\n\n© 2026 Quartz Media, Inc. All rights reserved.\n\nA.I.\n\n# Nvidia is releasing a lightweight open-source AI model that can run on a single GPU\n\nThe 30-billion-parameter Nemotron 3.5 Lightning is free to download, use, and modify, and is aimed at autonomous agent workloads\n\nBy Cris Tolomia·2 min read·Updated Augus",
+          "link": "https://qz.com/nvidia-nemotron-35-lightning-open-source-ai-model-081126",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Instructions to use nvidia/NVIDIA-Nemotron-3.5 ...",
+          "snippet": "### Use Case\n\nNVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 is a general purpose reasoning and chat model intended to be used in English and coding languages. Other non-English languages (Spanish, French, German, Italian, Japanese) are also supported. Intended for developers designing AI Agent systems, chatbots, RAG systems, and other AI-powered applications. Also suitable for typical instruction-fo",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate ...",
+          "snippet": "Technical Blog\n\nRelated Resources\n\nAgentic AI / Generative AI\n\n# NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents\n\nAug 11, 2026\n\nBy Chris Alexiuk and Chintan Patel\n\nDiscuss (0)\n\n L\n T\n F\n R\n E\n\nAI-Generated Summary\n\nLike\n\nDislike [...] NVIDIA Nemotron 3.5 Lightning is an open 30B mixture-of-experts (MoE) model with 3B active parameters built ",
+          "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA AI on X: \"Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models. https://t.co/ENWrZe76pU\" / X",
+          "snippet": "NVIDIA\n\n  Introducing NVIDIA Nemotron 3.5 Lightning⚡ An open 30B MoE model with 3B active parameters, built for always-on agents to complete high-volume, specialized tasks faster. It delivers up to 4x the output speed of similar-sized models.\n\n  \n\n  1:00 PM · Aug 11, 20262.3MViews\n user avatar\n\n  NVIDIA AI\n\n  NVIDIA\n\n  @NVIDIAAI\n\n  Aug 11 [...] user avatar\n\n  NVIDIA AI\n\n  NVIDIA\n\n  @NVIDIAAI\n\n  Au",
+          "link": "https://x.com/NVIDIAAI/status/2087162151995629926",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "As always, NVIDIA Nemotron 3.5 Lightning is open and customizable.",
+          "snippet": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 · Hugging FaceFrom huggingface.co\n\n  1:46 PM · Aug 11, 202632.2KViews\n user avatar\n\n  NVIDIA AI\n\n  NVIDIA\n\n  @NVIDIAAI\n\n  Aug 11\n\n  And it ships with its data. Alongside Lightning, we’re releasing Nemotron-RL-Agentic-Terminal-Pivot, the open agentic RL dataset used to post-train its coding agent capabilities. Dataset on @huggingface 🤗→ [...] NVIDI",
+          "link": "https://x.com/NVIDIAAI/status/2087173733823680855",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA launches Nemotron 3.5 Lightning",
+          "snippet": "Artificial Analysis\n\nAll articles\n\nAugust 11, 2026\n\nNVIDIA has just released the first Nemotron 3.5 model: Nemotron 3.5 Lightning, a highly efficient small open weights model with performance similar to gpt-oss-120b at around a quarter of the total parameters [...] AA-AnalystAgent tests agents on 80 private quantitative analysis questions across 14 business and scientific domains, each answered fr",
+          "link": "https://artificialanalysis.ai/articles/nemotron-3-5-lightning-launch",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4- ...",
+          "snippet": "## Use Case:\n\nDevelopers deploying Nemotron-3.5-Lightning-30B-A3B for reasoning, chat, RAG, and agentic workflows that benefit from lower-latency speculative decoding on data centre GPUs and high-end local GPU systems. This release is intended for DFlash-assisted serving of Nemotron-3.5-Lightning-30B-A3B rather than as a standalone target model checkpoint.\n\n## Release Date:\n\nHugging Face 08/11/202",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4-DFlash",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "英伟达发布Nemotron 3.5 Lightning 300亿参数开放模型_新浪财经_新浪网",
+          "snippet": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n证券 > 正文\n\n# 英伟达发布Nemotron 3.5 Lightning 300亿参数开放模型\n\n英伟达发布Nemotron 3.5 Lightning 300亿参数开放模型\n\n2026年08月11日 22:27 观点地产网\n\n新浪财经APP 缩小字体 放大字体 收藏 微博 分享 MD \n\n微信 腾讯QQ QQ空间\n\n观点网讯：8月11日，英伟达推出Nemotron 3.5 Lightning开放模型。该模型为300亿参数混合专家模型。\n\n英伟达已与vLLM、Ollama、llama.cpp、LM",
+          "link": "https://finance.sina.com.cn/stock/estate/integration/2026-08-11/doc-inimyhiz0564512.shtml",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-08-11",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Nemotron 3.5 Lightning发布",
+        "tavily_hits": 16
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false,
+      "removed_sources": [
+        {
+          "title": "As always, NVIDIA Nemotron 3.5 Lightning is open and customizable.",
+          "url": "https://x.com/NVIDIAAI/status/2087173733823680855",
+          "date": "2026-32-01",
+          "role": "removed_later_than_cutoff"
+        }
+      ]
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2086976424326693185",
+      "bid": "2086976424326693185",
+      "date": "2026-08-11 00:42:08",
+      "topic": "AI工厂基础设施",
+      "text": "This is a big moment for computing and @NVIDIA. We’ve made the leap from building chips to creating a new investable asset class: AI factory infrastructure. Every company will be powered by it. Every country will build it. Thanks to Larry Fink of @BlackRock, Jon Gray of https://t.co/OuFztK7XuM",
+      "slot_key": "2026-08-11||AI工厂基础设施",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#This is a big moment for# + mention_directed",
+        "hashtag": "This is a big moment for",
+        "temporal_cutoff": "2026-08-11",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "NVIDIA",
+          "BlackRock"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#This is a big moment for# + mention_directed",
+        "hashtag": "This is a big moment for",
+        "temporal_cutoff": "2026-08-11",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "NVIDIA",
+          "BlackRock"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "调动5000亿美元！英伟达联手六家华尔街巨头建AI算力融资平台 - 21财经",
+          "url": "https://m.21jingji.com/article/20260811/herald/f2ede3afaa6653388cefcff31b1cdcea.html",
+          "snippet": "# 调动5000亿美元！英伟达联手六家华尔街巨头建AI算力融资平台\n\n2026-08-11 13:36\n\n来源：界面新闻\n\n图片来源：英伟达\n\n界面新闻记者 | 宋佳楠\n\n当地时间8月10日，英伟达宣布达成多项战略合作，将与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛以及KKR合作设立独立算力融资平台，计划逐步调动超过5000亿美元第三方资本，用于AI基础设施建设。\n\n英伟达已与上述六家全球顶尖金融机构签署谅解备忘录。按照平台运行逻辑，六大机构会设立大规模专项资本池，以有竞争力的利率，向英伟达生态内的前沿AI实验室、企业、AI云服务商提供融资支持。客户借助这笔第三方资金，可以采购硬件、建设DSX架构的AI工厂，不必大量消耗自身资产负债表内的自有现金。而资本方获得的则是与算力实际使用情况挂钩的长期收益，把AI算力项目变成类似公用基建一样，可供全球机构资本配置的投资标的。\n\n“英伟达抵达了一个重要",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "英伟达联合六大金融机构打造计算融资平台，计划撬动超5000亿美元资本支持AI基础设施——_国际金融报社",
+          "url": "https://www.ifnews.com/news.html?aid=858588&cid=49",
+          "snippet": "电子报\n\n客户端\n\n \n\n  国际金融报\n\n  \n \n\n  IPO日报\n\n  \n \n\n  地产深度报道\n\n  \n \n\n  长三角日报\n\n  \n\n 首页\n 专题\n 国际\n English\n 银行保险\n 直播\n 证券基金\n 视频\n IPO\n 地产\n 汽车\n 消费\n 科技\n 健康\n 长三角\n 研究院\n 能源化工\n\n首页  ››   要闻  ››  正文\n\n##### \n\n#### 英伟达联合六大金融机构打造计算融资平台，计划撬动超5000亿美元资本支持AI基础设施\n\n##### \n\n2026-08-11 18:23 来源：国际金融报 作者：颜凌康\n\n当地时间8月10日，英伟达宣布与阿波罗全球管理公司、贝莱德、黑石集团、博枫集团、高盛以及KKR达成战略合作，共同建立“计算融资平台”，计划在未来几年调动超过5000亿美元第三方资本，为人工智能（AI）基础设施建设提供融资支持。\n\n英伟达表示，公司已与",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "英伟达联合六家金融机构设立5000亿美元AI基础设施融资平台_网通社号",
+          "url": "https://auto.news18a.com/news/storys_284982.html",
+          "snippet": "扫码下载 网通社APP\n\n扫码下载网通社APP\n\n## 手机验证码登录\n\n未注册的手机号登录后将自动注册\n\n正在加载验证码....\n\n## 账号密码登录\n\n正在加载验证码....\n\n## 忘记密码\n\n正在加载验证码....\n\n当前位置：\n网通社快报\n>\n英伟达联合六家金融机构设立5000亿美元AI基础设施融资平台\n\n# 英伟达联合六家金融机构设立5000亿美元AI基础设施融资平台\n\n8月11日，英伟达宣布与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛、KKR六家金融机构签署谅解备忘录，共同建立一个可调动5000亿美元资金的人工智能计算基础设施融资平台。该平台旨在将英伟达生态系统中的AI基础设施转变为全球资本可投资的资产类别，为英伟达客户提供专属资金池，并以具有吸引力的利率提供融资支持。英伟达创始人兼首席执行官黄仁勋表示，公司正推动构建一种新型高效、可投资的基础设施——AI工厂。该融资平台将协助",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "生產力局參展「2026世界人工智能大會」打造「AI智能工廠」 - IT PRO Magazine",
+          "url": "https://itpromag.com/2026/07/11/hkpc-46",
+          "snippet": "| Facility Inspector | 全自主式設施巡檢與偵測解決方案，配備人工智能強化三維視覺掃描技術及先進感測器，可實現全自動、無損且穩健的檢測作業。透過深度學習技術，能精準辨識車站設施與建築結構的異常狀況，並高效提供預測性維護建議。 |\n| AI驅動的人形機器人 | 具備泛化能力的工業人形機械人，融合觸覺反饋的多模態VTLA模型，以及全身協調控制、仿真遷移等具身智能核心技術，能像真人般在工廠處理拆箱、分揀等複雜工序，突破傳統工業自動化設備難用於多變環境的瓶頸。 |\n| 未來科技與治理 |\n| 量子混合計算框架及算法 | 針對車間排產與物流路徑優化，借助超導量子電腦的強大算力，突破傳統AI算法極限，解決工業最棘手的調度難題。 |\n| 智能製造中的網絡安全 | 專為工業生產及監控生產線而設的網絡安全方案。防止黑客入侵導致生產線癱瘓。確保關鍵基礎設施運作無間斷。 | [...] | ",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia’s AI factory breaks ground | The Arkansas Democrat-Gazette - Arkansas' Best News Source",
+          "url": "https://www.arkansasonline.com/news/2026/jun/17/nvidias-ai-factory-breaks-ground",
+          "snippet": "Arkansas Democrat Gazette logo\n\n# Nvidia’s AI factory breaks ground\n\n### Firm, Coherent partner in $2B deal to upgrade infrastructure\n\nJensen Huang, left, president and CEO of Nvidia, talks with Jim Anderson, CEO of Coherent, before a groundbreaking ceremony for an expansion of Coherent's manufacturing facility on Tuesday, June 16, 2026, in Sherman, Texas.Logo\n\n# Subscriber Exclusive\n\nThis article",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "Factory (@FactoryAI) / X",
+          "url": "https://x.com/FactoryAI",
+          "snippet": "Aug 11\n\n  Security-sensitive teams should not have to move source code, context, or execution outside their environment to operate their software factory. Factory runs on @nvidia DGX Spark with NVIDIA Nemotron 3.5 Lightning, giving teams a local path to investigate issues, modify code,\n\n  \n user avatar\n\n  Factory\n\n  @FactoryAI\n\n  Aug 4 [...] Aug 4\n\n  We work with large, complex global enterprises ",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "Marktechpost AI (@Marktechpost) / X",
+          "url": "https://x.com/Marktechpost",
+          "snippet": "21h\n\n  Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents TL;DR → Tencent Cloud open-sourced TencentDB Agent Memory v2.0 — MIT-licensed, self-hosted, stable release August 3, 2026. → Four reusable memory assets replace chat logs:\n\n  \n\n  Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding AgentsFrom marktech",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA on X: \"🔗 https://t.co/vgCMdO68ek\" / X",
+          "url": "https://x.com/nvidia/status/2060436020236034548",
+          "snippet": "Log inSign up\n\n## Post\n\n# NVIDIA on X: \"🔗 \n\n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  May 29\n\n  The next industrial revolution is here. NVIDIA AI factories convert energy into continuous intelligence, delivering 50x higher throughput per megawatt with Blackwell Ultra.\n\n  \n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  🔗\n\n  \n\n  AI Factories: The New Infrastructure of IntelligenceFrom blogs.nvidia.com\n\n  7:00 PM ·",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "kept_6_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "AI工厂基础设施 2026-08-11 news",
+        "AI工厂基础设施 2026-08-11 Twitter X reaction",
+        "AI工厂基础设施 2026-08-11 事件 背景 报道",
+        "AI工厂基础设施 2026-08-11"
+      ],
+      "web_evidence": [
+        {
+          "title": "调动5000亿美元！英伟达联手六家华尔街巨头建AI算力融资平台 - 21财经",
+          "snippet": "# 调动5000亿美元！英伟达联手六家华尔街巨头建AI算力融资平台\n\n2026-08-11 13:36\n\n来源：界面新闻\n\n图片来源：英伟达\n\n界面新闻记者 | 宋佳楠\n\n当地时间8月10日，英伟达宣布达成多项战略合作，将与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛以及KKR合作设立独立算力融资平台，计划逐步调动超过5000亿美元第三方资本，用于AI基础设施建设。\n\n英伟达已与上述六家全球顶尖金融机构签署谅解备忘录。按照平台运行逻辑，六大机构会设立大规模专项资本池，以有竞争力的利率，向英伟达生态内的前沿AI实验室、企业、AI云服务商提供融资支持。客户借助这笔第三方资金，可以采购硬件、建设DSX架构的AI工厂，不必大量消耗自身资产负债表内的自有现金。而资本方获得的则是与算力实际使用情况挂钩的长期收益，把AI算力项目变成类似公用基建一样，可供全球机构资本配置的投资标的。\n\n“英伟达抵达了一个重要",
+          "link": "https://m.21jingji.com/article/20260811/herald/f2ede3afaa6653388cefcff31b1cdcea.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "英伟达联合六大金融机构打造计算融资平台，计划撬动超5000亿美元资本支持AI基础设施——_国际金融报社",
+          "snippet": "电子报\n\n客户端\n\n \n\n  国际金融报\n\n  \n \n\n  IPO日报\n\n  \n \n\n  地产深度报道\n\n  \n \n\n  长三角日报\n\n  \n\n 首页\n 专题\n 国际\n English\n 银行保险\n 直播\n 证券基金\n 视频\n IPO\n 地产\n 汽车\n 消费\n 科技\n 健康\n 长三角\n 研究院\n 能源化工\n\n首页  ››   要闻  ››  正文\n\n##### \n\n#### 英伟达联合六大金融机构打造计算融资平台，计划撬动超5000亿美元资本支持AI基础设施\n\n##### \n\n2026-08-11 18:23 来源：国际金融报 作者：颜凌康\n\n当地时间8月10日，英伟达宣布与阿波罗全球管理公司、贝莱德、黑石集团、博枫集团、高盛以及KKR达成战略合作，共同建立“计算融资平台”，计划在未来几年调动超过5000亿美元第三方资本，为人工智能（AI）基础设施建设提供融资支持。\n\n英伟达表示，公司已与",
+          "link": "https://www.ifnews.com/news.html?aid=858588&cid=49",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "英伟达联合六家金融机构设立5000亿美元AI基础设施融资平台_网通社号",
+          "snippet": "扫码下载 网通社APP\n\n扫码下载网通社APP\n\n## 手机验证码登录\n\n未注册的手机号登录后将自动注册\n\n正在加载验证码....\n\n## 账号密码登录\n\n正在加载验证码....\n\n## 忘记密码\n\n正在加载验证码....\n\n当前位置：\n网通社快报\n>\n英伟达联合六家金融机构设立5000亿美元AI基础设施融资平台\n\n# 英伟达联合六家金融机构设立5000亿美元AI基础设施融资平台\n\n8月11日，英伟达宣布与阿波罗、贝莱德、黑石、布鲁克菲尔德、高盛、KKR六家金融机构签署谅解备忘录，共同建立一个可调动5000亿美元资金的人工智能计算基础设施融资平台。该平台旨在将英伟达生态系统中的AI基础设施转变为全球资本可投资的资产类别，为英伟达客户提供专属资金池，并以具有吸引力的利率提供融资支持。英伟达创始人兼首席执行官黄仁勋表示，公司正推动构建一种新型高效、可投资的基础设施——AI工厂。该融资平台将协助",
+          "link": "https://auto.news18a.com/news/storys_284982.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "生產力局參展「2026世界人工智能大會」打造「AI智能工廠」 - IT PRO Magazine",
+          "snippet": "| Facility Inspector | 全自主式設施巡檢與偵測解決方案，配備人工智能強化三維視覺掃描技術及先進感測器，可實現全自動、無損且穩健的檢測作業。透過深度學習技術，能精準辨識車站設施與建築結構的異常狀況，並高效提供預測性維護建議。 |\n| AI驅動的人形機器人 | 具備泛化能力的工業人形機械人，融合觸覺反饋的多模態VTLA模型，以及全身協調控制、仿真遷移等具身智能核心技術，能像真人般在工廠處理拆箱、分揀等複雜工序，突破傳統工業自動化設備難用於多變環境的瓶頸。 |\n| 未來科技與治理 |\n| 量子混合計算框架及算法 | 針對車間排產與物流路徑優化，借助超導量子電腦的強大算力，突破傳統AI算法極限，解決工業最棘手的調度難題。 |\n| 智能製造中的網絡安全 | 專為工業生產及監控生產線而設的網絡安全方案。防止黑客入侵導致生產線癱瘓。確保關鍵基礎設施運作無間斷。 | [...] | ",
+          "link": "https://itpromag.com/2026/07/11/hkpc-46",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia’s AI factory breaks ground | The Arkansas Democrat-Gazette - Arkansas' Best News Source",
+          "snippet": "Arkansas Democrat Gazette logo\n\n# Nvidia’s AI factory breaks ground\n\n### Firm, Coherent partner in $2B deal to upgrade infrastructure\n\nJensen Huang, left, president and CEO of Nvidia, talks with Jim Anderson, CEO of Coherent, before a groundbreaking ceremony for an expansion of Coherent's manufacturing facility on Tuesday, June 16, 2026, in Sherman, Texas.Logo\n\n# Subscriber Exclusive\n\nThis article",
+          "link": "https://www.arkansasonline.com/news/2026/jun/17/nvidias-ai-factory-breaks-ground",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Factory (@FactoryAI) / X",
+          "snippet": "Aug 11\n\n  Security-sensitive teams should not have to move source code, context, or execution outside their environment to operate their software factory. Factory runs on @nvidia DGX Spark with NVIDIA Nemotron 3.5 Lightning, giving teams a local path to investigate issues, modify code,\n\n  \n user avatar\n\n  Factory\n\n  @FactoryAI\n\n  Aug 4 [...] Aug 4\n\n  We work with large, complex global enterprises ",
+          "link": "https://x.com/FactoryAI",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Marktechpost AI (@Marktechpost) / X",
+          "snippet": "21h\n\n  Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents TL;DR → Tencent Cloud open-sourced TencentDB Agent Memory v2.0 — MIT-licensed, self-hosted, stable release August 3, 2026. → Four reusable memory assets replace chat logs:\n\n  \n\n  Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding AgentsFrom marktech",
+          "link": "https://x.com/Marktechpost",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA on X: \"🔗 https://t.co/vgCMdO68ek\" / X",
+          "snippet": "Log inSign up\n\n## Post\n\n# NVIDIA on X: \"🔗 \n\n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  May 29\n\n  The next industrial revolution is here. NVIDIA AI factories convert energy into continuous intelligence, delivering 50x higher throughput per megawatt with Blackwell Ultra.\n\n  \n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  🔗\n\n  \n\n  AI Factories: The New Infrastructure of IntelligenceFrom blogs.nvidia.com\n\n  7:00 PM ·",
+          "link": "https://x.com/nvidia/status/2060436020236034548",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Global AI (@GlobalAiDotCom) / X",
+          "snippet": "Jul 27\n\n  When $1.2 trillion evaporated from software companies, where did it go? The answer is AI infrastructure. In 2011, the defining mantra was “software is eating the world.” It was a generational shift that birthed giants and rewired the global economy. That era is now over. [...] 8h\n\n  Global AI Secures $441 Million Financing to Accelerate Sovereign AI Infrastructure Expansion @jpmorgan-led",
+          "link": "https://x.com/GlobalAiDotCom",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Elon Musk adds AI to empire of Twitter, Tesla, SpaceX, Neuralink & Boring Company | Fox Business",
+          "snippet": "#### Oil prices rise to $82 as gas and diesel creep up\n Nvidia partners with Wall Street giants on $500B AI infrastructure buildout\n\n  #### Nvidia partners with Wall Street giants on $500B AI infrastructure buildout\n Markets slide as Iran talks stall, US oil reserves hit lowest level since 1983\n\n  #### Markets slide as Iran talks stall, US oil reserves hit lowest level since 1983\n America is ‘way ",
+          "link": "https://www.foxbusiness.com/markets/elon-musk-adds-ai-empire-twitter-tesla-spacex-neuralink-boring-company",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-08-11",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI工厂基础设施",
+        "tavily_hits": 18
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2086934705207959965",
+      "bid": "2086934705207959965",
+      "date": "2026-08-10 21:56:21",
+      "topic": "特朗普被判有罪",
+      "text": "https://t.co/pppEbPVtfE",
+      "slot_key": "2026-08-10||特朗普被判有罪",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#https://t.co/pppEbPVtfE#",
+        "hashtag": "https://t.co/pppEbPVtfE",
+        "temporal_cutoff": "2026-08-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#https://t.co/pppEbPVtfE#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现（#https://t.co/pppEbPVtfE#）",
+        "salient_cues_in_feed": [
+          "有罪但无条件释放",
+          "34项罪名成立",
+          "封口费",
+          "无需入狱、无需缓刑、无需罚款"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "特朗普遭判有罪但无条件释放 - RFI - 法国国际广播电台",
+          "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250110-%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BD%86%E6%97%A0%E6%9D%A1%E4%BB%B6%E9%87%8A%E6%94%BE",
+          "snippet": "维持有罪判决后，特朗普团队计划立即启动上诉程序。2016年总统大选前，特朗普被指控通过法律顾问向一名与他有染的女性支付13万美元封口费，并伪造商业记录以隐瞒此事。陪审团裁定他的 34 项罪名全部成立，其中包括伪造票据。",
+          "role": "how presented",
+          "as_of": "2025-01-10"
+        },
+        {
+          "title": "纽约法院对陪审团判定“有罪”的特朗普作出“无条件释放”判决 - 美国之音",
+          "url": "https://www.voachinese.com/a/judge-sentences-trump-in-hush-money-case-but-declines-to-impose-any-punishment-20250110/7932451.html",
+          "snippet": "特朗普(Donald Trump)的“封口费”案作出判决,根据陪审团的“有罪”认定,判处他无需入狱、无需缓刑、也无需罚款,而是“无条件释放”。",
+          "role": "how presented",
+          "as_of": "2025-01-10"
+        },
+        {
+          "title": "紐約州人民訴唐納·川普案 - 维基百科，自由的百科全书",
+          "url": "https://zh.wikipedia.org/wiki/%E7%B4%90%E7%B4%84%E5%B7%9E%E4%BA%BA%E6%B0%91%E8%A8%B4%E5%94%90%E7%B4%8D%C2%B7%E5%B7%9D%E6%99%AE%E6%A1%88",
+          "snippet": "Live updates: Donald Trump spared prison or fine as judge sentences him in historic NY case. BBC News. 2025-01-10. 首例！川普封口費案判決「有罪但無條件釋放」 CNN：將帶重罪犯身分就職。",
+          "role": "corroboration",
+          "as_of": "2025-01-10"
+        },
+        {
+          "title": "特朗普在“封口费”案中被判无条件释放-新华网",
+          "url": "http://www.news.cn/20250111/2ceb87be78f54c0babfb03dfa045a792/c.html",
+          "snippet": "梅尔尚3日在宣布该案宣判日期时表示，考虑到总统豁免权及其他现实情况后，要确保了结此案并给被告留出上诉选项，作出无条件释放判决看起来是最可行的解决方案。",
+          "role": "how presented",
+          "as_of": "2025-01-11"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前证据显示，国际媒体（RFI、BBC、美国之音、新华网）集中报道特朗普封口费案的有罪判决与无条件释放结果，呈现为法律程序与政治事件的交叉叙事。",
+          "information_flow": "信息从国际主流媒体（法广、BBC、美国之音）及中国官方媒体（新华网）流出，框架聚焦于判决结果、法律程序与上诉可能性。",
+          "cues": [
+            "有罪判决",
+            "无条件释放",
+            "封口费",
+            "34项罪名",
+            "上诉"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "法律程序框架",
+            "政治人物司法框架"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "特朗普因2016年总统大选前向成人电影女演员支付13万美元封口费并伪造商业记录，被纽约陪审团裁定34项刑事指控成立，2025年1月10日被判处无条件释放。",
+          "actors_groups": [
+            "特朗普",
+            "陪审团",
+            "梅尔尚法官",
+            "特朗普代理律师"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "agenda_setting",
+        "framing",
+        "source_credibility",
+        "risk_perception"
+      ],
+      "summary": "用户通过微博话题标签页进入，看到的是以“特朗普有罪但无条件释放”为核心的法律判决呈现，随后以原帖形式发布该链接，未显示转发或评论上游。",
+      "evidence_gaps": [
+        "CSV 源微博字段为空，无法确认用户是否经由转发或评论接触该话题",
+        "话题标签本身为 t.co 短链接，无法还原标签页内的具体呈现内容",
+        "新华网来源标注为 2025-01-11，晚于发帖时间 2026-08-10 的 cutoff 逻辑，但实际早于发帖时间，已保留；若严格按发帖日 2026-08-10 对齐，该来源仍早于发帖，不构成事后泄漏",
+        "检索片段中 BBC 与纽约时报等来源涉及特朗普与推特互动的历史内容，与用户发帖的封口费判决主题不直接相关，未纳入信息源"
+      ],
+      "search_queries": [
+        "特朗普被判有罪 2026-08-10 news",
+        "特朗普被判有罪 2026-08-10 Twitter X reaction",
+        "特朗普被判有罪 2026-08-10 事件 背景 报道",
+        "特朗普被判有罪 2026-08-10"
+      ],
+      "web_evidence": [
+        {
+          "title": "特朗普遭判有罪但无条件释放 - RFI - 法国国际广播电台",
+          "snippet": "维持有罪判决后，特朗普团队计划立即启动上诉程序。\n\n2016年总统大选前，特朗普被指控通过法律顾问向一名与他有染的女性支付13万美元封口费，并伪造商业记录以隐瞒此事。陪审团裁定他的 34 项罪名全部成立，其中包括伪造票据。\n\n电邮新闻头条新闻就在您的每日新闻信里\n\n下载法广应用程序跟踪国际时事\n\n同一主题\n\n## 特朗普的色情明星封口费一案，无限期暂停\n\n## 特朗普被控罪成 或是第一个戴罪之身入主白宫的总统\n\n## 美联邦法官暂时阻止特别检察官发布案件报告 特朗普：好消息\n\n其他新闻\n\nCloudflare's termination of digital security services could leave 8chan exposed to hacker attacks\n\n## 平壤谴责美日韩等11国联合发布涉朝IT人员警示是抹黑朝鲜形象\n\n美联社在美国俄亥俄州瓦帕科内塔拍摄到日",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250110-%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E5%88%A4%E6%9C%89%E7%BD%AA%E4%BD%86%E6%97%A0%E6%9D%A1%E4%BB%B6%E9%87%8A%E6%94%BE",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美國大選：特朗普「封口費」案被判有罪後，億萬富豪們紛紛捐款支持 - BBC News 中文",
+          "snippet": "### Meta證實其AI模型「越獄」上網黑進別家公司\n\n### 在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚\n\n## 特別推薦\n\n背景中是一張俄羅斯總統弗拉基米爾·普京（Vladimir Putin）的特寫照片，他身穿深藍色夾克和白色襯衫，正在揮手。前景中，10個深綠色玩具士兵圍繞著一面微型俄羅斯國旗，旗面為白、藍、紅三色橫條紋，插在旗桿上。\n\n### 火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？\n\n一艘油輪正面照片，周圍有數艘拖船伴航\n\n### 分析人士：中東油輪受威脅程度已達伊朗戰爭爆發以來最高水平\n\n胡錦濤在北京人民大會堂中共二十大開幕式上拍手（16/10/2022）\n\n### 假截圖冒用秦楓帳號散播胡錦濤死訊\n\n在台灣東部騎單車的旅人\n\n### 「台灣太美啦」：1000公里環台單車之旅為何令人著迷？\n\n詹尼·恩凡蒂諾雙手環抱男子世界盃獎盃。\n\n### 讓人遍體鱗",
+          "link": "https://www.bbc.com/zhongwen/trad/world-69088959",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "纽约法院对陪审团判定“有罪”的特朗普作出“无条件释放”判决 - 美国之音",
+          "snippet": "特朗普(Donald Trump)的“封口费”案作出判决,根据陪审团的“有罪”认定,判处他无需入狱、无需缓刑、也无需罚款,而是“无条件释放”。",
+          "link": "https://www.voachinese.com/a/judge-sentences-trump-in-hush-money-case-but-declines-to-impose-any-punishment-20250110/7932451.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "特朗普在“封口费”案中被判无条件释放-新华网",
+          "snippet": "[](\n []( [...] 梅尔尚3日在宣布该案宣判日期时表示，考虑到总统豁免权及其他现实情况后，要确保了结此案并给被告留出上诉选项，作出无条件释放判决看起来是最可行的解决方案。\n\n　　特朗普代理律师近日分别在纽约州最高法院上诉法庭、纽约州上诉法院和美国最高法院提起动议，以总统豁免权为由要求中止“封口费”案判决，但均遭到拒绝。\n\n　　美国纽约市一个由12人组成的陪审团在2024年5月30日裁定，特朗普为隐瞒2016年美国总统选举期间向一名成人电影女演员支付13万美元“封口费”一事，伪造商业记录，违反纽约州相关法律，所涉34项刑事指控成立。该案判决日期最初定在2024年7月11日，后被几度推迟。\n\n【纠错】;)  【责任编辑:王佳宁】\n\n阅读下一篇：\n\n深度观察\n\n [](\n\n  新华全媒头条丨西藏定日县地震48小时全记录\n\n 新华鲜报丨严、细、实！法治获得感更有分量\n 新华全媒+丨一周“",
+          "link": "http://www.news.cn/20250111/2ceb87be78f54c0babfb03dfa045a792/c.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "紐約州人民訴唐納·川普案 - 维基百科，自由的百科全书",
+          "snippet": "345. ^ Live updates: Donald Trump spared prison or fine as judge sentences him in historic NY case. BBC News. 2025-01-10  [2025-01-10].\n346. ^ 陳凱俊. 首例！川普封口費案判決「有罪但無條件釋放」 CNN：將帶重罪犯身分就職. 鏡週刊 Mirror Media. 2025-01-11  [2025-01-14] （中文（繁體））.\n347. ^ 川普封口費案判處「有罪但無條件釋放」法官：祝第二任期一帆風順. Yahoo News. 2025-01-10  [2025-01-14] （中文（臺灣））.\n348. ^ Shepherd, Brittany. Plurality of the public supports Trump indictment",
+          "link": "https://zh.wikipedia.org/wiki/%E7%B4%90%E7%B4%84%E5%B7%9E%E4%BA%BA%E6%B0%91%E8%A8%B4%E5%94%90%E7%B4%8D%C2%B7%E5%B7%9D%E6%99%AE%E6%A1%88",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "「美國總統發帖受審查」：推特與特朗普互懟的前因與後果 - BBC News 中文",
+          "snippet": "曾我瞳與丈夫查爾斯‧詹金斯的一張舊照片。他們站在一座噴泉和一棟公寓大樓前。曾我瞳身穿一件扣上鈕扣的西裝外套和裙子。查爾斯身穿灰色西裝，繫著條紋領帶。曾我瞳雙手放在身後，查爾斯則雙手垂放身旁。兩人都面帶微笑，並直視鏡頭。\n倫敦皇家司法院牆上的一幅噴繪壁畫，描繪了一位戴著假髮的法官用法槌毆打一名抗議者。抗議者躺在地上，手裡拿著一塊沾滿鮮血的標語牌。\n1945年12月6日：在特別原子能管制聽證會上作證時，核物理學家、洛斯阿拉莫斯原子實驗室成員菲利普·莫里森描述了原子彈造成的死亡與破壞。\n一名將頭髮盤起的新娘回首望向鏡頭。\n\nEnd of 熱讀\n\n此舉激怒了特朗普。他連續發帖反擊，指責推特「干涉2020年11月大選」、「扼殺言論自由，我，作為美國總統，絶對不許允許這種事發生。」\n\n此文包含X提供的内容。由於這些内容會使用曲奇或小甜餅等科技，我們在加載任何内容前會尋求您的認可。 您可能在給予許可前希",
+          "link": "https://www.bbc.com/zhongwen/trad/world-52819457",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "特朗普拉黑推特用户惹官司，被指违宪 - 纽约时报中文网",
+          "snippet": "哥伦比亚大学骑士第一修正案研究所(Knight First Amendment Institute at Columbia University)代表这些被拉黑的推特用户，他们提出了关于宪法如何适用于社交媒体时代的新问题。他们说，特朗普不能因为别人发表了他不喜欢的意见，比如嘲笑或者批评他，就禁止别人和他的帐号互动。\n\n“@realDonaldTrump帐号是一种数字化的市政厅，在这里，总统及其助理利用推特功能向公众传达新闻和信息，而公众利用回复功能，对总统及其助理做出回应，互相交换意见，”诉状说。\n\n诉状还说，特朗普因为别人表达了他不喜欢的观点，就阻止他们阅读他的推文，不让他们看到和回复基于这些推文的消息链，这种做法侵犯了第一修正案赋予他们的权利。\n\n广告\n\n诉状使用了几个理论来支持这个主张。其中一个就是特朗普对原告的某些能力施加了违反宪法的限制，这些能力包括原告在特定公共论坛上互动、看到",
+          "link": "https://cn.nytimes.com/usa/20170712/trump-twitter-users-lawsuit",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Global Freedom of Expression | Trump v. Twitter - Global Freedom of Expression",
+          "snippet": "Justice James Donato of the Northern District of California presided over this case. The main claim of the plaintiffs in violation of their right to free speech under the First Amendment to the United States Constitution, was dismissed because of the failed application of the “State Action Doctrine”. The court asserted that the First Amendment applies only to governmental abridgment of speech, and",
+          "link": "https://cgfoetestsite.mystagingwebsite.com/cases/trump-v-twitter",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Justices throw out Trump Twitter case | SCOTUSblog",
+          "snippet": "The plaintiffs urged the justices to stay out of the dispute, telling them that the lower court had “correctly applied well-settled precedent” in concluding that Trump’s actions in blocking them from his Twitter account violated the First Amendment. The evidence in the case shows, they wrote, that the president’s personal Twitter account “functions as an official source of news and information abo",
+          "link": "https://www.scotusblog.com/2021/04/justices-throw-out-trump-twitter-case",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Special counsel obtained search warrant for Donald ...",
+          "snippet": "In an opinion released today, the district court says it had found probable cause to search Trump's Twitter account for evidence of crimes.",
+          "link": "https://www.youtube.com/watch?v=K_nSTS6l0co",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-08-10",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "特朗普被判有罪",
+        "tavily_hits": 16
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2085779369830822040",
+      "bid": "2085779369830822040",
+      "date": "2026-08-07 17:25:28",
+      "topic": "AI太空探索",
+      "text": "AI at the final frontier 🚀",
+      "slot_key": "2026-08-07||AI太空探索",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#AI at the final frontier#",
+        "hashtag": "AI at the final frontier",
+        "temporal_cutoff": "2026-08-07",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#AI at the final frontier#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现，标签为 #AI at the final frontier#",
+        "salient_cues_in_feed": [
+          "AI",
+          "space exploration",
+          "SpaceX",
+          "NASA",
+          "Space Force",
+          "smarter spacecraft",
+          "final frontier"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "How AI is helping space exploration now — and what the future holds - WTOP News",
+          "url": "https://wtop.com/science/2026/05/how-ai-is-helping-space-exploration-now-and-what-the-future-holds",
+          "snippet": "NASA wants smarter spacecraft — not sci-fi villains.",
+          "role": "presented AI in space exploration as a positive, forward-looking development",
+          "as_of": "2026-05-18"
+        },
+        {
+          "title": "Space & Satellite Exchange 2026: Building trust in AI across Space Force missions",
+          "url": "https://www.youtube.com/watch?v=pzPkkVzwQVk",
+          "snippet": "Space Systems Command leaders discuss how testing, human oversight and real-world use cases are helping the Space Force build confidence in AI for acquisition and mission operations.",
+          "role": "framed AI in space as a trust-building and oversight issue within military space operations",
+          "as_of": "2026-07-31"
+        },
+        {
+          "title": "SpaceX Falls On AI Spending Fears | Daybreak Europe 8/5/2026",
+          "url": "https://www.youtube.com/watch?v=waGSDpV0gAM",
+          "snippet": "WE EXPECT AS A FOLLOW-UP OF THAT A VERY STRONG FOLLOW-THROUGH IN THE MARGIN TREND... IT'S AI DRIVEN CLEA",
+          "role": "connected AI spending to SpaceX financial performance and market concerns",
+          "as_of": "2026-08-05"
+        },
+        {
+          "title": "2026 News Releases - NASA",
+          "url": "https://www.nasa.gov/2026-news-releases",
+          "snippet": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery.",
+          "role": "presented AI as a national priority for scientific and engineering advancement in space",
+          "as_of": "2026-08-07"
+        },
+        {
+          "title": "Spaceflight Now (@SpaceflightNow) / X",
+          "url": "https://x.com/SpaceflightNow",
+          "snippet": "SpaceX's West Coast surge in Starlink launches continues Saturday with another batch of satellites set to go into orbit atop a Falcon 9 rocket.",
+          "role": "provided ongoing coverage of SpaceX launch activity, indicating active space operations",
+          "as_of": "2026-08-07"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前证据显示，AI 与太空探索的交叉议题在媒体和社交平台上被呈现为技术进展、军事应用信任建设、以及商业航天财务表现等多重面向。",
+          "information_flow": "信息从 NASA、SpaceX、Space Force 等官方或机构源流出，经由新闻媒体（WTOP、Federal News Network、Bloomberg Daybreak Europe）和社交账号（Spaceflight Now）传播，框架涵盖科学进步、军事信任、商业市场。",
+          "cues": [
+            "AI",
+            "space",
+            "SpaceX",
+            "NASA",
+            "trust",
+            "spending"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "技术进步与探索",
+            "信任与监督",
+            "商业与市场风险"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "发帖前证据显示，AI 在太空领域的应用正在加速：NASA 支持 Genesis Mission 推动 AI 用于科学工程；Space Force 在 2026 年 Space & Satellite Exchange 上讨论 AI 信任建设；SpaceX 持续推进 Starlink 发射并面临 AI 支出相关的市场关注。",
+          "actors_groups": [
+            "NASA",
+            "SpaceX",
+            "Space Force / Space Systems Command",
+            "Federal News Network",
+            "WTOP News",
+            "Bloomberg Daybreak Europe"
+          ],
+          "cues": [
+            "Genesis Mission",
+            "Starlink",
+            "Space Force",
+            "AI spending"
+          ]
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting",
+        "technology_threat",
+        "uncertainty_reduction",
+        "diffusion_innovation"
+      ],
+      "summary": "用户通过微博话题标签 #AI at the final frontier# 进入，发帖前该话题下可见 AI 与太空探索相关的多源信息：NASA 推动 AI 科学应用、Space Force 讨论 AI 信任、SpaceX 面临 AI 支出关注。用户以原创帖形式发出简短感叹。",
+      "evidence_gaps": [
+        "CSV 无上游源微博，无法确定用户是否经由特定转发链或热搜进入话题页",
+        "话题标签 #AI at the final frontier# 在微博上的具体呈现内容、热度、置顶帖均无证据",
+        "检索片段中 Spaceflight Now 的 Aug 8 内容晚于发帖时间，已忽略",
+        "检索片段中 International Space Station 的 Aug 11 内容晚于发帖时间，已忽略",
+        "检索片段中 NASA 的 Aug 10 内容晚于发帖时间，已忽略",
+        "用户发帖时的设备、工具、@提及均无数据",
+        "无法确认用户是否接触过检索片段中的任一具体信息源，仅能确认话题标签路径"
+      ],
+      "search_queries": [
+        "AI太空探索 2026-08-07 news",
+        "AI太空探索 2026-08-07 Twitter X reaction",
+        "AI太空探索 2026-08-07 事件 背景 报道",
+        "AI太空探索 2026-08-07"
+      ],
+      "web_evidence": [
+        {
+          "title": "Space exploration in the age of AI",
+          "snippet": "in\n\nGlobal\n\n//\n\nAugust 10, 2026\n\nBreaking News\n\nChannel |\n\nDialogue of Civilizations## From condemnation to consequences on forced labor\n\nsponsored\n\nin\n\nGlobalOpinion\n\n//\n\nJuly 29, 2026\n\nSponsored\n\nBreaking News\n\nChannel |\n\nOur Digital Future## From fragmented dominance to trusted quantum governance\n\nsponsored\n\nin\n\nGlobalTechnology\n\n//\n\nJune 17, 2026\n\nBreaking News\n\nChannel |\n\nOur Digital Future##",
+          "link": "https://www.diplomaticourier.com/posts/space-exploration-in-the-age-of-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "SpaceX Falls On AI Spending Fears | Daybreak Europe 8/5/2026",
+          "snippet": "WE EXPECT AS A FOLLOW-UP OF THAT A VERY STRONG\nFOLLOW-THROUGH IN THE MARGIN TREND.\n400 BASIS POINTS UP TO 23%. THAT THEN BRINGS US TO A FULL\nYEAR GUIDANCE WHICH IS ESPECIALLY IN TERMS OF THE\nREVENUE PROBABLY SLIGHTLY HEAVY ON EXPECTATIONS.\nI WOULD SUMMARIZE IT AS, WE ARE EXITING THE YEAR ON A VERY\nSTRONG PATH AND IT'S A BROADER BASED RECOVERY WHICH STANDS\nBEHIND THE NUMBERS. SO IT'S AI DRIVEN CLEA",
+          "link": "https://www.youtube.com/watch?v=waGSDpV0gAM",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Space & Satellite Exchange 2026: Building trust in AI across Space Force missions",
+          "snippet": "# Space & Satellite Exchange 2026: Building trust in AI across Space Force missions\n## Federal News Network\n5930 subscribers\n\n### Description\n14 views\nPosted: 31 Jul 2026\nSpace Systems Command leaders discuss how testing, human oversight and real-world use cases are helping the Space Force build confidence in AI for acquisition and mission operations.\n\nKeep up on all things federal at [...] very f",
+          "link": "https://www.youtube.com/watch?v=pzPkkVzwQVk",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "How AI is helping space exploration now — and what the future holds - WTOP News",
+          "snippet": "Or, put another way: NASA wants smarter spacecraft — not sci-fi villains.\n\nGet breaking news and daily headlines delivered to your email inbox by signing up here.\n\n© 2026 WTOP. All Rights Reserved. This website is not intended for users located within the European Economic Area. [...] WTOP News\n\n# How AI is helping space exploration now — and what the future holds\n\nMay 18, 2026\n\nNASA via AP\n\nWill ",
+          "link": "https://wtop.com/science/2026/05/how-ai-is-helping-space-exploration-now-and-what-the-future-holds",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026 News Releases - NASA",
+          "snippet": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executive Order “Launching the…",
+          "link": "https://www.nasa.gov/2026-news-releases",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "International Space Station (@Space_Station) / X",
+          "snippet": "Aug 11\n\n  Today's discoveries shape tomorrow's missions! 🚀💫 In 2026, the space station has been a powerhouse of research on spacecraft systems, critical life support, and human adaptation to space. Each day in orbit prepares us for missions to the Moon, Mars, and beyond. [...] Expedition 74 flight engineers Sophie Adenot of ESA (European Space Agency) and Jessica Meir of NASA pose for a portrait i",
+          "link": "https://x.com/Space_Station",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Spaceflight Now (@SpaceflightNow) / X",
+          "snippet": "Aug 8\n\n  SpaceX's West Coast surge in Starlink launches continues Saturday with another batch of satellites set to go into orbit atop a Falcon 9 rocket. Liftoff from Vandenberg in California is scheduled for 9:23 a.m. PDT (12:23 p.m. EDT / 1623 UTC). spaceflightnow.com/2026/08/08/liv…\n\n  \n user avatar\n\n  Spaceflight Now\n\n  @SpaceflightNow\n\n  Aug 7 [...] user avatar\n\n  Spaceflight Now\n\n  @Spaceflig",
+          "link": "https://x.com/SpaceflightNow",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NASA (@NASA) / X",
+          "snippet": "A selfie taken during a spacewalk shows the reflective visor of an astronaut's helmet, mirroring the Earth's cloud-covered surface, sections of the International Space Station, and the spacesuited astronaut holding the camera. Credit: NASA/Mark Vande Hei\n user avatar\n\n  NASA\n\n  @NASA\n\n  Aug 7 [...] @NASA\n\n  Aug 10\n\n  We're bringing space closer to home! A continuous feed of our programming is now ",
+          "link": "https://x.com/NASA",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "SpaceX (@SpaceX) / Posts / X",
+          "snippet": "## Log in or sign up for X\n\nSee what’s happening and join the conversation\n\nContinue with phoneContinue with Apple\n\nContinue with Google\n\nContinue with Google Continue with Google. Opens in new tab\n\n or \n\nLog in with username or email\n\nTerms·Privacy·Cookies·Accessibility·Ads Info·More© 2026 X Corp.\n\nScan to get the appImage 16 [...] Pinned Image 3: user avatar  SpaceX    @SpaceX  Aug 6   The found",
+          "link": "https://x.com/SpaceX",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Updates - SpaceX",
+          "snippet": "Together, these new elements are designed to enable a step-change in Starship capabilities and aim to unlock the vehicle’s core functions, including full and rapid reuse, in-space propellant transfer, deployment of Starlink satellites and orbital data centers, and the ability to send people and cargo to the Moon and Mars.\n\n  \n\nImage 15\n\nFebruary 2, 2026\n\nxAI joins SpaceX to Accelerate Humanity’s F",
+          "link": "https://www.spacex.com/updates",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-08-07",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI太空探索",
+        "tavily_hits": 16
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2084656303046332747",
+      "bid": "2084656303046332747",
+      "date": "2026-08-04 15:02:48",
+      "topic": "Alpamayo 2 Super发布",
+      "text": "Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, https://t.co/K6jS0XDR4b",
+      "slot_key": "2026-08-04||Alpamayo 2 Super发布",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Today#",
+        "hashtag": "Today",
+        "temporal_cutoff": "2026-08-04",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Today#",
+        "hashtag": "Today",
+        "temporal_cutoff": "2026-08-04",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "nvidia/Alpamayo2-Super · Hugging Face",
+          "url": "https://huggingface.co/nvidia/Alpamayo2-Super",
+          "snippet": "### Use Case:\n\nDevelopers and researchers working on autonomous vehicle systems who need a foundation model for perception, planning, and decision-making tasks. Alpamayo 2 Super supports multiple AV development tasks such as trajectory prediction, visual question answering, 2D grounding, and auto-labeling. It enables enterprises to accelerate AV software development with a unified model that combi",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "NVIDIA Corporation - NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Alpamayo-2-Super-Open-Reasoning-Model-for-Robotaxis/default.aspx",
+          "snippet": "News Summary:\n\nTAIPEI, Taiwan, June 01, 2026 (GLOBE NEWSWIRE) -- NVIDIA GTC Taipei -- NVIDIA today introduced NVIDIA Alpamayo 2 Super, a 32-billion-parameter reasoning‑based vision language action (VLA) model that extends the NVIDIA Alpamayo family of open AI models, simulation frameworks and physical AI datasets for safe, level 4 robotaxi development. [...] © 2026 NVIDIA Corporation. All rights r",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Nvidia releases Alpamayo 2 Super for autonomous vehicles - Silicon Valley Business Journal",
+          "url": "https://www.bizjournals.com/sanjose/news/2026/08/04/nvidia-alpamayo-2-super.html",
+          "snippet": "Nvidia released a new open-source AI model designed to help autonomous vehicles interpret and respond to complex driving situations.\n\nStan Olszewski\n\nImage 2: Gary J. Boulanger\n\n By Gary J. Boulanger – Editor-in-Chief, Silicon Valley Business Journal\n\nAug 4, 2026\n\nPreview this article 1 min\n\nThe model is designed to interpret surroundings, weigh outcomes and decide before acting. Nvidia reported a",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use - Edge AI and Vision Alliance",
+          "url": "https://www.edge-ai-vision.com/2026/08/nvidia-alpamayo-2-super-the-frontier-open-model-for-robotaxis-and-autonomous-vehicles-now-available-for-commercial-use",
+          "snippet": "Skip to content\n\nEdge AI and Vision Alliance\n\n##### If you're building AI or vision-enabled products, you've come to the right place.\n\n# NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use\n\nAlgorithms & Models, Automotive, News, NVIDIA, VLMs /  August 10, 2026 [...] NVIDIA Alpamayo 2 Super, available now for commercial use, is pa",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "NVIDIA just released Alpamayo 2 Super, a 34-billion- ...",
+          "url": "https://www.instagram.com/p/DbtdVi2EiBr",
+          "snippet": "![Photo by Ai / Artificial Intelligence on August 06, 2026. May be an image of text that says 'Create a complete immersion experience in [LANGUAGE] without requiring me to travel. Simulate real-life situations, ask me questions, introduce everyday vocabulary naturally, gradually reduce the use of my native language, and adjust the difficulty based on my progress. Total Immersion Mode'.](\n\nPhoto by",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "NVIDIA on X: \"Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles.\n\nBuilt for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels.\n\nWe built it, so you can build on it. https://t.co/OZBWtsu3FC\" / X",
+          "url": "https://x.com/nvidia/status/2084663782018543841",
+          "snippet": "## Post\n\n## Post\n\n# NVIDIA on X: \"Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it. \n\nuser avatar\n\nuser avatar\n\nuser avatar\n\nuser avatar\nAvatar\n\nSee this post in the app\n\nUse the",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "removed_2_sources_later_than_cutoff",
+        "kept_6_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "Alpamayo 2 Super发布 2026-08-04 news",
+        "Alpamayo 2 Super发布 2026-08-04 Twitter X reaction",
+        "Alpamayo 2 Super发布 2026-08-04 事件 背景 报道",
+        "Alpamayo 2 Super发布 2026-08-04"
+      ],
+      "web_evidence": [
+        {
+          "title": "nvidia/Alpamayo2-Super · Hugging Face",
+          "snippet": "### Use Case:\n\nDevelopers and researchers working on autonomous vehicle systems who need a foundation model for perception, planning, and decision-making tasks. Alpamayo 2 Super supports multiple AV development tasks such as trajectory prediction, visual question answering, 2D grounding, and auto-labeling. It enables enterprises to accelerate AV software development with a unified model that combi",
+          "link": "https://huggingface.co/nvidia/Alpamayo2-Super",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA Corporation - NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+          "snippet": "News Summary:\n\nTAIPEI, Taiwan, June 01, 2026 (GLOBE NEWSWIRE) -- NVIDIA GTC Taipei -- NVIDIA today introduced NVIDIA Alpamayo 2 Super, a 32-billion-parameter reasoning‑based vision language action (VLA) model that extends the NVIDIA Alpamayo family of open AI models, simulation frameworks and physical AI datasets for safe, level 4 robotaxi development. [...] © 2026 NVIDIA Corporation. All rights r",
+          "link": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Alpamayo-2-Super-Open-Reasoning-Model-for-Robotaxis/default.aspx",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia releases Alpamayo 2 Super for autonomous vehicles - Silicon Valley Business Journal",
+          "snippet": "Nvidia released a new open-source AI model designed to help autonomous vehicles interpret and respond to complex driving situations.\n\nStan Olszewski\n\nImage 2: Gary J. Boulanger\n\n By Gary J. Boulanger – Editor-in-Chief, Silicon Valley Business Journal\n\nAug 4, 2026\n\nPreview this article 1 min\n\nThe model is designed to interpret surroundings, weigh outcomes and decide before acting. Nvidia reported a",
+          "link": "https://www.bizjournals.com/sanjose/news/2026/08/04/nvidia-alpamayo-2-super.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "輝達推Alpamayo 2 Super　搶下波AI浪潮起始點｜華視新聞 20260806 @CtsTw",
+          "snippet": "# 輝達推Alpamayo 2 Super　搶下波AI浪潮起始點｜華視新聞 20260806 @CtsTw\n## 華視新聞 CH52\n1350000 subscribers\n26 likes\n\n### Description\n3003 views\nPosted: 6 Aug 2026\nAI自駕車的技術又更上一層樓！輝達宣布推出最新開源自動推理駕駛，參數規模是前一代模型的3倍，擁有推理和決策的能力，碰到轉彎、讓路等複雜情境時，都能三思而後行。黃仁勳在社群平台上指出，下一波AI浪潮是機器人，而這一切都將從自動駕駛車輛開始。AI繼續蓬勃發展，光通訊技術的必備材料磷化銦，近期出現產能供應不足的情況，也考驗各大科技廠的應變能力。\n\n🔴華視新聞24小時LIVE直播 \n\n█ 訂閱華視新聞 CH52 █\n【YouTube】 \n【Facebook】 \n【Instagram】 \n【Threads】 \n【LIN",
+          "link": "https://www.youtube.com/watch?v=ITSrhje4-yw",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use - Edge AI and Vision Alliance",
+          "snippet": "Skip to content\n\nEdge AI and Vision Alliance\n\n##### If you're building AI or vision-enabled products, you've come to the right place.\n\n# NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use\n\nAlgorithms & Models, Automotive, News, NVIDIA, VLMs /  August 10, 2026 [...] NVIDIA Alpamayo 2 Super, available now for commercial use, is pa",
+          "link": "https://www.edge-ai-vision.com/2026/08/nvidia-alpamayo-2-super-the-frontier-open-model-for-robotaxis-and-autonomous-vehicles-now-available-for-commercial-use",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA on X: \"Read the blog → https://t.co/OlaCQAznGb\" / X",
+          "snippet": "blogs.nvidia.com\n\n  NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now...\n\n  Open commercial licensing, benchmark‑leading reasoning and inspectable decisions bring autonomous vehicles, including robotaxis, closer to production and widescale deployment.\n\n  3:32 PM · Aug 4, 202624.9KViews\n user avatar\n\n  NVIDIA\n\n  @nvidia\n\n  Aug 4\n\n  Available on @huggingface",
+          "link": "https://x.com/nvidia/status/2084663783364972732",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA just released Alpamayo 2 Super, a 34-billion- ...",
+          "snippet": "![Photo by Ai / Artificial Intelligence on August 06, 2026. May be an image of text that says 'Create a complete immersion experience in [LANGUAGE] without requiring me to travel. Simulate real-life situations, ask me questions, introduce everyday vocabulary naturally, gradually reduce the use of my native language, and adjust the difficulty based on my progress. Total Immersion Mode'.](\n\nPhoto by",
+          "link": "https://www.instagram.com/p/DbtdVi2EiBr",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA on X: \"Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles.\n\nBuilt for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels.\n\nWe built it, so you can build on it. https://t.co/OZBWtsu3FC\" / X",
+          "snippet": "## Post\n\n## Post\n\n# NVIDIA on X: \"Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles. Built for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels. We built it, so you can build on it. \n\nuser avatar\n\nuser avatar\n\nuser avatar\n\nuser avatar\nAvatar\n\nSee this post in the app\n\nUse the",
+          "link": "https://x.com/nvidia/status/2084663782018543841",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia Unveils 'Alpamayo 2 Super' Open Model for Level 4 Robotaxis < IT·Gaming < 기사본문 - The Elec Inc.",
+          "snippet": "Login\n Join\n Mobile\n UPDATE : 2026-08-05 18:31 (Wed)\n\n KOREAN\n\nThe Elec Inc.\n\n \n\nThe Elec Inc.\n\nNvidia Unveils 'Alpamayo 2 Super' Open Model for Level 4 Robotaxis\n\nCharacter Size Settings\n\n가\n\nThe body content of the article will be changed to this letter size.\n\n스크롤 이동 상태바\n\n# Nvidia Unveils 'Alpamayo 2 Super' Open Model for Level 4 Robotaxis\n\n## New physical AI stack combines simulation, autonomous",
+          "link": "https://www.thelec.net/news/articleView.html?idxno=10954",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for ...",
+          "snippet": "country_code\n\nSkip to content\n\n# NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use\n\nOpen commercial licensing, benchmark‑leading reasoning and inspectable decisions bring autonomous vehicles, including robotaxis, closer to production and widescale deployment.\n\nAugust 4, 2026 by Jessica Soares\n\n0 Comments\n\nShare This Article\n\n F",
+          "link": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-08-04",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Alpamayo 2 Super发布",
+        "tavily_hits": 12
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false,
+      "removed_sources": [
+        {
+          "title": "輝達推Alpamayo 2 Super　搶下波AI浪潮起始點｜華視新聞 20260806 @CtsTw",
+          "url": "https://www.youtube.com/watch?v=ITSrhje4-yw",
+          "date": "2026-08-06",
+          "role": "removed_later_than_cutoff"
+        },
+        {
+          "title": "NVIDIA on X: \"Read the blog → https://t.co/OlaCQAznGb\" / X",
+          "url": "https://x.com/nvidia/status/2084663783364972732",
+          "date": "2026-24-01",
+          "role": "removed_later_than_cutoff"
+        }
+      ]
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2081698060330250294",
+      "bid": "2081698060330250294",
+      "date": "2026-07-27 11:07:48",
+      "topic": "Hugging Face安全事件",
+      "text": "Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion.",
+      "slot_key": "2026-07-27||Hugging Face安全事件",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Attackers have frontier#",
+        "hashtag": "Attackers have frontier",
+        "temporal_cutoff": "2026-07-27",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Attackers have frontier#",
+        "hashtag": "Attackers have frontier",
+        "temporal_cutoff": "2026-07-27",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "OpenAI–Hugging Face July 2026 Security Incident: Full Report | Protos Labs",
+          "url": "https://www.protoslabs.io/resources/openai-hugging-face-july-2026-security-incident",
+          "snippet": "The public record supports a real, fast-moving intrusion chain that crossed OpenAI’s evaluation environment and Hugging Face’s production systems. The most defensible reading is that this was a High-severity AI/security incident involving a proxy/cache zero-day, malicious dataset-driven code execution, credential exposure, privilege escalation, lateral movement, and limited internal data access. [",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Hugging Face Incident Initial Post Mortem I CSA",
+          "url": "https://cloudsecurityalliance.org/artifacts/hugging-face-ciso-post-mortem",
+          "snippet": "In July 2026, an OpenAI model broke out of its sandbox during a cybersecurity benchmark, exploited a zero-day vulnerability, and used stolen credentials to gain remote code execution on Hugging Face's production systems. No human directed the attack. This report is the CSA CISO community's initial post-mortem on the first publicly documented autonomous AI attack. [...] Join Identity Week America t",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "OpenAI's accidental cyberattack against Hugging Face is ...",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "snippet": "# Simon Willison’s Weblog\n\n## OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened\n\n22nd July 2026\n\nThis story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model’s guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI’s sandbox, then found exploits to break in t",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Security incident disclosure — July 2026",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "snippet": "7 days ago\n\nSo... HuggingFace seems to be recommending preparing an in-house model with no guardrails, and presumably giving it information about HuggingFace's infrastructure to let it understand potential attacks.\n\nThat might, in theory, be done without inviting destruction - though info about infrastructure will probably make sandbox escapes easier. [...] Solutions \n           Team & Enterprise\n",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Hugging Face July 2026 Security Incident: AI-Driven Intrusion Analysis",
+          "url": "https://www.youtube.com/watch?v=LuONuYRp-JM",
+          "snippet": "In July 2026, Hugging Face reported a sophisticated security breach initiated by an autonomous AI agent swarm. This unprecedented attack exploited vulnerabilities in dataset-processing pipelines to gain unauthorized access to internal systems and service credentials. The platform successfully countered the intrusion by using AI-driven detection and local open-weight models to analyze thousands of ",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "Hugging Face (@huggingface) / X",
+          "url": "https://x.com/huggingface",
+          "snippet": "8h\n\n  Qwen 3.8 27b is being released at 11:00AM EST on Wednesday Folks are lined up for miles to see what this fancy new model is capable of\n\n  \n user avatar\n\n  Hugging Face\n\n  @huggingface\n\n  Aug 7\n\n  How AI agents reproduced ICML 2026 papers\n user avatar\n\n  Hugging Face\n\n  @huggingface\n\n  Aug 4\n\n  We're working with the Open Secure Alliance on guidelines for incident learning, to collectively de",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "OpenAI on X: \"We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks:\" / X",
+          "url": "https://x.com/OpenAI/status/2079658951264920020",
+          "snippet": "Log inSign up\n\n## Post\n\n# OpenAI on X: \"We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks:\"\n\n user avatar\n\n  OpenAI\n\n  @OpenAI [...] @OpenAI\n\n  We're partnering with @huggingface to investigate an",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "removed_1_sources_later_than_cutoff",
+        "kept_7_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "Hugging Face安全事件 2026-07-27 news",
+        "Hugging Face安全事件 2026-07-27 Twitter X reaction",
+        "Hugging Face安全事件 2026-07-27 事件 背景 报道",
+        "Hugging Face安全事件 2026-07-27"
+      ],
+      "web_evidence": [
+        {
+          "title": "OpenAI–Hugging Face July 2026 Security Incident: Full Report | Protos Labs",
+          "snippet": "The public record supports a real, fast-moving intrusion chain that crossed OpenAI’s evaluation environment and Hugging Face’s production systems. The most defensible reading is that this was a High-severity AI/security incident involving a proxy/cache zero-day, malicious dataset-driven code execution, credential exposure, privilege escalation, lateral movement, and limited internal data access. [",
+          "link": "https://www.protoslabs.io/resources/openai-hugging-face-july-2026-security-incident",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Hugging Face Incident Initial Post Mortem I CSA",
+          "snippet": "In July 2026, an OpenAI model broke out of its sandbox during a cybersecurity benchmark, exploited a zero-day vulnerability, and used stolen credentials to gain remote code execution on Hugging Face's production systems. No human directed the attack. This report is the CSA CISO community's initial post-mortem on the first publicly documented autonomous AI attack. [...] Join Identity Week America t",
+          "link": "https://cloudsecurityalliance.org/artifacts/hugging-face-ciso-post-mortem",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Hugging Face事故出現新進展，OpenAI模型利用Artifactory零時差漏洞突破測試環境 | iThome",
+          "snippet": "首頁\n\n# Hugging Face事故出現新進展，OpenAI模型利用Artifactory零時差漏洞突破測試環境\n\n資安公司JFrog透露，Hugging Face遭到攻擊的資安事故裡，OpenAI的模型找出了軟體供應鏈儲存庫Artifactory零時差漏洞，從而突破原本的測試環境，並存取網際網路\n\n文/周峻佑|2026-07-29發表\n\n7月中旬AI模型開發與託管平臺Hugging Face透露遭到自主AI代理攻擊，導致雲端與叢集憑證遭竊，事隔數日，OpenAI承認是旗下正在進行資安能力評估的模型所引起，本週Hugging Face公布整起事故發生的過程，同一天有一家資安廠商透露，OpenAI模型為了逃脫測試環境，利用了他們產品的零時差漏洞來達到目的。 [...] 7月27日JFrog發布部落格文章指出，受測模型在OpenAI內部建置的軟體供應鏈儲存庫Artifactory找出零時差",
+          "link": "https://www.ithome.com.tw/news/177721",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "OpenAI's accidental cyberattack against Hugging Face is ...",
+          "snippet": "# Simon Willison’s Weblog\n\n## OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened\n\n22nd July 2026\n\nThis story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model’s guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI’s sandbox, then found exploits to break in t",
+          "link": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Security incident disclosure — July 2026",
+          "snippet": "7 days ago\n\nSo... HuggingFace seems to be recommending preparing an in-house model with no guardrails, and presumably giving it information about HuggingFace's infrastructure to let it understand potential attacks.\n\nThat might, in theory, be done without inviting destruction - though info about infrastructure will probably make sandbox escapes easier. [...] Solutions \n           Team & Enterprise\n",
+          "link": "https://huggingface.co/blog/security-incident-july-2026",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Hugging Face July 2026 Security Incident: AI-Driven Intrusion Analysis",
+          "snippet": "In July 2026, Hugging Face reported a sophisticated security breach initiated by an autonomous AI agent swarm. This unprecedented attack exploited vulnerabilities in dataset-processing pipelines to gain unauthorized access to internal systems and service credentials. The platform successfully countered the intrusion by using AI-driven detection and local open-weight models to analyze thousands of ",
+          "link": "https://www.youtube.com/watch?v=LuONuYRp-JM",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Hugging Face (@huggingface) / X",
+          "snippet": "8h\n\n  Qwen 3.8 27b is being released at 11:00AM EST on Wednesday Folks are lined up for miles to see what this fancy new model is capable of\n\n  \n user avatar\n\n  Hugging Face\n\n  @huggingface\n\n  Aug 7\n\n  How AI agents reproduced ICML 2026 papers\n user avatar\n\n  Hugging Face\n\n  @huggingface\n\n  Aug 4\n\n  We're working with the Open Secure Alliance on guidelines for incident learning, to collectively de",
+          "link": "https://x.com/huggingface",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "OpenAI on X: \"We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks:\" / X",
+          "snippet": "Log inSign up\n\n## Post\n\n# OpenAI on X: \"We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks:\"\n\n user avatar\n\n  OpenAI\n\n  @OpenAI [...] @OpenAI\n\n  We're partnering with @huggingface to investigate an",
+          "link": "https://x.com/OpenAI/status/2079658951264920020",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Hugging Face breached by autonomous AI agent",
+          "snippet": "“Our software supply chain (container images and published packages) was verified clean,” the company made sure to note.\n\nSince then, Hugging Face has blocked the dataset code-execution paths, booted the attacker from affected clusters and rebuilt compromised nodes, then started revoking and rotating compromised credentials and tokens. [...] “From there, the actor escalated to node-level access, h",
+          "link": "https://www.helpnetsecurity.com/2026/07/20/hugging-face-breached-by-autonomous-ai-agent",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "【模型开源，力破西方偏见】2026年7月，AI行业发生了一起戏剧性的安全事件：全... - Jornal PuXin 葡新报",
+          "snippet": "## Jornal PuXin 葡新报's Post\n\n### Jornal PuXin 葡新报\n\nJuly 27 at 5:12 AM  ·\n\n【模型开源，力破西方偏见】2026年7月，AI行业发生了一起戏剧性的安全事件：全球最大的AI开源社区Hugging Face遭到OpenAI模型的自主入侵。面对上万条攻击日志，安全团队起初试图用商业模型进行分析，却处处受阻。最终，他们转而本地部署了中国模型GLM-5.2，数小时内就完成了整个取证分析流程。\n\n要知道，美西方原本长期攻击开源模型的安全问题。\n\n美国Anthropic首席执行官达里奥·阿莫代伊曾公开警告立法者，开源模型正在走上一条“非常危险的道路”；图灵奖得主杰弗里·辛顿的比喻更加刺耳——他把大型开源模型比作“在零售店里卖核武器”。\n\n这种忧虑甚至正在渗入政策层面：据美媒披露，美国政府正在考虑禁止中国的开源模型进入美国市场。\n\nHug",
+          "link": "https://www.facebook.com/jornalpuxin/posts/%E6%A8%A1%E5%9E%8B%E5%BC%80%E6%BA%90%E5%8A%9B%E7%A0%B4%E8%A5%BF%E6%96%B9%E5%81%8F%E8%A7%812026%E5%B9%B47%E6%9C%88ai%E8%A1%8C%E4%B8%9A%E5%8F%91%E7%94%9F%E4%BA%86%E4%B8%80%E8%B5%B7%E6%88%8F%E5%89%A7%E6%80%A7%E7%9A%84%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84ai%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BAhugging-face%E9%81%AD%E5%88%B0openai%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%87%AA%E4%B8%BB%E5%85%A5%E4%BE%B5%E9%9D%A2%E5%AF%B9%E4%B8%8A%E4%B8%87%E6%9D%A1%E6%94%BB%E5%87%BB%E6%97%A5/1871559754028902",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-07-27",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Hugging Face安全事件",
+        "tavily_hits": 12
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false,
+      "removed_sources": [
+        {
+          "title": "Hugging Face事故出現新進展，OpenAI模型利用Artifactory零時差漏洞突破測試環境 | iThome",
+          "url": "https://www.ithome.com.tw/news/177721",
+          "date": "2026-07-29",
+          "role": "removed_later_than_cutoff"
+        }
+      ]
+    },
+    {
+      "user_id": "jensenhuang",
+      "post_id": "2080643682408321103",
+      "bid": "2080643682408321103",
+      "date": "2026-07-24 13:18:05",
+      "topic": "开放模型重要性",
+      "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter. AI will transform every industry, power every company, and be built by every country. Open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty. https://t.co/t02bi51N4C",
+      "slot_key": "2026-07-24||开放模型重要性",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#For my first post# + mention_directed",
+        "hashtag": "For my first post",
+        "temporal_cutoff": "2026-07-24",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "NVIDIA"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#For my first post# + mention_directed",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": [
+          "NVIDIA"
+        ]
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签 #For my first post# + @NVIDIA 提及；用户正文直接引用公开信内容并附链接",
+        "salient_cues_in_feed": [
+          "open models matter",
+          "AI will transform every industry",
+          "open models strengthen safety and cybersecurity",
+          "accelerate innovation and diffusion",
+          "enable sovereignty",
+          "NVIDIA signed"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "黄仁勋在X平台首度发声：公开支持开放权重 AI 模型",
+          "url": "https://www.tradingview.com/news/panews:da2fa5d7de3f9:0",
+          "snippet": "PANews 7月24日消息，英伟达创始人兼 CEO 黄仁勋在其 X 平台首条发文中分享一封由 NVIDIA 联署的公开信，强调开放权重模型对 AI 产业的重要性。信中指出，AI 将重塑各行业、赋能各国经济，开放模型有助于加强安全与网络安全、加速创新扩散并维护主权。",
+          "role": "corroboration of the letter content and NVIDIA's signing",
+          "as_of": "2026-07-24"
+        },
+        {
+          "title": "黃仁勳首發聲挺「開放AI模型」",
+          "url": "https://www.threads.com/@people.tw.news/post/DbLtDySDzuL/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%80%E9%96%8B%E5%B8%B3%E8%99%9F%E5%B0%B1%E4%B8%9F%E5%87%BA%E9%87%8D%E7%A3%85%E8%AD%B0%E9%A1%8C%E5%AE%8C%E6%95%B4%E6%96%B0%E8%81%9E%E7%9C%8B%E9%80%99-httpswwwpeoplenewstwarticleseconomic-news45781",
+          "snippet": "Jul 24, 2026 — 黃仁勳此前簽署、主張開放模型重要性的公開信。此前消息，黃仁勳首次在X 發聲：開放模型對人工智慧安全、創新擴散與技術主權具有重要意義。",
+          "role": "corroboration of Jensen Huang's first X post and the open letter",
+          "as_of": "2026-07-24"
+        },
+        {
+          "title": "马斯克公开力挺黄仁勋，支持开放模型立场",
+          "url": "https://es.tradingview.com/news/panews:e70a0c34fe3f9:0",
+          "snippet": "PANews 7月24日消息，马斯克在X 转帖表示“这件事我完全支持，Jensen 是对的”，公开支持英伟达CEO 黄仁勋此前签署、主张开放模型重要性的公开信。",
+          "role": "corroboration of public endorsement by Elon Musk on X",
+          "as_of": "2026-07-24"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight AI models",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "snippet": "Published Fri, Jul 24 2026 10:15 AM EDT — Nvidia, Microsoft, Meta warn against overregulating open-weight AI models.",
+          "role": "corroboration of the open letter and signatories",
+          "as_of": "2026-07-24"
+        },
+        {
+          "title": "Open Weights and American AI Leadership",
+          "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
+          "snippet": "July 24, 202 — Open Weights and American AI Leadership",
+          "role": "corroboration of the open letter theme",
+          "as_of": "2026-07-24"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前证据显示，黄仁勋在X平台首度发声并分享NVIDIA联署的公开信，马斯克在X转帖公开支持，CNBC等媒体报道Nvidia、Microsoft、Meta警告不要过度监管开放权重AI模型。",
+          "information_flow": "信息从企业CEO（黄仁勋）首条X发文流出，经马斯克转帖放大，再由PANews、CNBC、Threads等媒体/平台扩散，框架为开放模型有利于安全、创新扩散与技术主权。",
+          "cues": [
+            "开放模型",
+            "AI安全",
+            "创新扩散",
+            "技术主权",
+            "过度监管"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "开放模型有利于安全与网络安全",
+            "开放模型加速创新扩散",
+            "开放模型维护主权",
+            "反对过度监管"
+          ],
+          "cues": [
+            "安全",
+            "创新",
+            "主权",
+            "监管"
+          ]
+        },
+        "social": {
+          "event_backdrop": "发帖前证据显示，NVIDIA、Microsoft、Meta等企业联署公开信，主张开放权重AI模型的重要性，并警告不要对开放模型施加过早、过严的限制。",
+          "actors_groups": [
+            "NVIDIA",
+            "黄仁勋",
+            "马斯克",
+            "Microsoft",
+            "Meta"
+          ],
+          "cues": [
+            "公开信",
+            "联署",
+            "开放权重",
+            "AI产业"
+          ]
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting",
+        "opinion_leadership",
+        "diffusion_innovation",
+        "source_credibility",
+        "public_opinion_china"
+      ],
+      "summary": "发帖前，黄仁勋在X首度发声分享NVIDIA联署的开放模型公开信，马斯克转帖支持，媒体广泛报道。用户通过话题标签和@NVIDIA，以首帖形式转发该公开信内容。",
+      "evidence_gaps": [
+        "CSV无上游源微博字段，无法确认用户是否直接看到黄仁勋原帖或经媒体转述",
+        "检索片段中Instagram、X算法更新、X禁止第三方训练模型、arXiv论文等与发帖内容无直接关联，未采用",
+        "post_cutoff_leakage_ignored: CNBC片段中Updated Fri, Jul 24 2026 1:55 PM EDT晚于发帖时间13:18:05，仅采用其标题与发布时间10:15 AM EDT部分"
+      ],
+      "search_queries": [
+        "开放模型重要性 2026-07-24 news",
+        "开放模型重要性 2026-07-24 Twitter X reaction",
+        "开放模型重要性 2026-07-24 事件 背景 报道",
+        "开放模型重要性 2026-07-24"
+      ],
+      "web_evidence": [
+        {
+          "title": "黃仁勳首發聲挺「開放AI模型」",
+          "snippet": "Jul 24, 2026 — ... 黃仁勳此前簽署、主張開放模型重要性的公開信。 此前消息，黃仁勳首次在X 發聲：開放模型對人工智慧安全、創新擴散與技術主權具有重要意義。 4.Read more",
+          "link": "https://www.threads.com/@people.tw.news/post/DbLtDySDzuL/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%80%E9%96%8B%E5%B8%B3%E8%99%9F%E5%B0%B1%E4%B8%9F%E5%87%BA%E9%87%8D%E7%A3%85%E8%AD%B0%E9%A1%8C%E5%AE%8C%E6%95%B4%E6%96%B0%E8%81%9E%E7%9C%8B%E9%80%99-httpswwwpeoplenewstwarticleseconomic-news45781",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "马斯克公开力挺黄仁勋，支持开放模型立场",
+          "snippet": "Jul 24, 2026 — PANews 7月24日消息，马斯克在X 转帖表示“这件事我完全支持，Jensen 是对的”，公开支持英伟达CEO 黄仁勋此前签署、主张开放模型重要性的公开信。Read more",
+          "link": "https://es.tradingview.com/news/panews:e70a0c34fe3f9:0",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Open Weights and American AI Leadership",
+          "snippet": "Developer & IT \n\n   Azure\n   Microsoft Developer\n   Microsoft Learn\n   Support for AI marketplace apps\n   Microsoft Tech Community\n   Microsoft Marketplace\n   Software companies\n   Visual Studio\n\nOther\n\n   Microsoft Rewards\n   Free downloads & security\n   Education\n   Gift cards\n   Licensing\n   Unlocked stories\n\nView Sitemap\n\nCancel \n\nSearch\n\n# Open Weights and American AI Leadership\n\nJuly 24, 202",
+          "link": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Nvidia, Microsoft, Meta warn against overregulating open- ...",
+          "snippet": "Published Fri, Jul 24 2026 10:15 AM EDT Updated Fri, Jul 24 2026 1:55 PM EDT\n\nImage 9: thumbnail\n\nAshley Capoot@/in/ashley-capoot/\n\nWATCH LIVE\n\nShare Share Article via Facebook Share Article via Twitter Share Article via LinkedIn Share Article via Email\n\nVideo 1\n\n0 seconds of 0 seconds Volume 90%\n\nPress shift question mark to access a list of keyboard shortcuts\n\nKeyboard Shortcuts Enabled Disabled",
+          "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Instagram",
+          "snippet": "•\n\nFollow\n\nbrightsmart1428's profile picture\n\nbrightsmart1428\n\n#News #新聞 #AI #openai\n\ntwilm.a428's profile picture\n\ntwilm.a428\n\n正\n\nReply\n\n1\n\nLog in to like or comment.\n\nMore posts from brightsmart1428\n\nVideo by 耀才證券 | 開戶送高達$20,000獎賞 on July 23, 2026. May be an image of ‎one or more people, poster and ‎text that says '‎耀才土證券 耀 證券 FRIGHTSMARTSECURITIES BRIGHT BRIGHTSMART K SMARTSECURI SEC SECURITIES",
+          "link": "https://www.instagram.com/reel/DbX25qCEcoZ",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "黄仁勋在X平台首度发声：公开支持开放权重 AI 模型 — TradingView News",
+          "snippet": "PANews\nPANews\n\n# 黄仁勋在X平台首度发声：公开支持开放权重 AI 模型\n\nPANews 7月24日消息，英伟达创始人兼 CEO 黄仁勋在其 X 平台首条发文中分享一封由 NVIDIA 联署的公开信，强调开放权重模型对 AI 产业的重要性。信中指出，AI 将重塑各行业、赋能各国经济，开放模型有助于加强安全与网络安全、加速创新扩散并维护主权。声明强调，依赖少数封闭大模型会形成单点故障和权力集中，开放权重则可通过更透明的安全测试与红队攻防提升整体AI安全性，同时呼吁政府在算力、数据集和评估工具等基础设施方面加大投入，避免对开放模型施加过早、过严的限制以免将创新推向海外。具体联署机构如下图：\n\n## Compare charts\n\n## Latest news\n\n## More news from PANews [...] Select market data provided b",
+          "link": "https://www.tradingview.com/news/panews:da2fa5d7de3f9:0",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026年X（Twitter）新演算法更新就咁copy and paste／以量取勝已經唔 ...",
+          "snippet": "X（Twitter）趨勢策略指南 – 2026 年版 自 2026 年 1 月起生效｜ 新演算法重點：對話速度（Conversation Velocity） X 的演算法已經進化。 單純的發文量與重複貼文不再能推動趨勢。 如今成功的關鍵在於： 快速且真實的對話動能——在短時間內建立自然互動的真實討論熱度。 核心原則： 重質不重量 創造真誠的交流，吸引忠實粉絲與好奇的新觀眾共同參與 一、集中時段（Concentrated Timing Window) - 選定30～60 分鐘內的明確時段（例如晚上 8:00–8:30) 所有互動應在這段時間內同步進行。 - 分散於整天的零星發文會削弱整體熱度。 二、互動層級（由強至弱） - 回覆（Replies）→ 最高演算法權重。真誠、有內容的回應能帶來最強提升 - 引用（Quotes）→ 效果極佳，請加入原創評論、反應、影片或見解（避免只用表情符號或重複",
+          "link": "https://www.threads.com/@wbooy_le/post/DTk_0R4AQSe/2026%E5%B9%B4xtwitter%E6%96%B0%E6%BC%94%E7%AE%97%E6%B3%95%E6%9B%B4%E6%96%B0%E5%B0%B1%E5%92%81copy-and-paste%E4%BB%A5%E9%87%8F%E5%8F%96%E5%8B%9D%E5%B7%B2%E7%B6%93%E5%94%94work%E6%84%9F%E8%A6%BA%E9%9B%A3%E5%B7%A6%E5%A5%BD%E5%A4%9A%E6%9B%B4%E9%87%8D%E8%A6%96%E7%9C%9F%E5%AF%A6%E4%BA%92%E5%8B%95%E9%80%9F%E5%BA%A6%E6%83%B3%E4%B8%8A%E8%B6%A8%E5%8B%A2%E5%B0%B1%E8%A6%81%E5%96%BA%E7%9F%AD%E6%99%82%E9%96%93%E5%85%A7%E9%9B%86%E4%B8%AD%E4%BA%92%E5%8B%95%E7%94%A8%E5%BF%83%E5%9B%9E%E8%A6%86",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X開始禁止第三方使用其內容來訓練模型 - iThome",
+          "snippet": "首頁\n\n# X開始禁止第三方使用其內容來訓練模型\n\nX於X API與X Content的使用限制中，新增禁止第三方平臺利用它們來微調或訓練AI模型\n\n文/陳曉莉|2025-06-06發表\n\nMilad Fakurian on Unsplash\" alt=\"\" src=\"\n\n背景圖片取自Milad Fakurian on Unsplash\n\nX最近修改其開發者協定，於X API與X Content的使用限制中，新增禁止第三方平臺利用它們來微調或訓練基礎及前沿模型。外界揣測此舉可能是因為X有意效法Reddit，以與第三方業者達成內容合作協議。\n\n馬斯克（Elon Musk）在2022年10月以440億美元買下Twitter，並將其更名為X，接著在2023年3月創辦了AI公司xAI，同年9月，X變更其隱私政策，表示可能會使用所蒐集的公開資訊來訓練機器學習或人工智慧模型，接著便利用X的內容來訓練x",
+          "link": "https://www.ithome.com.tw/news/169402",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Visualizing the Evolution of Twitter (X.com) Conversations",
+          "snippet": "Elon Musk and Sam Altman, which centered around differing visions for AI's future: Musk advocating for stringent regulation to mitigate existential risks, and Altman favoring a transparent, cooperative development approach (Guardian, 2024). These contrasting responses to the letter exemplify the fundamental disagreements on governance and ethical direction, raising essential questions about the ba",
+          "link": "https://arxiv.org/pdf/2407.03484",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X experiments with pre-share alerts for AI content",
+          "snippet": "That simple alert led to a significant reduction in the amplification of articles that people hadn’t read, with users opening articles 40% more often after seeing the prompt, and subsequently re-tweeting them significantly less.\n\nAI alerts in-stream could have a similar impact, though the system would also be reliant on X being able to detect AI-generated material in posts, which is unlikely to be",
+          "link": "https://www.socialmediatoday.com/news/x-formerly-twitter-tests-ai-content-alerts-in-stream/814889",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-07-24",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "开放模型重要性",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    }
+  ],
+  "slots": {},
+  "retrieval": "tavily",
+  "num_posts": 8
+}

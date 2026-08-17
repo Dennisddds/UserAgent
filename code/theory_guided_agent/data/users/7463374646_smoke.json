@@ -1,0 +1,235 @@
+{
+  "user_id": "7463374646",
+  "stimulus": "外媒称中国经济即将崩溃并配夸张图表做辟谣可视化。请预测该用户会如何回应，并解释机制。",
+  "predicted_opinion": "又来这套，外媒唱衰中国经济多少年了还没崩？配个图就想装客观辟谣，不就是换个姿势带节奏，流量密码属实给它们玩明白了。",
+  "stance": "oppose",
+  "activated_coordinates": [
+    "议题 → 媒体 → 流量",
+    "立场先行",
+    "全是控评水军",
+    "uncertainty_reduction",
+    "trust"
+  ],
+  "matched_theories": [
+    {
+      "id": "seed_uncertainty",
+      "name": "Uncertainty Reduction & Visual Evidence",
+      "coordinate": "uncertainty_reduction",
+      "score": 0.07792865001991968,
+      "why": "triggers=['图表'] coord=uncertainty_reduction w=1.00",
+      "mechanism": "明确可视化降低认知不确定感，从而提升对纠正信息的可接受度。"
+    },
+    {
+      "id": "seed_slovic_risk",
+      "name": "Psychometric Risk Perception",
+      "coordinate": "risk_perception",
+      "score": 0.028759865427152538,
+      "why": "triggers=['崩溃'] coord=risk_perception w=1.00",
+      "mechanism": "人们用 dread 与未知性等心理维度评估风险，而非客观概率。"
+    },
+    {
+      "id": "seed_trust_repair",
+      "name": "Trust Repair after Violation",
+      "coordinate": "trust",
+      "score": 0.025007816164017767,
+      "why": "triggers=['辟谣'] coord=trust w=1.00",
+      "mechanism": "信任破坏后，能力型与诚信型归因对应不同修复策略；证据透明有助于能力归因修复。"
+    }
+  ],
+  "evidence_events": [
+    {
+      "map_id": "73f0d9f8c196",
+      "title": "矢野浩二称中国不只是我的第二故乡",
+      "score": 0.03912553515233695,
+      "opinion": "作者认为应该让矢野浩二入籍中国，以避免每次中日关系出现摩擦时他都需要出来表态，显得生分。"
+    },
+    {
+      "map_id": "57b49085a172",
+      "title": "丫丫回家好像笑了",
+      "score": 0.02564102564102564,
+      "opinion": "就离谱，熊猫人格化。"
+    },
+    {
+      "map_id": "ffe21b68c387",
+      "title": "小日子",
+      "score": 0.024419314525275217,
+      "opinion": "用户表达了对“小日子”的某种预期或误解，但未明确说明具体观点。"
+    },
+    {
+      "map_id": "9f79d7d1319e",
+      "title": "足协拟公开聘请足球社会监督员",
+      "score": 0.022875450543583874,
+      "opinion": "作者未表达明确观点，仅重复‘何胜’一词，可能为讽刺或情绪表达。"
+    },
+    {
+      "map_id": "2413d74f33ba",
+      "title": "异人之下",
+      "score": 0.017683196392243517,
+      "opinion": "作者认为直接拍徐翔的故事才是对的，因为漫画开局又快又乱，徐翔回忆才完成降速和世界观搭建。"
+    },
+    {
+      "map_id": "1d443b9192a0",
+      "title": "中国海警依法对菲船予以驱离",
+      "score": 0.013781637176578718,
+      "opinion": "不理解为什么要用船追船，用无人机迟滞它的速度再用大船创沉不是更好吗？我都能想到几个：1.无人机喷洒刺激性气体，干扰船员的行动能力。2.无人机播撒油漆类物质到驾驶舱玻璃，干扰船只视线，逼迫其减速。3.无人机投放类海带物品，缠绕其螺旋桨。4.无人机携带噪声发生器，直接攻击船员。"
+    }
+  ],
+  "verbalization": "基于[议题→媒体→流量]的个人经验，该用户会将外媒行为归因为流量驱动而非信息纠正。[uncertainty_reduction]理论预测可视化可降低不确定感，但用户[立场先行]的价值观与[全是控评水军]的归因习惯构成强边界，导致信任修复策略失效，反被解读为包装精致的 propaganda。",
+  "c_trace": {
+    "steps": [
+      "match_theories",
+      "retrieve_genminds",
+      "generate",
+      "verbalize"
+    ],
+    "num_theories": 3,
+    "num_events": 6
+  },
+  "u_snapshot": {
+    "method": "GenMinds",
+    "num_events": 29,
+    "beliefs": [
+      "立场先行",
+      "怎么这时候不讲尊重民主投票了",
+      "引进这词听起来不好... 像是要搞配种似的",
+      "想在民进党手里抢回孩子... 和做梦没有区别",
+      "动保势力疑似有点大了",
+      "全是控评水军",
+      "依托答辩",
+      "民主党的鹰犬发力了",
+      "祭奠？闹事！",
+      "学新闻学的",
+      "[style]Uses sarcasm and irony",
+      "[style]Employs internet slang (e.g., 依托答辩, 水军)"
+    ],
+    "motifs": [
+      "图恒宇 → 马兆 → 北京机房",
+      "议题 → 媒体 → 流量",
+      "丫丫 → 北动乐园 → 丫丫租借合同到期",
+      "哈巴 → 流浪动物 → 寻主",
+      "黄岩 → 黄岩寻狗 → 宠物领养",
+      "丫丫 → 丫丫回家 → 熊猫人格化",
+      "李克强 → 李克强同志逝世",
+      "议题 → 村民代表会议 → 民主投票"
+    ],
+    "interests": [
+      "Critiquing movie plot logic",
+      "Analyzing media narratives and ethics",
+      "Discussing rural policy and land rights",
+      "Cross-strait relations and Taiwan politics",
+      "Anime and manga criticism",
+      "Speculating on industrial manufacturing details",
+      "Football governance and corruption",
+      "Social risk management and psychology",
+      "Animal rights discourse",
+      "Internet subculture and memes"
+    ],
+    "communication": [
+      "Uses sarcasm and irony",
+      "Employs internet slang (e.g., 依托答辩, 水军)",
+      "Direct and confrontational tone",
+      "Uses rhetorical questions",
+      "References pop culture memes",
+      "Concise sentence structure"
+    ]
+  },
+  "v_snapshot": {
+    "persona_values": [
+      "立场先行",
+      "怎么这时候不讲尊重民主投票了",
+      "引进这词听起来不好... 像是要搞配种似的",
+      "想在民进党手里抢回孩子... 和做梦没有区别",
+      "动保势力疑似有点大了",
+      "全是控评水军",
+      "依托答辩",
+      "民主党的鹰犬发力了",
+      "祭奠？闹事！",
+      "学新闻学的"
+    ],
+    "entity_stance_sample": {
+      "图恒宇": [
+        {
+          "stance": "不合理",
+          "count": 1
+        },
+        {
+          "stance": "质疑",
+          "count": 1
+        }
+      ],
+      "马兆": [
+        {
+          "stance": "不合理",
+          "count": 1
+        },
+        {
+          "stance": "质疑",
+          "count": 1
+        }
+      ],
+      "北京机房": [
+        {
+          "stance": "不合理",
+          "count": 1
+        },
+        {
+          "stance": "质疑",
+          "count": 1
+        }
+      ],
+      "丫丫": [
+        {
+          "stance": "伤天害理",
+          "count": 1
+        },
+        {
+          "stance": "优势尽显",
+          "count": 1
+        },
+        {
+          "stance": "离谱",
+          "count": 1
+        }
+      ],
+      "北动乐园": [
+        {
+          "stance": "伤天害理",
+          "count": 1
+        },
+        {
+          "stance": "优势尽显",
+          "count": 1
+        }
+      ],
+      "哈巴": [
+        {
+          "stance": "作者描述狗的特征并呼吁寻找主人，未表达明",
+          "count": 1
+        }
+      ],
+      "黄岩": [
+        {
+          "stance": "无",
+          "count": 1
+        }
+      ],
+      "李克强": [
+        {
+          "stance": "震惊",
+          "count": 1
+        }
+      ]
+    },
+    "theory_coordinates": [
+      "uncertainty_reduction",
+      "risk_perception",
+      "trust"
+    ],
+    "personal_weights": {}
+  },
+  "caveats": [
+    "若可视化数据源来自国内权威机构，可能部分降低敌意归因",
+    "用户对‘辟谣’一词本身可能已有负面预设，不限于外媒",
+    "预测基于样本历史，未考虑该议题下用户可能存在的具体利益关联"
+  ]
+}

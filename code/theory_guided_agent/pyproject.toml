@@ -1,0 +1,12 @@
+# Theory-Guided C–U–V Agent
+# Depends: stdlib + optional numpy for retrieval
+
+[project]
+name = "theory-guided-agent"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "pyyaml>=6.0",
+  "python-dotenv>=1.0",
+  "langgraph>=0.2",
+]

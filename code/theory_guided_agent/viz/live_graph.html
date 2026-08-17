@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Live Knowledge Graph · GenMinds</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg: #eef1f0;
+    --ink: #1a2421;
+    --muted: #5e6d68;
+    --panel: #fbfcfc;
+    --line: #c9d2ce;
+    --accent: #0b6e4f;
+    --ego: #8b1e1e;
+    --topic: #1a5276;
+    --entity: #0b6e4f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "DM Sans", system-ui, sans-serif;
+    color: var(--ink);
+    background: linear-gradient(180deg, #f5f7f6, var(--bg));
+    min-height: 100vh;
+  }
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 28px 20px 64px; }
+  .brand { font-size: clamp(1.6rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -0.03em; margin: 0 0 6px; }
+  .sub { color: var(--muted); margin: 0; max-width: 48rem; line-height: 1.5; }
+  .live-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; font-family: "IBM Plex Mono", monospace; font-size: 0.75rem; }
+  .pill { border: 1px solid var(--line); background: var(--panel); padding: 4px 9px; }
+  .pill.on { border-color: var(--accent); color: var(--accent); background: #e7f4ee; }
+  .pill.warn { border-color: #a85b12; color: #a85b12; }
+  .stats { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin: 16px 0; }
+  .stat { background: var(--panel); border: 1px solid var(--line); padding: 12px 14px; }
+  .stat .k { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  .stat .v { font-size: 1.4rem; font-weight: 650; margin-top: 3px; }
+  .stat .d { font-size: 0.75rem; color: var(--muted); }
+  .grid { display: grid; grid-template-columns: 1.4fr 0.9fr; gap: 12px; }
+  .panel { background: var(--panel); border: 1px solid var(--line); padding: 14px 16px; }
+  .panel h2 { margin: 0 0 4px; font-size: 0.92rem; font-weight: 650; }
+  .cap { color: var(--muted); font-size: 0.74rem; margin-bottom: 8px; line-height: 1.4; }
+  #graph { width: 100%; height: 480px; display: block; background: #f7f9f8; border: 1px solid var(--line); }
+  .legend-row { display: flex; gap: 14px; margin-top: 8px; font-size: 0.72rem; color: var(--muted); font-family: "IBM Plex Mono", monospace; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+  .beliefs { list-style: none; margin: 0; padding: 0; max-height: 160px; overflow: auto; }
+  .beliefs li { font-size: 0.8rem; padding: 5px 0; border-bottom: 1px solid var(--line); line-height: 1.35; }
+  .meta { font-family: "IBM Plex Mono", monospace; font-size: 0.72rem; color: var(--muted); }
+  .body { font-size: 0.88rem; line-height: 1.45; margin: 6px 0; }
+  .feed { max-height: 220px; overflow: auto; }
+  .feed-item { border-top: 1px solid var(--line); padding: 7px 0; font-size: 0.8rem; }
+  .progress-track { height: 7px; background: #d9e2dd; margin-top: 10px; }
+  .progress-track > i { display: block; height: 100%; background: var(--accent); width: 0%; transition: width .3s; }
+  .chips { display: flex; flex-wrap: wrap; gap: 5px; margin: 6px 0; }
+  .chip { font-family: "IBM Plex Mono", monospace; font-size: 0.68rem; border: 1px solid var(--line); padding: 2px 6px; background: #eef5f1; }
+  @media (max-width: 920px) {
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1 class="brand">Live Knowledge Graph</h1>
+      <p class="sub">展示 GenMinds 用户知识图谱（人物/实体/话题），随时序实验每写入一条预测、记忆窗口前推而更新——不是理论坐标使用次数统计。</p>
+      <div class="live-row">
+        <span class="pill" id="conn">connecting...</span>
+        <span class="pill" id="identity">—</span>
+        <span class="pill" id="updated">—</span>
+      </div>
+      <div class="progress-track"><i id="progBar"></i></div>
+    </header>
+
+    <section class="stats">
+      <div class="stat"><div class="k">Progress</div><div class="v" id="sProg">—</div><div class="d" id="sProgD">predictions</div></div>
+      <div class="stat"><div class="k">KG events</div><div class="v" id="sKg">—</div><div class="d">events in memory window</div></div>
+      <div class="stat"><div class="k">Overall OA</div><div class="v" id="sOA">—</div><div class="d">alignment (side metric)</div></div>
+      <div class="stat"><div class="k">Recent 20 OA</div><div class="v" id="sR20">—</div><div class="d">rolling</div></div>
+      <div class="stat"><div class="k">Last OA</div><div class="v" id="sLast">—</div><div class="d" id="sMode">mode</div></div>
+    </section>
+
+    <section class="grid">
+      <div class="panel">
+        <h2>User knowledge graph</h2>
+        <div class="cap">中心=账号本人；绿点=实体；蓝点=话题。边=同事件共现或与本人关联。随已摄入事件增长。</div>
+        <svg id="graph" viewBox="0 0 720 480" preserveAspectRatio="xMidYMid meet"></svg>
+        <div class="legend-row">
+          <span><i class="dot" style="background:#8b1e1e"></i>ego (本人)</span>
+          <span><i class="dot" style="background:#0b6e4f"></i>entity</span>
+          <span><i class="dot" style="background:#1a5276"></i>topic</span>
+        </div>
+      </div>
+      <div class="panel">
+        <h2>Identity / beliefs</h2>
+        <div class="cap">静态信念先验 + 当前窗口最新事件</div>
+        <div class="meta" id="idBlock">—</div>
+        <ul class="beliefs" id="beliefs"></ul>
+        <h2 style="margin-top:14px">Latest prediction</h2>
+        <div id="latest">waiting...</div>
+        <h2 style="margin-top:14px">Recent feed</h2>
+        <div class="feed" id="feed"></div>
+      </div>
+    </section>
+  </div>
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  function fmt(x, d) {
+    if (x === null || x === undefined || Number.isNaN(x)) return "—";
+    return Number(x).toFixed(d == null ? 3 : d);
+  }
+
+  function renderKG(kg) {
+    const svg = $("graph");
+    const W = 720, H = 480;
+    const nodes = (kg && kg.nodes) || [];
+    const links = (kg && kg.links) || [];
+    if (!nodes.length) {
+      svg.innerHTML = "<text x='20' y='28' fill='#5e6d68' font-size='11'>no graph yet</text>";
+      return;
+    }
+    const cx = 340, cy = 240;
+    const ego = nodes.find(n => n.kind === "ego") || nodes[0];
+    const others = nodes.filter(n => n.id !== ego.id);
+    const maxC = Math.max(1, ...others.map(n => n.count || 1));
+    const pos = {};
+    pos[ego.id] = { x: cx, y: cy, r: 10, kind: "ego", id: ego.id, count: ego.count };
+
+    others.forEach((n, i) => {
+      const ang = -Math.PI / 2 + (2 * Math.PI * i) / Math.max(1, others.length);
+      const ring = n.kind === "topic" ? 175 : 130;
+      const r = 2.0 + 3.0 * Math.sqrt((n.count || 1) / maxC);
+      pos[n.id] = {
+        x: cx + ring * Math.cos(ang),
+        y: cy + ring * Math.sin(ang),
+        r: r,
+        kind: n.kind,
+        id: n.id,
+        count: n.count,
+        ang: ang,
+        stance: n.stance || ""
+      };
+    });
+
+    const maxW = Math.max(1, ...links.map(l => l.weight || 1));
+    let html = "";
+    html += "<text x='16' y='18' fill='#5e6d68' font-size='9' font-family='IBM Plex Mono'>GenMinds entity/topic graph · ego=" +
+      (kg.ego || "") + " · events=" + (kg.num_events_in_window || 0) + "</text>";
+
+    for (const l of links) {
+      const a = pos[l.source], b = pos[l.target];
+      if (!a || !b) continue;
+      const t = (l.weight || 1) / maxW;
+      html += "<line x1='" + a.x + "' y1='" + a.y + "' x2='" + b.x + "' y2='" + b.y +
+        "' stroke='#9aafa4' stroke-opacity='" + (0.15 + 0.4 * t).toFixed(2) +
+        "' stroke-width='" + (0.5 + 1.2 * t).toFixed(2) + "' />";
+    }
+
+    const order = [pos[ego.id]].concat(others.map(n => pos[n.id]));
+    for (const p of order) {
+      if (!p) continue;
+      const fill = p.kind === "ego" ? "#8b1e1e" : (p.kind === "topic" ? "#1a5276" : "#0b6e4f");
+      html += "<circle cx='" + p.x + "' cy='" + p.y + "' r='" + p.r + "' fill='" + fill +
+        "' stroke='#fff' stroke-width='0.8'><title>" + p.id + " · " + p.count +
+        (p.stance ? (" · " + p.stance) : "") + "</title></circle>";
+      if (p.kind === "ego") {
+        html += "<text x='" + p.x + "' y='" + (p.y + 18) + "' text-anchor='middle' font-size='10' font-weight='600' fill='#8b1e1e'>" +
+          p.id + "</text>";
+      } else {
+        const anchor = Math.cos(p.ang) >= 0 ? "start" : "end";
+        const lx = p.x + Math.cos(p.ang) * (p.r + 6);
+        const ly = p.y + Math.sin(p.ang) * (p.r + 6);
+        const lab = p.id.length > 10 ? p.id.slice(0, 9) + "..." : p.id;
+        html += "<text x='" + lx + "' y='" + (ly + 2) + "' text-anchor='" + anchor +
+          "' font-size='8' font-family='IBM Plex Mono' fill='#2a3531'>" + lab + "</text>";
+      }
+    }
+    svg.setAttribute("viewBox", "0 0 " + W + " " + H);
+    svg.innerHTML = html;
+  }
+
+  function apply(snap) {
+    if (!snap || !snap.ready) {
+      $("conn").textContent = "waiting";
+      $("conn").className = "pill warn";
+      return;
+    }
+    $("conn").textContent = "live";
+    $("conn").className = "pill on";
+    $("updated").textContent = "updated " + (snap.updated_at || "");
+    const kg = snap.kg || {};
+    const idn = (kg.identity || {});
+    $("identity").textContent = (idn.user_name || kg.ego || "?") + " / " + (idn.user_id || "");
+
+    const p = snap.progress || {};
+    const m = snap.metrics || {};
+    $("sProg").textContent = (p.lines || 0) + "/" + (p.total_target || "—");
+    $("sProgD").textContent = (p.pct != null ? (p.pct + "%") : "") + " scored " + (p.scored || 0);
+    $("progBar").style.width = (p.pct || 0) + "%";
+    $("sKg").textContent = p.kg_events != null ? p.kg_events : "—";
+    $("sOA").textContent = fmt(m.overall_oa);
+    $("sR20").textContent = fmt(m.recent20_oa);
+    $("sLast").textContent = fmt(m.last_oa);
+    const latest = snap.latest || {};
+    $("sMode").textContent = latest.mode || "mode";
+
+    renderKG(kg);
+
+    $("idBlock").textContent = "ego=" + (kg.ego || "") + " · beliefs from static_map";
+    $("beliefs").innerHTML = (kg.beliefs || []).map(function (b) {
+      return "<li>" + String(b).replace(/</g, "&lt;") + "</li>";
+    }).join("");
+
+    const le = kg.latest_event;
+    let latestHtml = "<div class='meta'>step " + latest.step + " · " + (latest.mode || "") +
+      " · OA " + fmt(latest.oa) + "</div>";
+    latestHtml += "<div class='body'>" + String(latest.prediction || "").replace(/</g, "&lt;") + "</div>";
+    if (le) {
+      latestHtml += "<div class='meta'>KG event: " + String(le.title || "").replace(/</g, "&lt;") + "</div>";
+      const ents = (le.entities || []).slice(0, 8).map(function (e) {
+        return "<span class='chip'>" + String(e).replace(/</g, "&lt;") + "</span>";
+      }).join("");
+      latestHtml += "<div class='chips'>" + ents + "</div>";
+    }
+    $("latest").innerHTML = latestHtml;
+
+    $("feed").innerHTML = (snap.recent || []).map(function (r) {
+      return "<div class='feed-item'><div><b>#" + r.step + "</b> " +
+        String(r.topic || "").slice(0, 36).replace(/</g, "&lt;") +
+        "</div><div class='meta'>" + (r.mode || "") + " · OA " + fmt(r.oa) + "</div></div>";
+    }).join("");
+  }
+
+  function connect() {
+    const es = new EventSource("/api/stream");
+    es.onmessage = function (ev) {
+      try { apply(JSON.parse(ev.data)); } catch (e) { console.warn(e); }
+    };
+    es.onerror = function () {
+      $("conn").textContent = "reconnecting...";
+      $("conn").className = "pill warn";
+    };
+  }
+
+  fetch("/api/snapshot").then(function (r) { return r.json(); }).then(apply).catch(function () {});
+  connect();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,3169 @@
+{
+  "user_id": "DarioAmodei",
+  "kind": "personal_reception_pathway",
+  "definition": "External communication/psychological/social context at posting time; not extracted user personality.",
+  "records": [
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2064781782877458612",
+      "bid": "2064781782877458612",
+      "date": "2026-06-10 18:48:33",
+      "topic": "Alongside it",
+      "text": "Alongside it, Anthropic is releasing a proposal for how governments can address the risks posed by frontier AI and a policy framework for job displacement, for which we intend to provide substantial financial backing. https://t.co/P0W2lIKbdY",
+      "slot_key": "2026-06-10||Alongside it",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Alongside it#",
+        "hashtag": "Alongside it",
+        "temporal_cutoff": "2026-06-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Alongside it#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "unknown",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "用户通过话题标签#Alongside it#进入并发帖，但发帖前无任何可验证的上游信源或呈现证据，传播路径无法还原。",
+      "evidence_gaps": [
+        "检索片段为空，无法确认发帖前用户接触到的具体信息源或呈现形式",
+        "CSV无上游源微博字段，无法追溯转发链",
+        "无post_cutoff_leakage_ignored（检索片段本身为空，未混入事后内容）"
+      ],
+      "search_queries": [
+        "Alongside it 2026-06-10 news before:2026-06-10",
+        "Alongside it 2026-06-10 Twitter X reaction before:2026-06-10",
+        "Alongside it 2026-06-10 事件 背景 报道 before:2026-06-10",
+        "Alongside it 2026-06-10 before:2026-06-10"
+      ],
+      "web_evidence": [],
+      "retrieval_meta": {
+        "retrieval": "serper",
+        "temporal_cutoff": "2026-06-10",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Alongside it",
+        "serper_hits": 0
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2064781785033244851",
+      "bid": "2064781785033244851",
+      "date": "2026-06-10 18:48:33",
+      "topic": "Many of these policy ide",
+      "text": "Many of these policy ideas have common-sense appeal across the political spectrum, and the sooner we act on them, the sooner everyone shares in AI's benefits.",
+      "slot_key": "2026-06-10||Many of these policy ide",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Many of these policy ide#",
+        "hashtag": "Many of these policy ide",
+        "temporal_cutoff": "2026-06-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Many of these policy ide#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "unknown",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "用户通过微博话题标签页进入并原创发帖，但发帖前可观察的信息源与传播路径证据缺失，无法还原其接触到的具体呈现内容。",
+      "evidence_gaps": [
+        "无任何检索片段，无法确认发帖前用户接触到的信息源、话题页呈现内容或传播路径",
+        "CSV 无上游源微博字段，无法追溯转发或引用来源",
+        "话题标签被截断为 'Many of these policy ide'，无法确认完整话题内容及其在发帖前的呈现状态"
+      ],
+      "search_queries": [
+        "Many of these policy ide 2026-06-10 news before:2026-06-10",
+        "Many of these policy ide 2026-06-10 Twitter X reaction before:2026-06-10",
+        "Many of these policy ide 2026-06-10 事件 背景 报道 before:2026-06-10",
+        "Many of these policy ide 2026-06-10 before:2026-06-10"
+      ],
+      "web_evidence": [],
+      "retrieval_meta": {
+        "retrieval": "serper",
+        "temporal_cutoff": "2026-06-10",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Many of these policy ide",
+        "serper_hits": 0
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2064781778599268818",
+      "bid": "2064781778599268818",
+      "date": "2026-06-10 18:48:32",
+      "topic": "In addition to transpare",
+      "text": "In addition to transparency, I now believe frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks—with the power to block or revoke deployment of models that pose catastrophic risk.",
+      "slot_key": "2026-06-10||In addition to transpare",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#In addition to transpare#",
+        "hashtag": "In addition to transpare",
+        "temporal_cutoff": "2026-06-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#In addition to transpare#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "unknown",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "发帖前仅见话题标签入口，无上游源博与检索片段，无法还原其接触到的信息环境与传播路径。",
+      "evidence_gaps": [
+        "无任何截止发帖前的检索片段或上游源博，无法支持传播路径、呈现形式与信息环境判断",
+        "post_cutoff_leakage_ignored：未发现可用的发帖后信息，故无事后泄漏可忽略"
+      ],
+      "search_queries": [
+        "In addition to transpare 2026-06-10 news before:2026-06-10",
+        "In addition to transpare 2026-06-10 Twitter X reaction before:2026-06-10",
+        "In addition to transpare 2026-06-10 事件 背景 报道 before:2026-06-10",
+        "In addition to transpare 2026-06-10 before:2026-06-10"
+      ],
+      "web_evidence": [],
+      "retrieval_meta": {
+        "retrieval": "serper",
+        "temporal_cutoff": "2026-06-10",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "In addition to transpare",
+        "serper_hits": 0
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2064781776904663043",
+      "bid": "2064781776904663043",
+      "date": "2026-06-10 18:48:32",
+      "topic": "Anthropic呼吁前沿AI透明度监管",
+      "text": "Anthropic has long advocated for transparency requirements for frontier AI, because the risks weren't yet clear enough to regulate precisely. That is no longer sufficient.",
+      "slot_key": "2026-06-10||Anthropic呼吁前沿AI透明度监管",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Anthropic has long advoc#",
+        "hashtag": "Anthropic has long advoc",
+        "temporal_cutoff": "2026-06-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Anthropic has long advoc#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "话题标签页 #Anthropic has long advoc# → 用户在该话题下发布原创帖。用户可能通过该话题标签页接触到Anthropic CEO关于监管立场的报道或讨论。",
+        "presentation_form": "话题标签页呈现，内容为Anthropic CEO关于AI监管的立场声明（文字报道/长文摘要）",
+        "salient_cues_in_feed": [
+          "Anthropic has long advocated for transparency requirements",
+          "risks weren't yet clear enough to regulate precisely",
+          "no longer sufficient",
+          "government should block dangerous AI",
+          "more serious and binding regulation"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Anthropic CEO呼籲，政府應有權阻止、限制高風險新AI模型部署",
+          "url": "https://tw.stock.yahoo.com/news/anthropic-ceo%E5%91%BC%E7%B1%B2-%E6%94%BF%E5%BA%9C%E6%87%89%E6%9C%89%E6%AC%8A%E9%98%BB%E6%AD%A2-%E9%99%90%E5%88%B6%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-004813667.html",
+          "snippet": "Anthropic執行長Dario Amodei公開呼籲對AI實施更嚴格的強制性監管，主張政府應有權阻止存在安全風險的AI模型上線部署。他將AI與汽車、飛機及藥品等工具做類比，認為若設計或營運不當，同樣有能力造成大規模傷亡，因此現在是時候從透明度邁向更嚴肅、更具約束力的AI監管。",
+          "role": "呈现了Anthropic CEO呼吁从透明度转向强制性监管的立场，与用户正文直接对应",
+          "as_of": "2026-06-10"
+        },
+        {
+          "title": "AI恐自我改進 Anthropic呼籲全球暫停AI開發",
+          "url": "https://www.epochtimes.com/b5/26/6/4/n14782305.htm",
+          "snippet": "Anthropic週四（6月4日）發文，呼籲全球主要AI實驗室考慮放緩甚至暫停最先進AI系統的開發，並警告AI正逐步接近「遞歸自我改進」能力。",
+          "role": "呈现了Anthropic在6月4日对AI风险的警告，构成用户发帖前的背景信息",
+          "as_of": "2026-06-05"
+        },
+        {
+          "title": "Anthropic CEO says government should block dangerous AI",
+          "url": "https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai",
+          "snippet": "Amodei writes that existing transparency legislation is not enough and calls for 'more serious and binding regulation of AI.' Like cars, airplanes or drugs, he writes, AI regulation should require frontier models to go through rigorous testing and auditing.",
+          "role": "直接呈现了用户正文所引述的立场：透明度立法已不足够，需要更严肃、有约束力的监管",
+          "as_of": "2026-06-10"
+        },
+        {
+          "title": "Anthropic Releases Claude Fable 5, Mythos 5: Crypto Reacts",
+          "url": "https://bitcoinfoundation.org/news/ai-news/claude-community",
+          "snippet": "Anthropic Releases Claude Fable 5 and Limited Mythos 5 — Crypto Community Reacts",
+          "role": "呈现了Anthropic新模型发布的背景，与CEO呼吁监管的语境相关",
+          "as_of": "2026-06-10"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前，Anthropic CEO的监管呼吁在多家媒体（Yahoo财经、Axios、经济日报、大纪元）被报道，呈现为Anthropic从透明度倡导转向支持强制性监管的立场转变。",
+          "information_flow": "信息从Anthropic CEO的长文/声明流出，经财经媒体和科技媒体报道扩散，框架为「AI风险需要更严格的政府干预」。",
+          "cues": [
+            "透明度不足",
+            "强制性监管",
+            "政府干预权",
+            "AI风险",
+            "第三方测试"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "透明度立法已不足够",
+            "AI风险需要更严肃的约束性监管",
+            "AI与汽车、飞机、药品类比"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "Anthropic CEO Dario Amodei于2026年6月发表长文，呼吁从透明度要求转向强制性AI监管，主张政府应有权阻止高风险AI模型部署。此前6月4日Anthropic已呼吁全球暂停最先进AI开发。",
+          "actors_groups": [
+            "Anthropic",
+            "Dario Amodei",
+            "美国政府（川普政府）"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "risk_perception",
+        "agenda_setting",
+        "framing",
+        "source_credibility",
+        "technology_threat"
+      ],
+      "summary": "用户通过微博话题标签页接触到Anthropic CEO关于AI监管的立场报道，该报道呈现了从透明度倡导转向强制性监管的呼吁，用户随后以原创帖形式转述并评论该立场。",
+      "evidence_gaps": [
+        "CSV无上游源微博字段，无法确认用户是否直接阅读了某篇具体报道或仅通过话题页摘要接触信息",
+        "已忽略发帖后（2026-06-10之后）的信息源：YouTube视频（2026-07-01）、RFI报道（2026-06-13）、Atlantic Council文章（含7月1日内容）、X平台7月28日帖子、Instagram帖子（虽标注6月10日但内容涉及Mythos模型发布后的用户反应，无法确认是否早于发帖时刻18:48:32）",
+        "无法确认话题标签页在发帖时刻的具体呈现内容和排序"
+      ],
+      "search_queries": [
+        "Anthropic呼吁前沿AI透明度监管 2026-06-10 news",
+        "Anthropic呼吁前沿AI透明度监管 2026-06-10 Twitter X reaction",
+        "Anthropic呼吁前沿AI透明度监管 2026-06-10 事件 背景 报道",
+        "Anthropic呼吁前沿AI透明度监管 2026-06-10"
+      ],
+      "web_evidence": [
+        {
+          "title": "Anthropic CEO呼籲，政府應有權阻止、限制高風險新AI模型部署",
+          "snippet": "【財訊快報／陳孟朔】外電報導，人工智慧(AI)研發大廠Anthropic執行長Dario Amodei公開呼籲對AI實施更嚴格的強制性監管，主張政府應有權阻止存在安全風險的AI模型上線部署。此舉與川普政府當前推行的自願合規路線形成明顯分歧，也是他迄今就AI監管發出的最烈表態之一。Amodei週三在一篇長文中提出，AI模型應強制接受第三方測試，涵蓋網絡安全威脅及生物武器等多個風險維度。他將AI與汽車、飛機及藥品等工具做類比，認為若設計或營運不當，同樣有能力造成大規模傷亡，因此現在是時候從透明度邁向更嚴肅、更具約束力的AI監管。上述立場與白宮現行政策存在明顯落差，川普6月初簽署行政令，僅要求政府對AI模型獲取自願提交的訪問權限，並未要求開發商在部署前尋求明確審批。 [...] Amodei在文中以Anthropic旗下新模型Mythos為例，稱其完美展示AI的驚人能力與潛在風險。由於Myth",
+          "link": "https://tw.stock.yahoo.com/news/anthropic-ceo%E5%91%BC%E7%B1%B2-%E6%94%BF%E5%BA%9C%E6%87%89%E6%9C%89%E6%AC%8A%E9%98%BB%E6%AD%A2-%E9%99%90%E5%88%B6%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%96%B0ai%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2-004813667.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "AI恐自我改進 Anthropic呼籲全球暫停AI開發 | 大紀元",
+          "snippet": "大紀元\n\n简体\n\n首頁即時中國美國國際評論台灣香港健康視頻聽紀元財經科技娛樂文化生活神韻\n\n首頁right arrow\n\n新聞right arrow\n\n科技新聞right arrow文章正文\n\n# AI恐自我改進 Anthropic呼籲全球暫停AI開發\n\n圖為示意圖。攝於2025年5月16日，畫面中顯示著一部手機屏幕上的人工智能（AI）標誌。（Oleksii Pydsosonnii ／英文大紀元）\n\n2026-06-0509:39 中港台時間|06-2222:51 更新\n\n人氣2312\n\n【大紀元2026年06月05日訊】（大紀元記者高杉編譯報導）總部位於舊金山（San Francisco）的人工智能（AI）公司Anthropic週四（6月4日）發文，呼籲全球主要AI實驗室考慮放緩甚至暫停最先進AI系統的開發，並警告AI正逐步接近「遞歸自我改進」能力，即AI系統在幾乎無需人類干預情況下自行",
+          "link": "https://www.epochtimes.com/b5/26/6/4/n14782305.htm",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "US government clears Anthropic advanced AI models worldwide",
+          "snippet": "# Anthropic AI Models : US government clears Anthropic advanced AI models worldwide | NewsX World\n## NewsX World\n152000 subscribers\n\n### Description\n33 views\nPosted: 1 Jul 2026\nThe United States lifted export restrictions on Anthropic AI models, allowing global access again after security commitments and marking a major shift in AI regulation.\n\n#Anthropic #ArtificialIntelligence #AI #ClaudeAI #USG",
+          "link": "https://www.youtube.com/watch?v=pNnKjBRJVNU",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美国顶级人工智能公司Anthropic应政府要求暂停最强大AI系统访问 - RFI - 法国国际广播电台",
+          "snippet": "主题分类\n\n# 美国顶级人工智能公司Anthropic应政府要求暂停最强大AI系统访问\n\n美国人工智能领军企业 Anthropic 周五应其政府要求，切断了对其最强大模型的访问权限。此时距离这些模型发布仅过去三天。华盛顿方面以国家安全风险为由，做出了这一史无前例的决定。\n\n发表时间： 13/06/2026 - 15:23\n\n这张摄于 2026 年 6 月 11 日的插图中可以看到 Anthropic 的标志。\n\nAnthropic 宣布暂停其两款新模型——极简版 Mythos 5 以及面向大众的精简版 Fable 5，以遵守政府当晚下达的行政指令。\n\n根据 Anthropic 发布的新闻稿，华盛顿方面援引出口管制条例，要求切断“任何在美境内或境外的外国公民”对这些模型的访问，其中也包括 Anthropic 公司内部的“外籍员工”。\n\n由于无法对用户进行精准甄别，且此前已与特朗普政府存在矛盾",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260613-%E7%BE%8E%E5%9B%BD%E9%A1%B6%E7%BA%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8anthropic%E5%BA%94%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E6%9A%82%E5%81%9C%E6%9C%80%E5%BC%BA%E5%A4%A7ai%E7%B3%BB%E7%BB%9F%E8%AE%BF%E9%97%AE",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic CEO 呼籲強制測試 AI 模型 並賦予政府干預權 | 國際焦點 | 國際 | 經濟日報",
+          "snippet": "打開 App\n\n \n\nudn \n\n 會員中心\n 訂閱管理\n 常見問題\n 登出\n\nedn logo\n\nedn logo\n\n華邦電 群創 被動元件 台指期夜盤 記憶體 整理包\n\n### 最近搜尋\n\n### 網站導覽\n\n 首頁\n MyEDN\n 經濟VIP\n 經濟彭博\n 即時\n 要聞\n 產業\n 證券\n 行情\n 國際\n 兩岸\n 金融\n 期貨\n 理財\n 房市\n 專欄\n 專題\n 品味\n OFF學\n 商情\n 產業資料庫\n\n### 服務\n\n 會員中心\n 數位訂閱\n 報紙訂閱\n 電子報紙\n 原版報紙資料庫\n 會展活動\n 中經社\n 網頁廣告刊登\n 聯絡我們\n\ngoogle pay   apple store\n\n聯合報系著作權所有 © 2026 All Rights Reserved\n\n通知\n\n全部為已讀 設定\n\n通知\n\n設定\n\n太棒了！  \n你沒有錯過任何訊息！\n\n通知設定\n\n取得所有通知\n\n頭條新聞通知\n\n內",
+          "link": "https://money.udn.com/money/story/5599/9559606",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic CEO says government should block dangerous AI",
+          "snippet": "Amodei writes that existing transparency legislation is not enough and calls for \"more serious and binding regulation of AI.\"\n\n   Like cars, airplanes or drugs, he writes, AI regulation should require frontier models to go through rigorous testing and auditing.\n   \"Their release should be blocked or reversed as a threat to public safety if they do not meet high standards of safety.\"\n\nOn the econom",
+          "link": "https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic Releases Claude Fable 5, Mythos 5: Crypto Reacts",
+          "snippet": "UNI  UNI $3.53  ▼ 4.50%\n\nNEAR  NEAR $1.64  ▲ 5.50%\n\nDOT  DOT $0.7859  ▲ 0.60%\n\nPEPE  PEPE $0.00000279  ▲ 0.10%\n\nATOM  ATOM $1.40  ▼ 0.90%\n\nMATIC  MATIC $0.1262  0.00%\n\nBitcoin Foundation\n\n Home\n News\n Markets\n Learn\n Tools\n About\n\nAI News\n\n# Anthropic Releases Claude Fable 5 and Limited Mythos 5 — Crypto Community Reacts\n\nNana K.\n\nNana K.\n\n 10 June 2026   3 min read [...] > Fable 5 is the biggest ",
+          "link": "https://bitcoinfoundation.org/news/ai-news/claude-community",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic (@AnthropicAI) / Posts / X",
+          "snippet": "Jul 28\n\n  We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see\n\n  \n\n  Pacing the FrontierFrom pacingthefrontier.com\n user avatar\n\n  Anthropic\n\n  @AnthropicAI\n\n  Jul 28 [...] Au",
+          "link": "https://x.com/AnthropicAI",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The Fable 5 shutdown and the troubling precedent it sets for AI policy - Atlantic Council",
+          "snippet": "##### Share\n\n Mail   Facebook   Twitter / X   LinkedIn\n\nDispatches on Atlantic Council\n\n# The Fable 5 shutdown and the troubling precedent it sets for AI policy\n\nBy Caroline Berry\n\n  \n\nThe Claude Fable 5 app logo is seen on a smartphone in this illustration photo taken on June 10, 2026. (Matteo Della Torre/NurPhoto via Reuters Connect) [...] WASHINGTON—On July 1, Anthropic restored global access t",
+          "link": "https://www.atlanticcouncil.org/dispatches/the-fable-5-shutdown-and-the-troubling-precedent-it-sets-for-ai-policy",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Instagram",
+          "snippet": "chatgptricks's profile picture\nPhoto by AI / ChatGPT on June 10, 2026. May be a graphic of magazine and text that says 'PEOPLE ARE GETTING FRUSTRATED AS ANTHROPIC'S 'SAFE\" MYTHOS- CLASS MODEL REFUSES TO ANSWER EVEN BASIC QUESTIONS IT REDIRECTS \"HIGH-RISK\" PROMPTS to OPUS 4.8.'.\nchatgptricks's profile picture\nchatgptricks's profile picture\nukr_._01's profile picture\nmiguel_qz's profile picture\nalex",
+          "link": "https://www.instagram.com/p/DZa0RCOIEwK",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-06-10",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Anthropic呼吁前沿AI透明度监管",
+        "tavily_hits": 12
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2064781775247950326",
+      "bid": "2064781775247950326",
+      "date": "2026-06-10 18:48:31",
+      "topic": "AI政策与指数发展",
+      "text": "Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap: https://t.co/Lh6PWae178",
+      "slot_key": "2026-06-10||AI政策与指数发展",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Today I'm publishing a n#",
+        "hashtag": "Today I'm publishing a n",
+        "temporal_cutoff": "2026-06-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Today I'm publishing a n#",
+        "hashtag": "Today I'm publishing a n",
+        "temporal_cutoff": "2026-06-10",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "斯坦福大学发布《2026年人工智能指数报告》",
+          "url": "https://ecas.cas.cn/xxkw/kbcd/201115_149777/ml/xxhjsyjcss/202605/t20260509_5109006.html",
+          "snippet": "报告总结了AI发展的十大最新趋势：一是AI能力持续提升并快速普及；二是中美AI模型性能差距明显缩小；三是美国在AI数据中心规模方面居领先地位；四是AI模型在不同领域的能力“参差不齐”；五是“负责任AI”发展滞后，相关风险事件有所增加；六是美国AI投资领先，但对全球人才吸引力下降；七是AI应用快速普及并创造显著经济价值；八是AI相关的教育发展相对滞后；九是“AI主权”成为各国政策重点，但各国AI能力差距显著；十是专家和公众对未来AI影响的认知存在明显分歧，各国对AI监管的信任程度不一。\n\n报告显示，2025年推出的一些前沿模型在博士级别的科学问题、多模态推理和数学竞赛等领域已达到或超过人类水平。AI在各类组织中的应用普及率已达88%。\n\n报告强调，AI在科学研究和复杂推理等方面取得突破的同时，也伴随较高的能源消耗与环境成本。此外，相关评估体系与治理能力相对滞后，安全、监管及社会影响等问题日益",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "OUTLOOK 科技發展觀測平台",
+          "url": "https://outlook.stpi.niar.org.tw/index/news/2c94808a9dc2a2ed019dccd6168a2061",
+          "snippet": "根據史丹佛大學人本人工智慧研究院(HAI)發布2026年《人工智慧指數報告》指出，全球人工智慧發展持續加速，並在技術、經濟、教育與治理等面向產生深遠影響。報告整理出10項重點。(1)人工智慧能力快速提升，前沿模型已在博士級科學問題、多模態推理及數學競賽上甚至超越人類基準，編碼能力也大幅進步，生成式AI已被廣泛使用。(2)中美人工智慧模型效能差距大幅縮小，美國在頂尖模型與高影響力專利方面較強，中國則在論文、引用、專利產出及工業機器人方面領先。另外，韓國則以創新密度著稱，其在人均 AI 專利數量上位居世界首位。(3)美國擁有全球最多的AI資料中心，共5,427個，能源消耗也最高。大部分先進AI晶片由台積電製造，使全球供應鏈高度依賴台灣。(4)AI模型已能在國際數學奧林匹克競賽中獲得金牌，但在讀取模擬時鐘(analog clocks)等基礎任務上準確率仍低。(5)負責任人工智慧的發展落後於技術進",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "The 2026 AI Index Report | Stanford HAI",
+          "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+          "snippet": "National AI strategies are expanding, particularly among developing economies, and state-backed investments in AI supercomputing are rising in parallel—a sign of growing ambitions for domestic control over AI ecosystems. Yet model production remains concentrated in the U.S. and China. Open-source development is starting to redistribute participation, with contributions from the rest of the world n",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "美国斯坦福大学发布《2026年AI指数报告》-新华网",
+          "url": "http://www.news.cn/liangzi/20260417/1d935fe6f2f04c9cb07afe3a38e76db1/c.html",
+          "snippet": "尽管美国仍是全球AI研究人员最多的国家，但支撑这一优势的“人才流入”正在枯竭。对于那些习惯于顶尖研究者自然流向美国公司的企业来说，这一假设已不再稳固。\n\n  与此同时，全球AI竞赛已不再是部分大国之间的“擂台赛”，韩国已成为全球“创新密度”最高的国家，人均专利申请量领跑世界。\n\n  随着各国竞相布局，“主权AI”已成为许多政府的首要政策考量。过去一年，一些欧洲和中亚国家对其AI基础设施进行了大量投资，使得拥有“国家支持的超级计算集群”的国家达到44个。但报告警告，南美和中东国家在AI基础设施上落后，可能引发新的“数字鸿沟”。\n\nAI“偏科”严重\n\n  报告指出，生成式AI在3年内达到了全球53%的人口使用率，普及速度快于个人电脑和互联网。然而，AI能力的进步并非均衡发展。\n\n  谷歌的Gemini Deep Think模型在2025年国际数学奥赛中，以35分（满分42分）的成绩夺得金牌，能",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "深度洞察斯坦福《2026年人工智能指数报告》：从技术竞赛到多维博弈的变迁历程",
+          "url": "https://fddi.fudan.edu.cn/d9/1b/c18965a776475/page.htm",
+          "snippet": "对全球AI治理的影响与启示：\n\n上述四个维度的证据共同指向一个核心危机：欧盟《人工智能法案》（EU AI Act）、美国NIST AI RMF及ISO/IEC 42001等现行主流AI治理框架，均建立在“AI系统的能力与风险可测量、可披露、可比较”这一前提之上，但其正在失效。\n\n其一，监管抓手面临失效。“基于基准跑分的监管”路径已触及天花板。随着企业信息披露减少、测试指标饱和以及独立复测失效，按模型能力进行分级监管在实践操作中将越来越难以落地。\n\n其二，评估体系亟需重构。现有的治理方式必须转型。监管层需从传统的“审查静态文档”转向“要求动态访问权”，探索持续性红队测试、跨机构联合审计以及针对模型行为的长期追踪跟进。\n\n其三，指出国际合作的现实切入点。测量体系的重构，恰恰是当前少数能让中美欧产生实质性共识的领域。与数据跨境或前沿技术竞争等高度敏感的议题不同，“如何客观、可靠地评估前沿大模型”",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "2026年X（Twitter）新演算法更新就咁copy and paste／以量取勝已經唔 ...",
+          "url": "https://www.threads.com/@wbooy_le/post/DTk_0R4AQSe/2026%E5%B9%B4xtwitter%E6%96%B0%E6%BC%94%E7%AE%97%E6%B3%95%E6%9B%B4%E6%96%B0%E5%B0%B1%E5%92%81copy-and-paste%E4%BB%A5%E9%87%8F%E5%8F%96%E5%8B%9D%E5%B7%B2%E7%B6%93%E5%94%94work%E6%84%9F%E8%A6%BA%E9%9B%A3%E5%B7%A6%E5%A5%BD%E5%A4%9A%E6%9B%B4%E9%87%8D%E8%A6%96%E7%9C%9F%E5%AF%A6%E4%BA%92%E5%8B%95%E9%80%9F%E5%BA%A6%E6%83%B3%E4%B8%8A%E8%B6%A8%E5%8B%A2%E5%B0%B1%E8%A6%81%E5%96%BA%E7%9F%AD%E6%99%82%E9%96%93%E5%85%A7%E9%9B%86%E4%B8%AD%E4%BA%92%E5%8B%95%E7%94%A8%E5%BF%83%E5%9B%9E%E8%A6%86",
+          "snippet": "X（Twitter）趨勢策略指南 – 2026 年版 自 2026 年 1 月起生效｜ 新演算法重點：對話速度（Conversation Velocity） X 的演算法已經進化。 單純的發文量與重複貼文不再能推動趨勢。 如今成功的關鍵在於： 快速且真實的對話動能——在短時間內建立自然互動的真實討論熱度。 核心原則： 重質不重量 創造真誠的交流，吸引忠實粉絲與好奇的新觀眾共同參與 一、集中時段（Concentrated Timing Window) - 選定30～60 分鐘內的明確時段（例如晚上 8:00–8:30) 所有互動應在這段時間內同步進行。 - 分散於整天的零星發文會削弱整體熱度。 二、互動層級（由強至弱） - 回覆（Replies）→ 最高演算法權重。真誠、有內容的回應能帶來最強提升 - 引用（Quotes）→ 效果極佳，請加入原創評論、反應、影片或見解（避免只用表情符號或重複",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "OpenAI",
+          "url": "https://x.com/OpenAI/status/2003594025098785145",
+          "snippet": "2026 Prediction: Progress towards AGI will depend as much on helping people use AI well, in ways that directly benefit them as on progress in",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "Global attitudes to AI 2026",
+          "url": "https://x.com/PauseAI/status/2087097957057208628",
+          "snippet": "Global attitudes to AI 2026: How 377,458 people across 104 countries feel about the development of superintelligent AI.",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "kept_8_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "AI政策与指数发展 2026-06-10 news",
+        "AI政策与指数发展 2026-06-10 Twitter X reaction",
+        "AI政策与指数发展 2026-06-10 事件 背景 报道",
+        "AI政策与指数发展 2026-06-10"
+      ],
+      "web_evidence": [
+        {
+          "title": "斯坦福大学发布《2026年人工智能指数报告》",
+          "snippet": "报告总结了AI发展的十大最新趋势：一是AI能力持续提升并快速普及；二是中美AI模型性能差距明显缩小；三是美国在AI数据中心规模方面居领先地位；四是AI模型在不同领域的能力“参差不齐”；五是“负责任AI”发展滞后，相关风险事件有所增加；六是美国AI投资领先，但对全球人才吸引力下降；七是AI应用快速普及并创造显著经济价值；八是AI相关的教育发展相对滞后；九是“AI主权”成为各国政策重点，但各国AI能力差距显著；十是专家和公众对未来AI影响的认知存在明显分歧，各国对AI监管的信任程度不一。\n\n报告显示，2025年推出的一些前沿模型在博士级别的科学问题、多模态推理和数学竞赛等领域已达到或超过人类水平。AI在各类组织中的应用普及率已达88%。\n\n报告强调，AI在科学研究和复杂推理等方面取得突破的同时，也伴随较高的能源消耗与环境成本。此外，相关评估体系与治理能力相对滞后，安全、监管及社会影响等问题日益",
+          "link": "https://ecas.cas.cn/xxkw/kbcd/201115_149777/ml/xxhjsyjcss/202605/t20260509_5109006.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "OUTLOOK 科技發展觀測平台",
+          "snippet": "根據史丹佛大學人本人工智慧研究院(HAI)發布2026年《人工智慧指數報告》指出，全球人工智慧發展持續加速，並在技術、經濟、教育與治理等面向產生深遠影響。報告整理出10項重點。(1)人工智慧能力快速提升，前沿模型已在博士級科學問題、多模態推理及數學競賽上甚至超越人類基準，編碼能力也大幅進步，生成式AI已被廣泛使用。(2)中美人工智慧模型效能差距大幅縮小，美國在頂尖模型與高影響力專利方面較強，中國則在論文、引用、專利產出及工業機器人方面領先。另外，韓國則以創新密度著稱，其在人均 AI 專利數量上位居世界首位。(3)美國擁有全球最多的AI資料中心，共5,427個，能源消耗也最高。大部分先進AI晶片由台積電製造，使全球供應鏈高度依賴台灣。(4)AI模型已能在國際數學奧林匹克競賽中獲得金牌，但在讀取模擬時鐘(analog clocks)等基礎任務上準確率仍低。(5)負責任人工智慧的發展落後於技術進",
+          "link": "https://outlook.stpi.niar.org.tw/index/news/2c94808a9dc2a2ed019dccd6168a2061",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The 2026 AI Index Report | Stanford HAI",
+          "snippet": "National AI strategies are expanding, particularly among developing economies, and state-backed investments in AI supercomputing are rising in parallel—a sign of growing ambitions for domestic control over AI ecosystems. Yet model production remains concentrated in the U.S. and China. Open-source development is starting to redistribute participation, with contributions from the rest of the world n",
+          "link": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美国斯坦福大学发布《2026年AI指数报告》-新华网",
+          "snippet": "尽管美国仍是全球AI研究人员最多的国家，但支撑这一优势的“人才流入”正在枯竭。对于那些习惯于顶尖研究者自然流向美国公司的企业来说，这一假设已不再稳固。\n\n  与此同时，全球AI竞赛已不再是部分大国之间的“擂台赛”，韩国已成为全球“创新密度”最高的国家，人均专利申请量领跑世界。\n\n  随着各国竞相布局，“主权AI”已成为许多政府的首要政策考量。过去一年，一些欧洲和中亚国家对其AI基础设施进行了大量投资，使得拥有“国家支持的超级计算集群”的国家达到44个。但报告警告，南美和中东国家在AI基础设施上落后，可能引发新的“数字鸿沟”。\n\nAI“偏科”严重\n\n  报告指出，生成式AI在3年内达到了全球53%的人口使用率，普及速度快于个人电脑和互联网。然而，AI能力的进步并非均衡发展。\n\n  谷歌的Gemini Deep Think模型在2025年国际数学奥赛中，以35分（满分42分）的成绩夺得金牌，能",
+          "link": "http://www.news.cn/liangzi/20260417/1d935fe6f2f04c9cb07afe3a38e76db1/c.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "深度洞察斯坦福《2026年人工智能指数报告》：从技术竞赛到多维博弈的变迁历程",
+          "snippet": "对全球AI治理的影响与启示：\n\n上述四个维度的证据共同指向一个核心危机：欧盟《人工智能法案》（EU AI Act）、美国NIST AI RMF及ISO/IEC 42001等现行主流AI治理框架，均建立在“AI系统的能力与风险可测量、可披露、可比较”这一前提之上，但其正在失效。\n\n其一，监管抓手面临失效。“基于基准跑分的监管”路径已触及天花板。随着企业信息披露减少、测试指标饱和以及独立复测失效，按模型能力进行分级监管在实践操作中将越来越难以落地。\n\n其二，评估体系亟需重构。现有的治理方式必须转型。监管层需从传统的“审查静态文档”转向“要求动态访问权”，探索持续性红队测试、跨机构联合审计以及针对模型行为的长期追踪跟进。\n\n其三，指出国际合作的现实切入点。测量体系的重构，恰恰是当前少数能让中美欧产生实质性共识的领域。与数据跨境或前沿技术竞争等高度敏感的议题不同，“如何客观、可靠地评估前沿大模型”",
+          "link": "https://fddi.fudan.edu.cn/d9/1b/c18965a776475/page.htm",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026年X（Twitter）新演算法更新就咁copy and paste／以量取勝已經唔 ...",
+          "snippet": "X（Twitter）趨勢策略指南 – 2026 年版 自 2026 年 1 月起生效｜ 新演算法重點：對話速度（Conversation Velocity） X 的演算法已經進化。 單純的發文量與重複貼文不再能推動趨勢。 如今成功的關鍵在於： 快速且真實的對話動能——在短時間內建立自然互動的真實討論熱度。 核心原則： 重質不重量 創造真誠的交流，吸引忠實粉絲與好奇的新觀眾共同參與 一、集中時段（Concentrated Timing Window) - 選定30～60 分鐘內的明確時段（例如晚上 8:00–8:30) 所有互動應在這段時間內同步進行。 - 分散於整天的零星發文會削弱整體熱度。 二、互動層級（由強至弱） - 回覆（Replies）→ 最高演算法權重。真誠、有內容的回應能帶來最強提升 - 引用（Quotes）→ 效果極佳，請加入原創評論、反應、影片或見解（避免只用表情符號或重複",
+          "link": "https://www.threads.com/@wbooy_le/post/DTk_0R4AQSe/2026%E5%B9%B4xtwitter%E6%96%B0%E6%BC%94%E7%AE%97%E6%B3%95%E6%9B%B4%E6%96%B0%E5%B0%B1%E5%92%81copy-and-paste%E4%BB%A5%E9%87%8F%E5%8F%96%E5%8B%9D%E5%B7%B2%E7%B6%93%E5%94%94work%E6%84%9F%E8%A6%BA%E9%9B%A3%E5%B7%A6%E5%A5%BD%E5%A4%9A%E6%9B%B4%E9%87%8D%E8%A6%96%E7%9C%9F%E5%AF%A6%E4%BA%92%E5%8B%95%E9%80%9F%E5%BA%A6%E6%83%B3%E4%B8%8A%E8%B6%A8%E5%8B%A2%E5%B0%B1%E8%A6%81%E5%96%BA%E7%9F%AD%E6%99%82%E9%96%93%E5%85%A7%E9%9B%86%E4%B8%AD%E4%BA%92%E5%8B%95%E7%94%A8%E5%BF%83%E5%9B%9E%E8%A6%86",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "OpenAI",
+          "snippet": "2026 Prediction: Progress towards AGI will depend as much on helping people use AI well, in ways that directly benefit them as on progress in",
+          "link": "https://x.com/OpenAI/status/2003594025098785145",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Global attitudes to AI 2026",
+          "snippet": "Global attitudes to AI 2026: How 377,458 people across 104 countries feel about the development of superintelligent AI.",
+          "link": "https://x.com/PauseAI/status/2087097957057208628",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "AI Index (@indexingai) / X",
+          "snippet": "Mar 30, 2023\n\n  Now more than ever, we need to ground today’s conversation about AI in data. The #AIIndex2023 is one of the most comprehensive reports about AI, covering R&D, economy, education, ethics, policy, and more. The latest report will be out on April 3: mailchi.mp/stanford.edu/a…\n\n  \n user avatar\n\n  AI Index\n\n  @indexingai\n\n  Aug 23, 2022 [...] Aug 23, 2022\n\n  We’re hiring! The AI Index i",
+          "link": "https://x.com/indexingai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "史丹佛大學 2026 年 AI Index 報告摘要！５大重點掌握全世界 AI 市場趨勢",
+          "snippet": "雖然技術指標趨近，但背後隱藏著巨大的資本差距，美國在私人投資領域仍保持絕對優勢，2025 年美國私人 AI 投資額高達 2,859 億美元，是中國 (124 億美元) 的 23 倍，反映了兩國在 AI 發展路徑上的策略分歧：美國傾向於利用海量資本構建護城河，而中國則在預算相對受限的情況下展現了極高的算法效率。\n\n而在硬體端，過度的集中度造成了隱憂，雖然美國擁有 5,427 座數據中心，規模遠超他國，但晶片幾乎全由單一供應商 TSMC (台積電) 代工，顯示企業的 投資報酬率 (ROI) 正受到地緣政治與供應鏈脆弱性的威脅。\n\n### AI 能解奧數卻看不懂時鐘？\n\n現在位於技術前沿的各家旗艦模型正展現出高度的同質化，導致現有的公開評測基準已趨於飽和且逐漸失靈，企業在導入時必須警惕所謂的鋸齒狀智力 (Jagged Frontier)，這意味著模型在執行極高難度任務與基礎常識任務之間，存在極端",
+          "link": "https://vocus.cc/article/69ddb508fd89780001b5139d",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-06-10",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI政策与指数发展",
+        "tavily_hits": 12
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2041580343472337145",
+      "bid": "2041580343472337145",
+      "date": "2026-04-07 18:14:19",
+      "topic": "前沿AI网络风险",
+      "text": "Cyber is the first clear and present danger from frontier AI models, but it won’t be the last. If we are able to collectively rise to the challenge and confront this risk, it could serve as a blueprint for addressing the even more difficult challenges that lie ahead of us.",
+      "slot_key": "2026-04-07||前沿AI网络风险",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Cyber is the first clear#",
+        "hashtag": "Cyber is the first clear",
+        "temporal_cutoff": "2026-04-07",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Cyber is the first clear#",
+        "hashtag": "Cyber is the first clear",
+        "temporal_cutoff": "2026-04-07",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "接下来的一年，将是中国互联网最危险的时刻",
+          "url": "https://zhuanlan.zhihu.com/p/2026301415677511034",
+          "snippet": "当前，前沿AI模型已自主涌现出强大的漏洞挖掘与攻击能力，其中Claude Mythos的表现尤为突出。2026年4月7日，Anthropic正式发布这款内部代号为“卡皮巴拉”的模型，其能力显著超越此前的Claude Opus 4.6，更关键的是，它未经过专门的安全方向微调，就能够自主发现数千个高危零日漏洞，并自动编写完整的利用程序，覆盖所有主流操作系统和浏览器( 147 JS引擎的漏洞利用成功率达到72.4%，而Claude Opus 4.6仅为0.8%；在CyberGym定向漏洞复现测试中得分83%大幅领先Claude Opus 4.6的67%(\n\nImage 4 [...] 如果你怀疑Anthropic是在夸大宣传，那我们还可以找到很多前沿AI模型发现高危漏洞的公开案例。2026年1月，安全研究员Sean Heelan的实验显示，GPT-5.2能够在所有6种测试场景中稳定量产零日漏洞利",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "网络安全趋势：IBM 对 2026 年的预测 | IBM",
+          "url": "https://www.ibm.com/cn-zh/think/news/cybersecurity-trends-predictions-2026",
+          "snippet": "AI 正在加速创新，但也使企业面临前所未有的知识产权 (IP) 流失风险。2026 年， 我们将 目睹因 影子 AI  系统导致敏感知识产权泄露的重大安全事件——这些未经审批的工具由员工在缺乏监管的情况下部署。此类系统常在多环境中 运行 ，使得一个未受监控的模型极易引发大范围数据暴露。这犹如十年前影子 IT 的兴起，但风险级别更高：如今 AI 工具处理的是专有算法、机密 数据 和战略决策。要弥合这一缺口，安全团队必须以创新速度行动，提供既满足员工需求又不失管控的合规 AI 工具与治理框架。\n\n## 身份系统将成为下一个国家安全重点领域\n\n### IBM X-Force 威胁情报全球负责人 Kevin Albano\n\n随着 AI 爆发式增长与自主智能体的兴起，身份正成为攻击者最易得手且风险最高的入口。预计明年针对身份的攻击将激增——攻击者将利用组织在身份系统管理与安全防护上的漏洞。通过深度伪",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "2026 年末人工智能安全面临的主要威胁",
+          "url": "https://stellarcyber.ai/zh-CN/learn/agentic-ai-securiry-threats",
+          "snippet": "如果攻击者窃取了代理的会话令牌或 API 密钥，他们就可以伪装成受信任的代理。您的网络会看到一个来自具有有效凭据的合法代理帐户的请求。此时，您无法区分发出请求的究竟是真正的代理还是使用代理凭据的攻击者。\n\nHuntress 发布的 2026 年数据泄露报告指出，NHI（网络基础设施）入侵是企业基础设施中增长最快的攻击途径。开发人员通常会将 API 密钥硬编码到配置文件中，或者将其留在 Git 代码库中。一个被泄露的代理凭据就能让攻击者获得与该代理相同的权限，且这种权限可持续数周甚至数月。\n\n当代理能够访问其他代理的凭证时，风险就会升级。在一个复杂的多代理系统中，编排代理可能持有五个下游代理的 API 密钥。如果编排代理被攻破，攻击者就能访问所有五个下游系统。\n\n2026 年真实事件：OpenAI 插件生态系统遭受供应链攻击，导致 47 个企业部署中的代理凭证被盗。攻击者利用这些凭证访问客户",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "X（Twitter）AI 内容提醒：预分享警告详解（2026）",
+          "url": "https://almcorp.com/zh-CN/blog/x-twitter-ai-content-alerts-pre-share-warning",
+          "snippet": "发布未经披露的AI生成的武装冲突视频将被禁言90天，这是最直接的处罚。但请仔细阅读Nikita Bier的公告：该处罚机制并非完全依赖于X平台的自动检测。当用户在帖子中添加社区评论时，该机制也会启动。这意味着X平台上活跃的用户群体实际上构成了一道监管屏障。如果您发布的内容疑似由AI生成且未进行披露，其他用户可以提交社区评论，而该评论可能会触发对您盈利状态的调查。\n\n对于合法使用人工智能工具的创作者而言——而许多创作者确实如此，他们使用人工智能工具进行视频剪辑、字幕生成、缩略图设计等各种创作——“使用人工智能制作”开关的推出，为作品的透明度提供了一条途径。主动使用此功能既是一种合乎道德的做法，也是抵御社区意见审查的有效手段。\n\n此外，还有更长远的考量。创作者的信任建立在用户感知到的真实性之上。X平台上的用户越来越能够识别人工智能生成的内容，而平台的标签系统也会随着时间的推移增强这种能力。对人",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "資安威脅AI 化",
+          "url": "https://www.trendmicro.com/content/dam/trendmicro/global/zh_tw/security-intelligence/threat-report/report/2026-Security-Predictions_How-AI-is-redrawing-the-cybersecurity-battlefield_1207_tw.pdf",
+          "snippet": "者發動廣泛的協同攻擊。 2026 年，我們預料國家級駭客將更密集地由特務⼈員假扮成正常員⼯來滲透 企業，形成終極版的內⿁威脅29。⼀個可能的情境就是海外 IT ⼈員，他們會 使⽤偽造⾝分、深偽輔助⾯試，以及 AI ⽣成⼈物 (persona) 來騙過驗證流 程。這些特務⼀旦進入企業，就能利⽤其特權存取權限來從事間諜⾏動、資 料竊取以及勒索等活動。 地緣政治的緊張局勢將進⼀步驅使 APT 投入 AI 基礎架構及關鍵基礎設施的間諜和破壞⾏ 動。關鍵基礎設施產業 (如國防、能源、⾦融、電信) 將是間諜⾏動與破壞⾏動的優先⽬ 標，正如網路⾏動與這些衝突和國家層級戰略的連結越來越深。這有可能導致全球基礎設 施與數位網路的停擺。 APT 集團將聚焦在無⼈機、海運、航太及電信領域 (這些全都對現代化國防與安全通訊⾄ 關重要)，⽬的在竊取專利技術、切斷供應鏈，以及蒐集情報。⽽駭客的⼿法，也將朝著利 ⽤進階",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "X修訂使用條款生成式AI涉法風險用戶自行負責 2026年1月生效 | 4Gamers",
+          "url": "https://www.4gamers.com.tw/news/detail/76079/elon-musks-platform-x-new-terms-users-liable-for-ai-content",
+          "snippet": "依照官方繁體中文條款的說明，使用者必須自行確保其提供、建立或生成的內容，符合所有適用的法律、規則、政策與法規，且此義務同樣適用於第三方或 X 關係企業所提供的服務。\n\n這也被解讀為，包含由 xAI 所開發、並已整合於 X 平台的 AI 模型「Grok」在內，只要使用者透過生成式 AI 功能產出內容，若涉及違法或侵權，責任將完全由使用者承擔。\n\n↓韓國繪師被AI氣到，決定在平台恢復昔日狀態前，所有上傳到推特的圖片加入馬斯克的臉，「大家一起來享受伊隆馬斯克吧！」\n\n트위터 정상화될때까지 트위터에 올라오는 모든 그림에 예시같이 일론머스크가 들어갑니다! 모두 일론머스크를 즐겨요  pic.twitter.com/4cHD4g8yMO\n\n此外，先前曾引發爭議的「內容權利授權」條款，在本次修訂中也有所調整。X 再次強調，使用者仍保有其所發佈內容的所有權，但同時需授予 X 全球性、非獨佔、免",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "removed_2_sources_later_than_cutoff",
+        "kept_4_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "前沿AI网络风险 2026-04-07 news",
+        "前沿AI网络风险 2026-04-07 Twitter X reaction",
+        "前沿AI网络风险 2026-04-07 事件 背景 报道",
+        "前沿AI网络风险 2026-04-07"
+      ],
+      "web_evidence": [
+        {
+          "title": "接下来的一年，将是中国互联网最危险的时刻",
+          "snippet": "当前，前沿AI模型已自主涌现出强大的漏洞挖掘与攻击能力，其中Claude Mythos的表现尤为突出。2026年4月7日，Anthropic正式发布这款内部代号为“卡皮巴拉”的模型，其能力显著超越此前的Claude Opus 4.6，更关键的是，它未经过专门的安全方向微调，就能够自主发现数千个高危零日漏洞，并自动编写完整的利用程序，覆盖所有主流操作系统和浏览器( 147 JS引擎的漏洞利用成功率达到72.4%，而Claude Opus 4.6仅为0.8%；在CyberGym定向漏洞复现测试中得分83%大幅领先Claude Opus 4.6的67%(\n\nImage 4 [...] 如果你怀疑Anthropic是在夸大宣传，那我们还可以找到很多前沿AI模型发现高危漏洞的公开案例。2026年1月，安全研究员Sean Heelan的实验显示，GPT-5.2能够在所有6种测试场景中稳定量产零日漏洞利",
+          "link": "https://zhuanlan.zhihu.com/p/2026301415677511034",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "网络安全趋势：IBM 对 2026 年的预测 | IBM",
+          "snippet": "AI 正在加速创新，但也使企业面临前所未有的知识产权 (IP) 流失风险。2026 年， 我们将 目睹因 影子 AI  系统导致敏感知识产权泄露的重大安全事件——这些未经审批的工具由员工在缺乏监管的情况下部署。此类系统常在多环境中 运行 ，使得一个未受监控的模型极易引发大范围数据暴露。这犹如十年前影子 IT 的兴起，但风险级别更高：如今 AI 工具处理的是专有算法、机密 数据 和战略决策。要弥合这一缺口，安全团队必须以创新速度行动，提供既满足员工需求又不失管控的合规 AI 工具与治理框架。\n\n## 身份系统将成为下一个国家安全重点领域\n\n### IBM X-Force 威胁情报全球负责人 Kevin Albano\n\n随着 AI 爆发式增长与自主智能体的兴起，身份正成为攻击者最易得手且风险最高的入口。预计明年针对身份的攻击将激增——攻击者将利用组织在身份系统管理与安全防护上的漏洞。通过深度伪",
+          "link": "https://www.ibm.com/cn-zh/think/news/cybersecurity-trends-predictions-2026",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026 年末人工智能安全面临的主要威胁",
+          "snippet": "如果攻击者窃取了代理的会话令牌或 API 密钥，他们就可以伪装成受信任的代理。您的网络会看到一个来自具有有效凭据的合法代理帐户的请求。此时，您无法区分发出请求的究竟是真正的代理还是使用代理凭据的攻击者。\n\nHuntress 发布的 2026 年数据泄露报告指出，NHI（网络基础设施）入侵是企业基础设施中增长最快的攻击途径。开发人员通常会将 API 密钥硬编码到配置文件中，或者将其留在 Git 代码库中。一个被泄露的代理凭据就能让攻击者获得与该代理相同的权限，且这种权限可持续数周甚至数月。\n\n当代理能够访问其他代理的凭证时，风险就会升级。在一个复杂的多代理系统中，编排代理可能持有五个下游代理的 API 密钥。如果编排代理被攻破，攻击者就能访问所有五个下游系统。\n\n2026 年真实事件：OpenAI 插件生态系统遭受供应链攻击，导致 47 个企业部署中的代理凭证被盗。攻击者利用这些凭证访问客户",
+          "link": "https://stellarcyber.ai/zh-CN/learn/agentic-ai-securiry-threats",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "前沿 AI 风险报告（2026 年 2–3 月）",
+          "snippet": "```\n=== Web3 Developer Needed (web3-developer-needed) status=TODO app_count=51 === APP 05b6bc98-405a-4c status=ACCEPTED updated=2026-04-22T02:33:30.315Z thread_msg_count=0 follow-up_msg_id=2b51cfbc-61be-44c5-ace3-f6debcc5e23b HUGE WIN: Web3 Developer Needed application is ACCEPTED! Let me pull full task details. \n```",
+          "link": "https://metr.org/zh-hans/blog/2026-05-19-frontier-risk-report",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "新闻室|Gartner中国",
+          "snippet": "AI\n\n       AskGartner\n       AI成熟度模型\n       2025年人工智能技术成熟度曲线\n       AI数据就绪\n       生成式AI资源\n\n   成为客户  \n\n   Gartner client?Log in for personalized search results.\n\n# 新闻\n\n## 新闻发布\n\n##### 北京，2026年5月21日\n\n### Gartner：中国AI优先型网络安全前沿治理的四大预测\n\n#### 分析师将于5月26-27日在上海举行的Gartner2026大中华区高管交流大会上详细解读相关预测\n\n商业与技术洞察公司Gartner指出，中国企业在迅速整合生成式人工智能（生成式AI）的过程中意识到，生成式AI既是强大的防御机制，也构成了显著的新攻击面。Gartner针对AI使用治理、AI应用安全保护和AI驱动型威胁的防御，",
+          "link": "https://www.gartner.com/cn/newsroom/press-releases/2026-0521-gartner-china-cyber-security-predicts",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X（Twitter）AI 内容提醒：预分享警告详解（2026）",
+          "snippet": "发布未经披露的AI生成的武装冲突视频将被禁言90天，这是最直接的处罚。但请仔细阅读Nikita Bier的公告：该处罚机制并非完全依赖于X平台的自动检测。当用户在帖子中添加社区评论时，该机制也会启动。这意味着X平台上活跃的用户群体实际上构成了一道监管屏障。如果您发布的内容疑似由AI生成且未进行披露，其他用户可以提交社区评论，而该评论可能会触发对您盈利状态的调查。\n\n对于合法使用人工智能工具的创作者而言——而许多创作者确实如此，他们使用人工智能工具进行视频剪辑、字幕生成、缩略图设计等各种创作——“使用人工智能制作”开关的推出，为作品的透明度提供了一条途径。主动使用此功能既是一种合乎道德的做法，也是抵御社区意见审查的有效手段。\n\n此外，还有更长远的考量。创作者的信任建立在用户感知到的真实性之上。X平台上的用户越来越能够识别人工智能生成的内容，而平台的标签系统也会随着时间的推移增强这种能力。对人",
+          "link": "https://almcorp.com/zh-CN/blog/x-twitter-ai-content-alerts-pre-share-warning",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "資安威脅AI 化",
+          "snippet": "者發動廣泛的協同攻擊。 2026 年，我們預料國家級駭客將更密集地由特務⼈員假扮成正常員⼯來滲透 企業，形成終極版的內⿁威脅29。⼀個可能的情境就是海外 IT ⼈員，他們會 使⽤偽造⾝分、深偽輔助⾯試，以及 AI ⽣成⼈物 (persona) 來騙過驗證流 程。這些特務⼀旦進入企業，就能利⽤其特權存取權限來從事間諜⾏動、資 料竊取以及勒索等活動。 地緣政治的緊張局勢將進⼀步驅使 APT 投入 AI 基礎架構及關鍵基礎設施的間諜和破壞⾏ 動。關鍵基礎設施產業 (如國防、能源、⾦融、電信) 將是間諜⾏動與破壞⾏動的優先⽬ 標，正如網路⾏動與這些衝突和國家層級戰略的連結越來越深。這有可能導致全球基礎設 施與數位網路的停擺。 APT 集團將聚焦在無⼈機、海運、航太及電信領域 (這些全都對現代化國防與安全通訊⾄ 關重要)，⽬的在竊取專利技術、切斷供應鏈，以及蒐集情報。⽽駭客的⼿法，也將朝著利 ⽤進階",
+          "link": "https://www.trendmicro.com/content/dam/trendmicro/global/zh_tw/security-intelligence/threat-report/report/2026-Security-Predictions_How-AI-is-redrawing-the-cybersecurity-battlefield_1207_tw.pdf",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X修訂使用條款生成式AI涉法風險用戶自行負責 2026年1月生效 | 4Gamers",
+          "snippet": "依照官方繁體中文條款的說明，使用者必須自行確保其提供、建立或生成的內容，符合所有適用的法律、規則、政策與法規，且此義務同樣適用於第三方或 X 關係企業所提供的服務。\n\n這也被解讀為，包含由 xAI 所開發、並已整合於 X 平台的 AI 模型「Grok」在內，只要使用者透過生成式 AI 功能產出內容，若涉及違法或侵權，責任將完全由使用者承擔。\n\n↓韓國繪師被AI氣到，決定在平台恢復昔日狀態前，所有上傳到推特的圖片加入馬斯克的臉，「大家一起來享受伊隆馬斯克吧！」\n\n트위터 정상화될때까지 트위터에 올라오는 모든 그림에 예시같이 일론머스크가 들어갑니다! 모두 일론머스크를 즐겨요  pic.twitter.com/4cHD4g8yMO\n\n此外，先前曾引發爭議的「內容權利授權」條款，在本次修訂中也有所調整。X 再次強調，使用者仍保有其所發佈內容的所有權，但同時需授予 X 全球性、非獨佔、免",
+          "link": "https://www.4gamers.com.tw/news/detail/76079/elon-musks-platform-x-new-terms-users-liable-for-ai-content",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "美媒：2026年需要警惕的20项网络威胁_世界互联网大会",
+          "snippet": "5.通过AI机器人与浏览器部署的威胁\n\n　　2026年，网络犯罪的作案速度将变得更快、手法将变得更复杂——由于“钓鱼即服务”模式与AI个性化等创新，威胁将更具可信度、针对性且更加高效。我们将看到犯罪分子越来越多地利用AI机器人与浏览器部署新型威胁。防御者需使用比以往更多的自动化手段来识别新型攻击并予以阻断。——瑞安·伍德利(英国“网络飞行器”公司)\n\n6.智能体工具泛滥与无提示的自动化错误\n\n　　我认为智能体工具的滥用这一新风险正在快速蔓延。2026年许多组织机构将为此付出高昂代价。模型上下文协议、工具与智能体的泛滥将使系统更难追踪和审核。我预计将出现更多具有十倍意外损害的“无提示”错误。——伊娃·奈半利(美国维克塔拉公司)\n\n7.自主智能体间的钓鱼攻击\n\n　　我预计自主智能体间的钓鱼攻击将引发广泛问题。随着企业部署AI智能体处理采购与日程安排等事务，攻击者将使用对抗性AI“说服”这些智能",
+          "link": "https://cn.wicinternet.org/2026-01/23/content_38554845.htm",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026年网络安全与AI趋势预测 - ISACA China-ISACA中国区官网",
+          "snippet": "MCP通过将持续的工具访问“常态化”，进一步放大了这一问题。一种典型的失效模式正在浮现：为追求方便授予宽泛权限、在上下文中嵌入长期有效的密钥、以及跨系统行动的自主代理。一次提示词注入、逻辑漏洞或外部操控，都可能在没有人工检查点 (Human Checkpoint) 的情况下，触发违背初衷的操作。\n\n到了那个阶段，代理式AI无需“恶意”便可造成危险。它只需要 “执行出错” 。\n\n> ## 预测\n>\n> 2026年，我们将看到广受报道的“自主AI失控”事件。这未必是AI造反，而是源于“失去制衡的自主性” 与 “速度” 的叠加。当自主AI做出机器规模 (Machine Scale) 的错误决策时，董事会将不得不直面问责问题。组织将需要围绕 “人在回路” (Human-in-the-loop) 管控、范围化与时效性的访问权限、实时 “熔断机制” (Kill Switches) 以及持续行为监控，来",
+          "link": "https://www.isaca.org.cn/knowledgebase/trends-and-insights/2026%E5%B9%B4%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%8Eai%E8%B6%8B%E5%8A%BF%E9%A2%84%E6%B5%8B",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-04-07",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "前沿AI网络风险",
+        "tavily_hits": 11
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false,
+      "removed_sources": [
+        {
+          "title": "前沿 AI 风险报告（2026 年 2–3 月）",
+          "url": "https://metr.org/zh-hans/blog/2026-05-19-frontier-risk-report",
+          "date": "2026-04-22",
+          "role": "removed_later_than_cutoff"
+        },
+        {
+          "title": "新闻室|Gartner中国",
+          "url": "https://www.gartner.com/cn/newsroom/press-releases/2026-0521-gartner-china-cyber-security-predicts",
+          "date": "2026-05-21",
+          "role": "removed_later_than_cutoff"
+        }
+      ]
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2041580341794615631",
+      "bid": "2041580341794615631",
+      "date": "2026-04-07 18:14:18",
+      "topic": "AI网络安全机遇",
+      "text": "The dangers of getting this wrong are obvious, but if we get it right, there is a real opportunity to create a fundamentally more secure internet and world than we had before the advent of AI-powered cyber capabilities.",
+      "slot_key": "2026-04-07||AI网络安全机遇",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#The dangers of getting t#",
+        "hashtag": "The dangers of getting t",
+        "temporal_cutoff": "2026-04-07",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#The dangers of getting t#",
+        "hashtag": "The dangers of getting t",
+        "temporal_cutoff": "2026-04-07",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "AI如何增强网络威胁？2026年网络安全预测发布",
+          "url": "https://www.secrss.com/articles/85962",
+          "snippet": "现实情况是：尽管企业渴望采用AI，大多数尚未准备好完全信任AI。黑箱问题、新增漏洞、缺乏透明度、合规风险，使快速采用AI本身成为重大风险。因此，组织可能要求供应商关闭所有不可解释、不可审计、不可问责的AI功能。\n\n这将使核心安全问题从“你在哪里用AI？”变为“你允许AI决定什么？你能被解释吗？”\n\n可解释性将决定系统是基于模糊、易受操控的逻辑，还是受监管、透明的算法运行。算法决策必须伴随可解释性，否则将成为新的风险推动者，而非防御者。\n\n11.网络安全与反欺诈的界线将持续模糊\n\n孤立式安全越来越不适用。面对攻击者从单一目的向多风险、多向量行动转变，传统防御已无法胜任。\n\n如今，攻击者利用被攻破的身份、数据、设备、账号及基础设施进入系统，再通过欺诈环节实现货币化。这要求对完整犯罪攻击链有可见性，也导致“网络安全”与“反欺诈”界线持续模糊。\n\nGartner报告提出，到2028年，20%的大型",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "The State of AI Cybersecurity 2026 | Insights from 1,500+ Leaders",
+          "url": "https://www.darktrace.com/blog/the-state-of-ai-cybersecurity-2026",
+          "snippet": "Agentic AI expands enterprise risk beyond the model: Autonomous agents interact with tools, APIs, identities, data, and other agents, creating identity, behavioral, structural, and accountability risks that can propagate across trusted systems.\n\n An effective AI security stack spans multiple layers: Security teams should evaluate governance and visibility, identity and agent controls, data protect",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "AI安全焦点追踪丨我国人工智能安全标准体系加速构建-新华网",
+          "url": "http://www.news.cn/tech/20260407/e5345fd98bcf4dc99fab49f2ec8eb1d5/c.html",
+          "snippet": "AI安全供给发力　需求创造机遇\n\n　　国资委1月底发布的数据显示，中央企业已在工业制造、能源电力、智能网联汽车等重点领域，打造了超过1000个AI应用场景，AI赋能产业转型的态势日益明显。与此同时，AI安全问题引发的行业担忧，也催生了全新的安全需求，推动AI安全供给侧持续发力。\n\n　　对此，东莞证券认为，近期OpenClaw等智能体技术快速落地，催生全新安全需求场景，叠加网络安全领域政策利好持续释放，行业有望迎来新的增长机遇。\n\n　　长江证券则预测，2026年国内网络安全市场规模有望突破1500亿元，2030年可达3000亿元，年复合增长率达18%至20%，行业正处于发展黄金期。\n\n　　同时，AI安全新品与服务也在持续发布。近日，上海人工智能实验室推出高安全产业级智能体平台SafeClaw，聚焦高安全需求的产业智能化转型，以推动行业从“事后安全”迈向“内生安全”的路径。同时，上海人工智能实",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "接下来的一年，将是中国互联网最危险的时刻",
+          "url": "https://zhuanlan.zhihu.com/p/2026301415677511034",
+          "snippet": "如果你怀疑Anthropic是在夸大宣传，那我们还可以找到很多前沿AI模型发现高危漏洞的公开案例。2026年1月，安全研究员Sean Heelan的实验显示，GPT-5.2能够在所有6种测试场景中稳定量产零日漏洞利用，即使在开启多重安全防护的最严苛场景下，也能通过复杂的函数调用绕开限制，完成攻击操作，且单次漏洞挖掘成本仅需30-50美元( Opus 4.6在开源软件库中自主识别并验证了超500个高危安全漏洞，其中包括Ghost CMS的盲注SQL注入漏洞（90分钟被发现）和自2003年以来就存在的Linux内核NFS V4守护进程漏洞(\n\n如果你还在怀疑此风险的严重程度，我们可以看看美国政府对Claude Mythos的反应。2026年4月7日，也就是Claude Mythos发布当天，美国财政部长斯科特·贝森特和美联储主席杰罗姆·鲍威尔在财政部总部，紧急召集了花旗、摩根士丹利、美国银行等",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "2026 年最重要的網路安全趨勢：AI、量子準備、零信任& 彈性",
+          "url": "https://www.splashtop.com/tw/blog/top-cybersecurity-trends-and-predictions-for-2026",
+          "snippet": "Splashtop AEM 通過提供集中的終端可見性和遠端修復工具，與更廣泛的安全生態系統無縫整合，以配合這一趨勢。IT 團隊可以從單一、安全的介面監控裝置、執行政策、並自動化例行任務。結合 Splashtop Remote Access，這創造了一個支援安全和運營效率的精簡環境。\n\n隨著更多相連和自動化系統的出現，將工具整合在一個平台下的組織將節省時間、降低成本，並更快速地對不斷變化的威脅做出反應。\n\n## 趨勢9：與擴展中的網路法規保持一致\n\n網路安全不再僅僅是IT問題，它是治理和合規的優先事項。到2026年，全球的組織將面臨更嚴格的網路安全法規，要求更快的侵害報告、更強的數據保護和在高層管理中更明確的問責制。政府正在實施基於NIST、ISO 27001和GDPR框架的新規則，推動企業不僅要證明他們的系統是安全的，還要證明他們的流\u0000程是有據可查和可驗證的。\n\n這些不斷演變的標準也正在重",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "X（Twitter）AI 内容提醒：预分享警告详解（2026）",
+          "url": "https://almcorp.com/zh-CN/blog/x-twitter-ai-content-alerts-pre-share-warning",
+          "snippet": "人工智能内容社区笔记。 X 的众包系统可以为被标记为篡改或人工智能生成的帖子添加背景信息，例如在包含虚假或编辑图像的帖子上添加“保持关注：篡改媒体”标签。华盛顿大学的研究发现，在被篡改的媒体帖子上添加注释比在文本帖子上添加注释更能有效地降低用户参与度。但该系统反应迟缓，且依赖于贡献者的数量和速度。\n\n创作者收益分成处罚。 尼基塔·比尔宣布对未公开的人工智能战争视频处以90天的停权，这无疑会打击那些依靠该平台盈利的创作者的经济积极性。如果发布虚假内容会导致三个月的广告收入损失，那么创作者的考量就会发生改变——至少对于那些依赖该平台盈利的创作者而言是如此。\n\n预分享提醒（测试中）。 最新层将在内容分享的瞬间（在内容到达受众之前）发挥作用，利用平台级检测来识别潜在的 AI 生成内容。\n\n综合来看，这些措施比任何单一干预措施都更为全面。每一层都有其自身的优势和不足之处。无论单独还是共同实施，任何一",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "AI Cybersecurity Predictions For 2026 | CIO Africa",
+          "url": "https://cioafrica.co/ai-cybersecurity-predictions-for-2026",
+          "snippet": "The rapid advancement of artificial intelligence is reshaping the cybersecurity landscape, introducing new defensive capabilities while simultaneously expanding the toolkit available to cybercriminals. According to insights from Kaspersky experts, 2026 will mark a period in which large language models (LLMs) and generative AI become deeply embedded across both attack and defence strategies, forcin",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "資安威脅AI 化",
+          "url": "https://www.trendmicro.com/content/dam/trendmicro/global/zh_tw/security-intelligence/threat-report/report/2026-Security-Predictions_How-AI-is-redrawing-the-cybersecurity-battlefield_1207_tw.pdf",
+          "snippet": "法，⽽是能否以前所未有的效率來擴⼤、⾃動化及協調攻擊。 資安威脅 AI 化：趨勢科技 2026 年資安預測 3 AI • AI 不僅將成為⼀股轉型的⼒量，也將成為⾸要的攻擊管道，驅動著完全⾃主、⾃動 調適，⽽且能夠橫跨數位及實體系統⽽擴⼤的威脅。 • 代理式 AI 的⾃主性將越來越強，它們能執⾏多重步驟的作業，並與真實系統互動， 這使得 AI 代理將成為駭客入侵企業營運的攻擊管道。 • 氛圍編碼 (vibe coding) 不僅將加快創新，同時也將提⾼未經適當審核的不安全程式 碼在企業內的風險。 • AI 驅動的詐騙將登上新的⾼峰：深偽 (deepfake)、幻覺 (hallucination)，以及⾃動 化社交⼯程攻擊⾏動將侵蝕信任並癱瘓傳統的防禦。 APT • 新的協同合作模式將使得 APT 集團能彼此分享存取權限、基礎架構以及惡意檔案， 讓駭客溯源變得撲朔迷離，並加快全球攻擊⾏動的速",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "kept_7_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "AI网络安全机遇 2026-04-07 news",
+        "AI网络安全机遇 2026-04-07 Twitter X reaction",
+        "AI网络安全机遇 2026-04-07 事件 背景 报道",
+        "AI网络安全机遇 2026-04-07"
+      ],
+      "web_evidence": [
+        {
+          "title": "AI如何增强网络威胁？2026年网络安全预测发布",
+          "snippet": "现实情况是：尽管企业渴望采用AI，大多数尚未准备好完全信任AI。黑箱问题、新增漏洞、缺乏透明度、合规风险，使快速采用AI本身成为重大风险。因此，组织可能要求供应商关闭所有不可解释、不可审计、不可问责的AI功能。\n\n这将使核心安全问题从“你在哪里用AI？”变为“你允许AI决定什么？你能被解释吗？”\n\n可解释性将决定系统是基于模糊、易受操控的逻辑，还是受监管、透明的算法运行。算法决策必须伴随可解释性，否则将成为新的风险推动者，而非防御者。\n\n11.网络安全与反欺诈的界线将持续模糊\n\n孤立式安全越来越不适用。面对攻击者从单一目的向多风险、多向量行动转变，传统防御已无法胜任。\n\n如今，攻击者利用被攻破的身份、数据、设备、账号及基础设施进入系统，再通过欺诈环节实现货币化。这要求对完整犯罪攻击链有可见性，也导致“网络安全”与“反欺诈”界线持续模糊。\n\nGartner报告提出，到2028年，20%的大型",
+          "link": "https://www.secrss.com/articles/85962",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The State of AI Cybersecurity 2026 | Insights from 1,500+ Leaders",
+          "snippet": "Agentic AI expands enterprise risk beyond the model: Autonomous agents interact with tools, APIs, identities, data, and other agents, creating identity, behavioral, structural, and accountability risks that can propagate across trusted systems.\n\n An effective AI security stack spans multiple layers: Security teams should evaluate governance and visibility, identity and agent controls, data protect",
+          "link": "https://www.darktrace.com/blog/the-state-of-ai-cybersecurity-2026",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "AI安全焦点追踪丨我国人工智能安全标准体系加速构建-新华网",
+          "snippet": "AI安全供给发力　需求创造机遇\n\n　　国资委1月底发布的数据显示，中央企业已在工业制造、能源电力、智能网联汽车等重点领域，打造了超过1000个AI应用场景，AI赋能产业转型的态势日益明显。与此同时，AI安全问题引发的行业担忧，也催生了全新的安全需求，推动AI安全供给侧持续发力。\n\n　　对此，东莞证券认为，近期OpenClaw等智能体技术快速落地，催生全新安全需求场景，叠加网络安全领域政策利好持续释放，行业有望迎来新的增长机遇。\n\n　　长江证券则预测，2026年国内网络安全市场规模有望突破1500亿元，2030年可达3000亿元，年复合增长率达18%至20%，行业正处于发展黄金期。\n\n　　同时，AI安全新品与服务也在持续发布。近日，上海人工智能实验室推出高安全产业级智能体平台SafeClaw，聚焦高安全需求的产业智能化转型，以推动行业从“事后安全”迈向“内生安全”的路径。同时，上海人工智能实",
+          "link": "http://www.news.cn/tech/20260407/e5345fd98bcf4dc99fab49f2ec8eb1d5/c.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "接下来的一年，将是中国互联网最危险的时刻",
+          "snippet": "如果你怀疑Anthropic是在夸大宣传，那我们还可以找到很多前沿AI模型发现高危漏洞的公开案例。2026年1月，安全研究员Sean Heelan的实验显示，GPT-5.2能够在所有6种测试场景中稳定量产零日漏洞利用，即使在开启多重安全防护的最严苛场景下，也能通过复杂的函数调用绕开限制，完成攻击操作，且单次漏洞挖掘成本仅需30-50美元( Opus 4.6在开源软件库中自主识别并验证了超500个高危安全漏洞，其中包括Ghost CMS的盲注SQL注入漏洞（90分钟被发现）和自2003年以来就存在的Linux内核NFS V4守护进程漏洞(\n\n如果你还在怀疑此风险的严重程度，我们可以看看美国政府对Claude Mythos的反应。2026年4月7日，也就是Claude Mythos发布当天，美国财政部长斯科特·贝森特和美联储主席杰罗姆·鲍威尔在财政部总部，紧急召集了花旗、摩根士丹利、美国银行等",
+          "link": "https://zhuanlan.zhihu.com/p/2026301415677511034",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026 年最重要的網路安全趨勢：AI、量子準備、零信任& 彈性",
+          "snippet": "Splashtop AEM 通過提供集中的終端可見性和遠端修復工具，與更廣泛的安全生態系統無縫整合，以配合這一趨勢。IT 團隊可以從單一、安全的介面監控裝置、執行政策、並自動化例行任務。結合 Splashtop Remote Access，這創造了一個支援安全和運營效率的精簡環境。\n\n隨著更多相連和自動化系統的出現，將工具整合在一個平台下的組織將節省時間、降低成本，並更快速地對不斷變化的威脅做出反應。\n\n## 趨勢9：與擴展中的網路法規保持一致\n\n網路安全不再僅僅是IT問題，它是治理和合規的優先事項。到2026年，全球的組織將面臨更嚴格的網路安全法規，要求更快的侵害報告、更強的數據保護和在高層管理中更明確的問責制。政府正在實施基於NIST、ISO 27001和GDPR框架的新規則，推動企業不僅要證明他們的系統是安全的，還要證明他們的流\u0000程是有據可查和可驗證的。\n\n這些不斷演變的標準也正在重",
+          "link": "https://www.splashtop.com/tw/blog/top-cybersecurity-trends-and-predictions-for-2026",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X（Twitter）AI 内容提醒：预分享警告详解（2026）",
+          "snippet": "人工智能内容社区笔记。 X 的众包系统可以为被标记为篡改或人工智能生成的帖子添加背景信息，例如在包含虚假或编辑图像的帖子上添加“保持关注：篡改媒体”标签。华盛顿大学的研究发现，在被篡改的媒体帖子上添加注释比在文本帖子上添加注释更能有效地降低用户参与度。但该系统反应迟缓，且依赖于贡献者的数量和速度。\n\n创作者收益分成处罚。 尼基塔·比尔宣布对未公开的人工智能战争视频处以90天的停权，这无疑会打击那些依靠该平台盈利的创作者的经济积极性。如果发布虚假内容会导致三个月的广告收入损失，那么创作者的考量就会发生改变——至少对于那些依赖该平台盈利的创作者而言是如此。\n\n预分享提醒（测试中）。 最新层将在内容分享的瞬间（在内容到达受众之前）发挥作用，利用平台级检测来识别潜在的 AI 生成内容。\n\n综合来看，这些措施比任何单一干预措施都更为全面。每一层都有其自身的优势和不足之处。无论单独还是共同实施，任何一",
+          "link": "https://almcorp.com/zh-CN/blog/x-twitter-ai-content-alerts-pre-share-warning",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "AI Cybersecurity Predictions For 2026 | CIO Africa",
+          "snippet": "The rapid advancement of artificial intelligence is reshaping the cybersecurity landscape, introducing new defensive capabilities while simultaneously expanding the toolkit available to cybercriminals. According to insights from Kaspersky experts, 2026 will mark a period in which large language models (LLMs) and generative AI become deeply embedded across both attack and defence strategies, forcin",
+          "link": "https://cioafrica.co/ai-cybersecurity-predictions-for-2026",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "資安威脅AI 化",
+          "snippet": "法，⽽是能否以前所未有的效率來擴⼤、⾃動化及協調攻擊。 資安威脅 AI 化：趨勢科技 2026 年資安預測 3 AI • AI 不僅將成為⼀股轉型的⼒量，也將成為⾸要的攻擊管道，驅動著完全⾃主、⾃動 調適，⽽且能夠橫跨數位及實體系統⽽擴⼤的威脅。 • 代理式 AI 的⾃主性將越來越強，它們能執⾏多重步驟的作業，並與真實系統互動， 這使得 AI 代理將成為駭客入侵企業營運的攻擊管道。 • 氛圍編碼 (vibe coding) 不僅將加快創新，同時也將提⾼未經適當審核的不安全程式 碼在企業內的風險。 • AI 驅動的詐騙將登上新的⾼峰：深偽 (deepfake)、幻覺 (hallucination)，以及⾃動 化社交⼯程攻擊⾏動將侵蝕信任並癱瘓傳統的防禦。 APT • 新的協同合作模式將使得 APT 集團能彼此分享存取權限、基礎架構以及惡意檔案， 讓駭客溯源變得撲朔迷離，並加快全球攻擊⾏動的速",
+          "link": "https://www.trendmicro.com/content/dam/trendmicro/global/zh_tw/security-intelligence/threat-report/report/2026-Security-Predictions_How-AI-is-redrawing-the-cybersecurity-battlefield_1207_tw.pdf",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X修訂使用條款生成式AI涉法風險用戶自行負責2026年1月生效",
+          "snippet": "依照官方繁體中文條款的說明，使用者必須自行確保其提供、建立或生成的內容，符合所有適用的法律、規則、政策與法規，且此義務同樣適用於第三方或 X 關係企業所提供的服務。\n\n這也被解讀為，包含由 xAI 所開發、並已整合於 X 平台的 AI 模型「Grok」在內，只要使用者透過生成式 AI 功能產出內容，若涉及違法或侵權，責任將完全由使用者承擔。\n\n↓韓國繪師被AI氣到，決定在平台恢復昔日狀態前，所有上傳到推特的圖片加入馬斯克的臉，「大家一起來享受伊隆馬斯克吧！」\n\n트위터 정상화될때까지 트위터에 올라오는 모든 그림에 예시같이 일론머스크가 들어갑니다! 모두 일론머스크를 즐겨요  pic.twitter.com/4cHD4g8yMO\n\n此外，先前曾引發爭議的「內容權利授權」條款，在本次修訂中也有所調整。X 再次強調，使用者仍保有其所發佈內容的所有權，但同時需授予 X 全球性、非獨佔、免",
+          "link": "https://www.4gamers.com.tw/news/detail/76079/elon-musks-platform-x-new-terms-users-liable-for-ai-content",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X experiments with pre-share alerts for AI content",
+          "snippet": "That simple alert led to a significant reduction in the amplification of articles that people hadn’t read, with users opening articles 40% more often after seeing the prompt, and subsequently re-tweeting them significantly less.\n\nAI alerts in-stream could have a similar impact, though the system would also be reliant on X being able to detect AI-generated material in posts, which is unlikely to be",
+          "link": "https://www.socialmediatoday.com/news/x-formerly-twitter-tests-ai-content-alerts-in-stream/814889",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-04-07",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI网络安全机遇",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2041580334693720511",
+      "bid": "2041580334693720511",
+      "date": "2026-04-07 18:14:17",
+      "topic": "Project Glasswing 网络安全倡议",
+      "text": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI systems head-on. https://t.co/pn3HSVsThP",
+      "slot_key": "2026-04-07||Project Glasswing 网络安全倡议",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#I’m proud that so many o#",
+        "hashtag": "I’m proud that so many o",
+        "temporal_cutoff": "2026-04-07",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#I’m proud that so many o#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现，内容为 Project Glasswing 合作倡议的公告与转发",
+        "salient_cues_in_feed": [
+          "Project Glasswing",
+          "cyber threat",
+          "AI systems",
+          "leading companies",
+          "collaborative initiative",
+          "critical software infrastructure"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Project Glasswing and the Autonomous Zero-Day Era",
+          "url": "https://labs.cloudsecurityalliance.org/research/ai-autonomous-vulnerability-discovery-v1-0",
+          "snippet": "Project Glasswing was announced on April 7, 2026, as a collaborative initiative to apply frontier AI capabilities to securing critical software infrastructure.",
+          "role": "corroboration",
+          "as_of": "2026-04-07"
+        },
+        {
+          "title": "An initiative to secure the world's software | Project Glasswing",
+          "url": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+          "snippet": "Project Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software.",
+          "role": "primary announcement",
+          "as_of": "2026-04-07"
+        },
+        {
+          "title": "Anthropic on X: Introducing Project Glasswing",
+          "url": "https://x.com/AnthropicAI/status/2041578392852517128",
+          "snippet": "Introducing Project Glasswing: an urgent initiative to help secure the world's most critical software. It's powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans.",
+          "role": "primary source",
+          "as_of": "2026-04-07"
+        },
+        {
+          "title": "Anthropic on X: Project Glasswing is just a starting point",
+          "url": "https://x.com/AnthropicAI/status/2041578414482579912",
+          "snippet": "Project Glasswing is just a starting point. No organization can solve these cybersecurity problems alone: industry, open source, researchers, and governments all have essential roles to play.",
+          "role": "primary source",
+          "as_of": "2026-04-07"
+        },
+        {
+          "title": "Anthropic's Project Glasswing—restricting Claude Mythos to security researchers—sounds necessary to me",
+          "url": "https://simonwillison.net/2026/Apr/7/project-glasswing",
+          "snippet": "I can live with that. I think the security risks really are credible here, and having extra time for trusted teams to get ahead of them is a reasonable trade-off.",
+          "role": "third-party commentary",
+          "as_of": "2026-04-07"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖当日 Anthropic 通过官方 X 账号与 YouTube 发布 Project Glasswing 公告，强调多家头部科技公司联合应对 AI 驱动的网络安全威胁",
+          "information_flow": "信息从 Anthropic 官方公告流出，经由 X 平台、YouTube 视频及第三方技术博客扩散，框架为'AI 时代关键软件安全的紧迫协作'",
+          "cues": [
+            "urgent initiative",
+            "secure critical software",
+            "frontier AI",
+            "collaborative"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "AI 网络安全威胁",
+            "行业协作应对",
+            "前沿模型能力"
+          ],
+          "cues": [
+            "cyber threat",
+            "head-on",
+            "proud"
+          ]
+        },
+        "social": {
+          "event_backdrop": "2026年4月7日 Anthropic 宣布 Project Glasswing，联合 AWS、Apple、Google、Microsoft 等12家创始成员，旨在利用前沿 AI 模型 Claude Mythos Preview 发现并修复关键软件漏洞",
+          "actors_groups": [
+            "Anthropic",
+            "Amazon Web Services",
+            "Apple",
+            "Broadcom",
+            "Cisco",
+            "CrowdStrike",
+            "Google",
+            "JPMorganChase",
+            "Linux Foundation",
+            "Microsoft",
+            "NVIDIA",
+            "Palo Alto Networks"
+          ],
+          "cues": [
+            "founding partners",
+            "coalition",
+            "critical software"
+          ]
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting",
+        "risk_perception",
+        "technology_threat",
+        "source_credibility",
+        "collective_action"
+      ],
+      "summary": "发帖前用户经由微博话题标签页接触到 Project Glasswing 公告，看到 Anthropic 联合多家头部公司以 AI 应对网络安全威胁的协作框架，随后以自豪语气发帖。",
+      "evidence_gaps": [
+        "CSV 无上游源微博，无法确认用户具体从哪条微博或话题页进入",
+        "用户发帖时间 18:14 与 Anthropic X 公告时间 18:06 接近，但无法确认用户是否直接看到 X 原文",
+        "已忽略发帖后信息：2026-04-09 HPCwire 报道、2026-04-28 Uni Systems 评论、2026-05-22 Anthropic 后续统计推文",
+        "post_cutoff_leakage_ignored"
+      ],
+      "search_queries": [
+        "Project Glasswing 网络安全倡议 2026-04-07 news",
+        "Project Glasswing 网络安全倡议 2026-04-07 Twitter X reaction",
+        "Project Glasswing 网络安全倡议 2026-04-07 事件 背景 报道",
+        "Project Glasswing 网络安全倡议 2026-04-07"
+      ],
+      "web_evidence": [
+        {
+          "title": "Project Glasswing and the Autonomous Zero-Day Era",
+          "snippet": "Project Glasswing was announced on April 7, 2026, as a collaborative initiative to apply frontier AI capabilities to securing critical software infrastructure . The project’s name references the glasswing butterfly (Greta oto), whose transparent wings allow it to hide in plain sight—a metaphor for the vulnerabilities that have persisted undetected in widely used software for years and sometimes de",
+          "link": "https://labs.cloudsecurityalliance.org/research/ai-autonomous-vulnerability-discovery-v1-0",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic Unveils ‘Project Glasswing’ as Claude Mythos Targets Software Vulnerabilities",
+          "snippet": "Powered By GSpeech\n\nApril 9, 2026 —Anthropic has announced Project Glasswing, a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world’s most critical software. [...] Anthropic Unveils ‘Project Glasswing’ as Claude Mythos Targets ",
+          "link": "https://www.hpcwire.com/aiwire/2026/04/09/anthropic-unveils-project-glasswing-as-claude-mythos-targets-software-vulnerabilities",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "An initiative to secure the world's software | Project Glasswing",
+          "snippet": "# An initiative to secure the world's software | Project Glasswing\n## Anthropic\n757000 subscribers\n13234 likes\n\n### Description\n431024 views\nPosted: 7 Apr 2026\nProject Glasswing is a new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure th",
+          "link": "https://www.youtube.com/watch?v=INGOC6-LLv0",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Project Glasswing & Claude Mythos Preview: The AI Cyber Watershed Moment",
+          "snippet": "## Coalition Structure\n\nProject Glasswing launched on April 7, 2026 with twelve founding partner organizations and more than 40 additional participants. The founding coalition spans cloud infrastructure, device manufacturing, enterprise networking, financial services, cybersecurity, and open-source software governance:\n\nFounding Partners: Amazon Web Services, Apple, Broadcom, Cisco, CrowdStrike, G",
+          "link": "https://cyberwarrior76.substack.com/p/project-glasswing-and-claude-mythos",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Project Glasswing Changed My Perspective on Cybersecurity. Here's why. | Uni Systems",
+          "snippet": "Submitted on 2026, April 28 - 16:04\n\n# Project Glasswing Changed My Perspective on Cybersecurity. Here's why.\n\nI've spent the last 2 decades working in cybersecurity. I've seen trends come and go, vendors make bold claims, and plenty of \"game-changing\" announcements that turned out to be incremental improvements.\n\nImage\n\nCybersec\n\nedit\n\nWhat Anthropic announced on April 7th is different. [...] The",
+          "link": "https://www.unisystems.com/news/project-glasswing-changed-my-perspective-cybersecurity-heres-why",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic on X: \"Project Glasswing is just a starting point. No organization can solve these cybersecurity problems alone: industry, open source, researchers, and governments all have essential roles to play.\" / X",
+          "snippet": "6:06 PM · Apr 7, 2026410.1KViews\n user avatar\n\n  Anthropic\n\n  @AnthropicAI\n\n  Apr 7\n\n  You can read a detailed technical report on the software vulnerabilities and exploits discovered by Claude Mythos Preview here:\n\n  Anthropic logo\n\n  Assessing Claude Mythos Preview’s cybersecurity capabilitiesFrom anthropic.com\n\n  user avatar\n\n  Anthropic\n\n  @AnthropicAI\n\n  Apr 7\n\n  The Claude Mythos Preview sys",
+          "link": "https://x.com/AnthropicAI/status/2041578414482579912",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic on X: \"Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical software. It’s powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans. https://t.co/NQ7IfEtYk7\" / X",
+          "snippet": "user avatar\n\n  Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical software. It’s powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans.\n\n  Anthropic logo\n\n  Project Glasswing: Securing critical software for the AI eraFrom anthropic.com\n\n  6:06 PM · Apr 7, 202631.7MVi",
+          "link": "https://x.com/AnthropicAI/status/2041578392852517128",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic on X: \"Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then, we and our partners have found more than ten thousand high- or critical-severity vulnerabilities in essential software.\" / X",
+          "snippet": "@AnthropicAI\n\n  Last month we launched Project Glasswing, our collaborative AI cybersecurity initiative. Since then, we and our partners have found more than ten thousand high- or critical-severity vulnerabilities in essential software.\n\n  7:38 PM · May 22, 20262.8MViews\n user avatar\n\n  Anthropic\n\n  @AnthropicAI\n\n  May 22 [...] Log inSign up\n\n## Post\n\n# Anthropic on X: \"Last month we launched Proj",
+          "link": "https://x.com/AnthropicAI/status/2057909102542549503",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Project Glasswing: Anthropic's AI Security Pact 2026",
+          "snippet": "On April 7, 2026, Anthropic announced Project Glasswing -- a private consortium of 12 founding members built to harden critical software against AI-accelerated attacks. The members read like a short list of the companies that actually hold the internet together: AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, NVIDIA, Palo Alto Networks, and Anthropic i",
+          "link": "https://techjacksolutions.com/ai-tools/anthropic-claude/project-glasswing",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic’s Project Glasswing—restricting Claude Mythos to security researchers—sounds necessary to me",
+          "snippet": "I can live with that. I think the security risks really are credible here, and having extra time for trusted teams to get ahead of them is a reasonable trade-off.\n\n## More recent articles\n\nThis is Anthropic’s Project Glasswing—restricting Claude Mythos to security researchers—sounds necessary to me by Simon Willison, posted on 7th April 2026.\n\nNext: Meta's new model is Muse Spark, and meta.ai chat",
+          "link": "https://simonwillison.net/2026/Apr/7/project-glasswing",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-04-07",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Project Glasswing 网络安全倡议",
+        "tavily_hits": 14
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2029720168780169546",
+      "bid": "2029720168780169546",
+      "date": "2026-03-06 00:46:13",
+      "topic": "Anthropic CEO声明",
+      "text": "RT @AnthropicAI: A statement from Anthropic CEO Dario Amodei: https://t.co/WnSFrwI9nI",
+      "slot_key": "2026-03-06||Anthropic CEO声明",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#RT @AnthropicAI: A state# + mention_directed",
+        "hashtag": "RT @AnthropicAI: A state",
+        "temporal_cutoff": "2026-03-06",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "AnthropicAI"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#RT @AnthropicAI: A state# + mention_directed",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": [
+          "AnthropicAI"
+        ]
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "转发正文（RT @AnthropicAI）",
+        "salient_cues_in_feed": [
+          "A statement from Anthropic CEO Dario Amodei",
+          "Department of War",
+          "supply-chain risk designation",
+          "legally unfounded",
+          "national security",
+          "superhuman AI",
+          "civilization-level risks"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Anthropic CEO says firm has ‘no choice’ but to challenge US supply-chain risk designation in court",
+          "url": "https://www.aa.com.tr/en/economy/anthropic-ceo-says-firm-has-no-choice-but-to-challenge-us-supply-chain-risk-designation-in-court/3852371",
+          "snippet": "AI company says designation is legally unfounded, does not prevent it from continuing to work with private-sector partners",
+          "role": "corroboration of the statement's context",
+          "as_of": "2026-03-06"
+        },
+        {
+          "title": "Anthropic on X: \"A statement from Anthropic CEO, Dario Amodei, on our discussions with the Department of War.\"",
+          "url": "https://x.com/AnthropicAI/status/2027150818575528261",
+          "snippet": "A statement from Anthropic CEO, Dario Amodei, on our discussions with the Department of War.",
+          "role": "the original statement being retweeted",
+          "as_of": "2026-03-06"
+        },
+        {
+          "title": "Timeline: Anthropic, OpenAI, and U.S. Government",
+          "url": "https://anthropic-timeline.vercel.app",
+          "snippet": "Dario Amodei, Anthropic CEO, reiterates commitment to supporting U.S. national security and highlights the company's proactive deployment of AI models for military and intelligence use. Amodei explains that Anthropic refuses to support two specific use cases—mass domestic surveillance and fully autonomous weapons—on democratic and safety grounds. He details the pressure and threats from the Depart",
+          "role": "background on Anthropic's stance regarding government/military use",
+          "as_of": "2026-03-06"
+        },
+        {
+          "title": "Anthropic CEO Warns Superhuman AI Could Arrive By 2027 With ‘Civilization-Level’ Risks",
+          "url": "https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks",
+          "snippet": "This week, Anthropic CEO Dario Amodei published a 38-page essay warning that civilization faces “real danger” from superhuman AI arriving as soon as 2027 — describing it as potentially “the single most serious national security threat we’ve faced in a century, possibly ever.”",
+          "role": "prior context on Amodei's public warnings",
+          "as_of": "2026-01-28"
+        },
+        {
+          "title": "Behind the Curtain: Anthropic's warning to the world",
+          "url": "https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity",
+          "snippet": "Anthropic CEO Dario Amodei, the architect of the most powerful and popular AI system for global business, is warning of the imminent \"real danger\" that super-human intelligence will cause civilization-level damage absent smart, speedy intervention.",
+          "role": "prior context on Amodei's public warnings",
+          "as_of": "2026-01-26"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "Anthropic 官方账号发布 CEO 声明，涉及与美国政府（国防部/战争部）的讨论及供应链风险指定争议；媒体同步报道其法律挑战与监管呼吁。",
+          "information_flow": "信息从 Anthropic 官方 X 账号流出，经媒体（Anadolu、Forbes、Axios）扩散，框架聚焦于 AI 安全、国家安全、监管与法律争议。",
+          "cues": [
+            "Department of War",
+            "supply-chain risk",
+            "legally unfounded",
+            "national security",
+            "superhuman AI",
+            "regulation"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "AI 安全风险",
+            "国家安全",
+            "法律挑战",
+            "监管呼吁"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "Anthropic 与美国政府（国防部/战争部）就 AI 模型军事与情报使用进行讨论，同时面临美国供应链风险指定并计划诉诸法律挑战。",
+          "actors_groups": [
+            "Anthropic",
+            "Dario Amodei",
+            "U.S. Government / Department of War",
+            "媒体（Anadolu、Forbes、Axios）"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "agenda_setting",
+        "framing",
+        "source_credibility",
+        "risk_perception",
+        "technology_threat"
+      ],
+      "summary": "用户通过微博话题标签页看到 AnthropicAI 官方账号发布的 CEO 声明转发，声明涉及与美国国防部的讨论及供应链风险指定争议，随后用户转发该声明。",
+      "evidence_gaps": [
+        "CSV 无上游源微博字段，无法确认用户具体从哪个话题标签页或信息流进入",
+        "检索片段中 Anthropic 解約事件時間軸包含 2026/3/7 及之后的内容，已忽略（post_cutoff_leakage_ignored）",
+        "Good Morning America 报道日期为 2026-06-11，晚于发帖时间，已忽略（post_cutoff_leakage_ignored）",
+        "无法确认用户发帖时的具体设备与工具",
+        "无法确认用户发帖前是否阅读了声明全文或仅看到转发标题"
+      ],
+      "search_queries": [
+        "Anthropic CEO声明 2026-03-06 news",
+        "Anthropic CEO声明 2026-03-06 Twitter X reaction",
+        "Anthropic CEO声明 2026-03-06 事件 背景 报道",
+        "Anthropic CEO声明 2026-03-06"
+      ],
+      "web_evidence": [
+        {
+          "title": "Anthropic CEO says firm has ‘no choice’ but to challenge US supply-chain risk designation in court",
+          "snippet": "Anadolu Ajansı © 2026\n\nGoogle PlayApp Store\n\nEconomy\n\n# Anthropic CEO says firm has ‘no choice’ but to challenge US supply-chain risk designation in court\n\nAI company says designation is legally unfounded, does not prevent it from continuing to work with private-sector partners\n\nMucahithan Avcioglu\n\n06 March 2026•Update: 06 March 2026\n\nAnthropic CEO says firm has ‘no choice’ but to challenge US su",
+          "link": "https://www.aa.com.tr/en/economy/anthropic-ceo-says-firm-has-no-choice-but-to-challenge-us-supply-chain-risk-designation-in-court/3852371",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI - Good Morning America",
+          "snippet": "News\n\n# Exclusive: Anthropic CEO calls for stronger regulation of AI\n\n8:17\n\nExclusive: Anthropic CEO explains his latest AI warning\n\nABC News\n\nMason Leath\n\nByMason Leath\n\nJune 11, 2026, 1:00 AM\n\nAI has advanced at an exponential pace, and Dario Amodei, the CEO of Anthropic, one of the handful of the world's most important AI companies, is calling for stronger regulation of the technology -- includ",
+          "link": "https://www.goodmorningamerica.com/news/story/exclusive-anthropic-ceo-calls-stronger-regulation-ai-133753620",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Timeline: Anthropic, OpenAI, and U.S. Government",
+          "snippet": "Dario Amodei, Anthropic CEO, reiterates commitment to supporting U.S. national security and highlights the company's proactive deployment of AI models for military and intelligence use. Amodei explains that Anthropic refuses to support two specific use cases—mass domestic surveillance and fully autonomous weapons—on democratic and safety grounds. He details the pressure and threats from the Depart",
+          "link": "https://anthropic-timeline.vercel.app",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic CEO Warns AI Models May Soon Surpass The 'Cognitive Capabilities Of Most Humans'",
+          "snippet": "# Anthropic CEO Warns AI Models May Soon Surpass The 'Cognitive Capabilities Of Most Humans'\n## Forbes Breaking News\n5600000 subscribers\n21 likes\n\n### Description\n3213 views\nPosted: 19 Feb 2026\nDuring a speech to the AI Impact Summit on Thursday, Anthropic CEO Dario Amodei spoke about the impacts of AI.\n\nStay Connected\nForbes Breaking News on X: \nForbes Breaking News on TikTok: \nMore From Forbes: ",
+          "link": "https://www.youtube.com/watch?v=PB6uFBQv1co",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic on X: \"A statement from Anthropic CEO, Dario Amodei, on our discussions with the Department of War. https://t.co/rM77LJejuk\" / X",
+          "snippet": "Log inSign up\n\n## Post\n\n# Anthropic on X: \"A statement from Anthropic CEO, Dario Amodei, on our discussions with the Department of War. \n\n user avatar\n\n  Anthropic\n\n  @AnthropicAI\n\n  A statement from Anthropic CEO, Dario Amodei, on our discussions with the Department of War.\n\n  Anthropic logo\n\n  Statement from Dario Amodei on our discussions with the Department of WarFrom anthropic.com\n\n  10:36 PM",
+          "link": "https://x.com/AnthropicAI/status/2027150818575528261",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic CEO Warns Superhuman AI Could Arrive By 2027 With ‘Civilization-Level’ Risks",
+          "snippet": "This week, Anthropic CEO Dario Amodei published a 38-page essay warning that civilization faces “real danger” from superhuman AI arriving as soon as 2027 — describing it as potentially “the single most serious national security threat we’ve faced in a century, possibly ever.” [...] He calls on wealthy individuals to step up. “Wealthy individuals have an obligation to help solve this problem. It is",
+          "link": "https://www.forbes.com/sites/anishasircar/2026/01/28/anthropic-ceo-warns-superhuman-ai-could-arrive-by-2027-with-civilization-level-risks",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Behind the Curtain: Anthropic's warning to the world",
+          "snippet": "Anthropic CEO Dario Amodei, the architect of the most powerful and popular AI system for global business, is warning of the imminent \"real danger\" that super-human intelligence will cause civilization-level damage absent smart, speedy intervention. [...] 2.   AI with nation-state power: \"I think the best way to get a handle on the risks of AI is to ask the following question: suppose a literal 'co",
+          "link": "https://www.axios.com/2026/01/26/anthropic-ai-dario-amodei-humanity",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic's CEO Just Predicted AGI by 2026: Could He Be Right?",
+          "snippet": "from the economic value we produce. We're going to derive meaning from the\nactivities that bring us joy. Dario raised this idea of how he's trying to\nget faster at biking up a mountain, trying to get better at a video game. Those things really don't have economic\nmeaning, or do they? But they do bring him joy. He said ultimately, he believes meaning\ncomes from human relationships and connection, n",
+          "link": "https://www.youtube.com/watch?v=13WkoB8RcJY",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Dario Amodei (@DarioAmodei) / X",
+          "snippet": "Apr 7\n\n  I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI systems head-on.\n\n  user avatar\n\n  Anthropic\n\n  @AnthropicAI\n\n  Apr 7 [...] Log inSign up\n\nDario Amodei\n\nAnthropic\n\n\n\nuser avatar\n\nDario Amodei\n\nAnthropic\n\nAnthropic CEO. darioamodei.com\n\nJoined June 2017\n\n0\n\nFollowing551.8K\n\nFollowers\n",
+          "link": "https://x.com/DarioAmodei",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic 解約事件時間軸 | 焦點事件",
+          "snippet": "2026/3/7 國防部副部長（研究與工程）暨首席技術長 Emil Michael 在 All-In Podcast 上透露，Claude 是當時唯一獲准在機密環境中運作的 AI 模型，並描述五角大廈領導層意識到對 Anthropic 依賴程度的「whoa moment」：「如果這個軟體掛了、某個護欄啟動了、某個拒絕發生了——在下一場這樣的戰鬥中，我們的人就處於險境。」Michael 表示正在引入 OpenAI、xAI 和 Google 的模型以確保冗餘。同日他在接受 US News 採訪時表示，爭議起因部分在於 Golden Dome 太空飛彈防禦計畫中 AI 的使用方式。\n\n3/12 Palantir CEO Alex Karp 表示 Palantir 仍在使用 Claude——川普的停用令設有六個月過渡期，在此期間繼續使用屬正常過渡。但值得追蹤的是過渡期結束後（約 2026 年 8 ",
+          "link": "https://eventsinfocus.org/issues/7148271",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-03-06",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Anthropic CEO声明",
+        "tavily_hits": 13
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2027152488659394660",
+      "bid": "2027152488659394660",
+      "date": "2026-02-26 22:43:10",
+      "topic": "Anthropic与战争部讨论",
+      "text": "RT @AnthropicAI: A statement from Anthropic CEO, Dario Amodei, on our discussions with the Department of War. https://t.co/rM77LJejuk",
+      "slot_key": "2026-02-26||Anthropic与战争部讨论",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#RT @AnthropicAI: A state# + mention_directed",
+        "hashtag": "RT @AnthropicAI: A state",
+        "temporal_cutoff": "2026-02-26",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "AnthropicAI"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#RT @AnthropicAI: A state# + mention_directed",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": [
+          "AnthropicAI"
+        ]
+      },
+      "propagation": {
+        "path_to_user": "用户通过微博话题标签页或对 @AnthropicAI 的提及定向进入，看到 AnthropicAI 账号发布的 Dario Amodei 声明推文后转发。",
+        "presentation_form": "转发正文，附带声明链接 https://t.co/rM77LJejuk，呈现为 CEO 公开声明的直接转发",
+        "salient_cues_in_feed": [
+          "A statement from Anthropic CEO, Dario Amodei",
+          "discussions with the Department of War",
+          "two requested safeguards",
+          "mass domestic surveillance",
+          "lethal autonomous weapons"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Statement from Dario Amodei on our discussions with the Department of War",
+          "url": "https://www.anthropic.com/news/statement-department-of-war",
+          "snippet": "It is the Department’s prerogative to select contractors most aligned with their vision. But given the substantial value that Anthropic’s technology provides to our armed forces, we hope they reconsider. Our strong preference is to continue to serve the Department and our warfighters—with our two requested safeguards in place.",
+          "role": "被转发源博的原始声明，用户转发时直接引用的内容",
+          "as_of": "2026-02-26"
+        },
+        {
+          "title": "Anthropic's AI talks with Pentagon reach deadlock",
+          "url": "https://thehill.com/policy/technology/5758006-anthropic-pentagon-ai-talks-stall",
+          "snippet": "Anthropic says ‘virtually no progress’ on Pentagon AI talks as deadline looms",
+          "role": "发帖当日媒体对谈判僵局的报道，构成议题背景",
+          "as_of": "2026-02-26"
+        },
+        {
+          "title": "What's behind the Anthropic-Pentagon dispute? | DW News",
+          "url": "https://www.youtube.com/watch?v=DC6OSydJQCA",
+          "snippet": "AI company Anthropic is getting under pressure from the Pentagon. Defense Secretary Pete Kegsth has given the AI company an ultimatum until Friday to agree to give the military full access to the company's AI models or face cuts of up to $200 million in government contracts.",
+          "role": "发帖前一日视频报道，呈现五角大楼施压与最后通牒框架",
+          "as_of": "2026-02-25"
+        },
+        {
+          "title": "Anthropic 解約事件時間軸",
+          "url": "https://eventsinfocus.org/issues/7148271",
+          "snippet": "2026/02/26 川普政府對 Anthropic 升級施壓，Dario Amodei 發表公開聲明，重申兩條紅線：1）Claude 不得用於大規模國內監控；2）不得用於完全自主、無人類負責任介入的致命武器系統。",
+          "role": "发帖当日事件时间轴，归纳声明核心红线",
+          "as_of": "2026-02-26"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖当日，Anthropic 与五角大楼的谈判僵局成为媒体焦点，Anthropic 官方账号发布 CEO 声明作为回应，媒体以'deadlock''ultimatum''pressure'等框架报道。",
+          "information_flow": "信息从 Anthropic 官方声明流出，经媒体（The Hill、DW News、事件时间轴）扩散，在微博上以转发官方账号声明的形式传播。",
+          "cues": [
+            "deadline",
+            "ultimatum",
+            "safeguards",
+            "Department of War",
+            "statement"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "AI 伦理红线 vs 军事用途",
+            "企业自主 vs 政府施压",
+            "最后通牒与谈判僵局"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "2026年2月，美国战争部要求 Anthropic 的 AI 模型适用于'所有合法用途'，Anthropic 坚持两项安全红线，双方谈判陷入僵局，五角大楼发出最后通牒。",
+          "actors_groups": [
+            "Anthropic",
+            "Dario Amodei",
+            "Department of War / Pentagon",
+            "Defense Secretary Pete Hegseth",
+            "Trump administration"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting",
+        "source_credibility",
+        "crisis_communication",
+        "public_opinion_china"
+      ],
+      "summary": "用户经微博话题标签页或 @AnthropicAI 提及路径，看到 Anthropic 官方账号发布的 CEO Dario Amodei 关于与战争部谈判的声明，直接转发该声明及链接。",
+      "evidence_gaps": [
+        "CSV 无上游源微博字段，无法确认用户转发前在微博信息流中具体看到哪些前置讨论或评论",
+        "检索片段中 CBS News 更新时间为 2026-02-26 23:36 EST，晚于用户发帖时间 22:43:10，其更新内容（特朗普周五下令）属于事后信息，已忽略",
+        "检索片段中 BBC、Mashable、Yahoo Finance、國防安全研究院等来源涉及 2026-02-27 及之后的事件进展，属于 post_cutoff_leakage_ignored",
+        "Military Times 报道日期为 2026-03-04，晚于 cutoff，已忽略",
+        "无法确认用户发帖时微博话题标签页的具体呈现内容与排序"
+      ],
+      "search_queries": [
+        "Anthropic与战争部讨论 2026-02-26 news",
+        "Anthropic与战争部讨论 2026-02-26 Twitter X reaction",
+        "Anthropic与战争部讨论 2026-02-26 事件 背景 报道",
+        "Anthropic与战争部讨论 2026-02-26"
+      ],
+      "web_evidence": [
+        {
+          "title": "Anthropic 解約事件時間軸",
+          "snippet": "2026/02/26  川普政府對 Anthropic 升級施壓，Dario Amodei 發表公開聲明， 重申兩條紅線：  \n  1）Claude 不得用於大規模國內監控（mass domestic surveillance）；  \n  2）不得用於完全自主、無人類負責任介入的致命武器系統。   \n  並強調，相關原則早在 2024 年底的服務條款中已有涵蓋，表示如果國防部選擇終止合作，會協助平順移轉。 New York Times 與 CBS News 的報導。\n\n### 破局與OpenAI的介入\n\n 2026/02/27  川普在 Truth Social 下令全文所有聯邦機構在 6 個月內停止使用 Anthropic 產品。 下午 5:01 截止時間過後不久，國防部長 Hegseth 將 Anthropic 列為供應鏈風險， 要求所有與軍方做生意的承包商、供應商與合作夥伴不得與 A",
+          "link": "https://eventsinfocus.org/issues/7148271",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Pentagon dispute bolsters Anthropic reputation but raises questions about AI readiness in military",
+          "snippet": "#### MilTech\n\n# Pentagon dispute bolsters Anthropic reputation but raises questions about AI readiness in military\n\nBy Matt O'Brien, The Associated Press\n\nPages from the Anthropic website and the company's logo are displayed on a computer screen in New York on Feb. 26, 2026. (Patrick Sison/AP) [...] “If there’s culpability here, I’d say half is Anthropic’s for driving the hype and half is the Depa",
+          "link": "https://www.militarytimes.com/industry/techwatch/2026/03/04/pentagon-dispute-bolsters-anthropic-reputation-but-raises-questions-about-ai-readiness-in-military",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic's AI talks with Pentagon reach deadlock",
+          "snippet": "Skip to content\n\n# Anthropic says ‘virtually no progress’ on Pentagon AI talks as deadline looms\n\nby Julia Shapero and Filip Timotija - 02/26/26 6:26 PM ET\n\nLink copied\n\nMarkus Schreiber, Associated Press file\n\nDario Amodei, CEO and co-founder of Anthropic, attends the annual meeting of the World Economic Forum in Davos, Switzerland, Jan. 23, 2025. [...] They also accused the Pentagon of strategic",
+          "link": "https://thehill.com/policy/technology/5758006-anthropic-pentagon-ai-talks-stall",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "What's behind the Anthropic-Pentagon dispute? | DW News",
+          "snippet": "### Description\n60533 views\nPosted: 25 Feb 2026 [...] AI company Anthropic is getting under pressure from the Pentagon. Defense Secretary Pete Kegsth has given the AI company an ultimatum until Friday to agree to give the military full access to the company's AI models or face cuts of up to $200 million in government contracts. Hegs reportedly demanded the AI company drop its safeguards. Anthropic",
+          "link": "https://www.youtube.com/watch?v=DC6OSydJQCA",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Statement from Dario Amodei on our discussions with the ...",
+          "snippet": "It is the Department’s prerogative to select contractors most aligned with their vision. But given the substantial value that Anthropic’s technology provides to our armed forces, we hope they reconsider. Our strong preference is to continue to serve the Department and our warfighters—with our two requested safeguards in place. Should the Department choose to offboard Anthropic, we will work to ena",
+          "link": "https://www.anthropic.com/news/statement-department-of-war",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Pentagon official lashes out at Anthropic as talks break down: \"You have to trust your military to do the right thing\" - CBS News",
+          "snippet": "Watch CBS News\n\n# Pentagon official lashes out at Anthropic as talks break down: \"You have to trust your military to do the right thing\"\n\nJennifer  Jacobs\n\nUpdated on: February 26, 2026 / 11:36 PM EST\n/ CBS News\n\nUpdate: President Trump announced Friday that he's ordering federal agencies to stop using Anthropic's technology, with six months to phase it out, and Defense Secretary Pete Hegseth decl",
+          "link": "https://www.cbsnews.com/news/pentagon-anthropic-feud-ai-military-says-it-made-compromises",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "五角大樓將AI公司Anthropic列為供應鏈風險，或遭起訴",
+          "snippet": "「我們不需要它、不想要它，不會再和他們做生意！」 特朗普這樣寫道。\n\n隨後，國防部長赫格塞斯（PeteHegseth）在X（原 Twitter）上發文，表示將「立即」把Anthropic列為供應鏈風險，並禁止所有為軍隊服務的機構與Anthropic發生「任何商業往來」。\n\nAnthropic表示，白宮和五角大樓事前並未就這些公開聲明通知自己。\n\n另一名知情人士指出，Anthropic內部普遍認為，公司之所以令特朗普政府不滿，部分原因是阿莫代伊並未像其他科技領袖那樣捐款給特朗普或公開讚揚他。\n\n微軟週四表示，將繼續在給客戶提供的產品中使用Anthropic的技術，但不包括美國國防部。\n\n「我們的律師已研究該標註，並得出結論：包括Claude在內的Anthropic產品仍可提供給我們的客戶使用。」微軟聲明表示。\n\n「我們仍可在非國防項目上與 Anthropic 合作。」\n\n特朗普將國防部稱為「",
+          "link": "https://www.bbc.com/zhongwen/articles/ce94mxdlxe4o/trad",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Trump declares Anthropic 'woke' and orders Pentagon to phase it out | Mashable",
+          "snippet": "Following the president's Friday afternoon announcement, OpenAI CEO Sam Altman appeared on CNBC and voiced support for Anthropic. \"For all the differences I have with Anthropic, I mostly trust them as a company and I think they really do care about safety, and I’ve been happy that they’ve been supporting our war fighters,\" Altman said, according to a clip of the appearance posted to X.\n\nRelated St",
+          "link": "https://mashable.com/article/anthropic-trump-pentagon",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Yahoo Finance - Defense officials notified Anthropic on...",
+          "snippet": "All reactions:\n\n182\n\n20 comments\n\n20 shares\n\nLike\n\nComment\n\nMost relevant\n\n﻿\n\nAuthor\n\nYahoo Finance\n\nRead more: yhoo.it/4syyRFa\n\nAnthropic Vows Legal Fight Against Pentagon Sanction in AI Feud\n\nFINANCE.YAHOO.COM\n\nAnthropic Vows Legal Fight Against Pentagon Sanction in AI Feud\n\n### Anthropic Vows Legal Fight Against Pentagon Sanction in AI Feud\n\n 21w\n\nMatthew Jacobson\n\nThis administration is unhing",
+          "link": "https://www.facebook.com/yahoofinance/posts/defense-officials-notified-anthropic-on-wednesday-the-company-had-been-declared-/1289908926337216",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "國防安全研究院-即時評析",
+          "snippet": "2026年2月，美國戰爭部（Department of War）與人工智慧巨頭Anthropic之間的緊張關係全面升級。這場爭議的導火線，源自於美軍近期在委內瑞拉的軍事行動中，透過大數據承包商Palantir的系統使用了Anthropic的旗艦AI模型Claude。Anthropic隨後對此提出關切，並觸動了軍方的敏感神經。此次爭議的核心在於，戰爭部要求簽約的AI模型必須適用於「所有合法用途」（All lawful purposes）；而Anthropic則堅守其「不作惡原則」的倫理紅線，明確禁止其AI系統被用於「致命性自主武器」（Lethal Autonomous Weapon, LAWs）等。Anthropic的抵制據傳引起川普執政團隊的強烈不滿，戰爭部亦對此祭出強硬手段，威脅將Anthropic列為「供應鏈風險」（Supply Chain Risk）。  \n  \n非民主政體在AI的軍",
+          "link": "https://indsr.org.tw/focus?pid=3067&typeid=3&uid=11",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-02-26",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Anthropic与战争部讨论",
+        "tavily_hits": 14
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2015833051205414955",
+      "bid": "2015833051205414955",
+      "date": "2026-01-26 17:03:46",
+      "topic": "AI与民主价值观",
+      "text": "I've been working on this essay for a while, and it is mainly about AI and about the future. But given the horror we're seeing in Minnesota, its emphasis on the importance of preserving democratic values and rights at home is particularly relevant.",
+      "slot_key": "2026-01-26||AI与民主价值观",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#I've been working on thi#",
+        "hashtag": "I've been working on thi",
+        "temporal_cutoff": "2026-01-26",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#I've been working on thi#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "用户通过微博话题标签页 #I've been working on thi# 进入并发布原创内容。该话题标签本身截断自用户正文首句，表明用户是话题的发起者而非跟随者。发帖前用户可能接触到达沃斯论坛AI议题、AI与民主关系的学术讨论及媒体报道。",
+        "presentation_form": "话题标签页呈现的原创文本帖，内容为个人论文写作心得的分享，附带对明尼苏达州事件的评论。",
+        "salient_cues_in_feed": [
+          "AI与民主制度风险",
+          "达沃斯论坛AI社会影响",
+          "AI deepfakes与选举虚假信息",
+          "AI认知风险与公共知识危机",
+          "明尼苏达州事件（用户正文提及，但检索片段中无直接信息）"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "在2026年你以為 AI 只會搶飯碗？這 7 大隱形危機正悄悄瓦解我們的民主社會制度！",
+          "url": "https://www.chestdrho.com/post/2026airisktodemocratic",
+          "snippet": "造謠零成本，闢謠跑斷腿。即使是低劣的 AI 假語音（如模仿美國總統拜登的電話），也能瞬間觸及萬人。製造看似可信的假資訊太便宜，但機構去查證、澄清的成本卻極高，導致社會來不及建立共同的真相。",
+          "role": "AI对民主制度威胁的框架呈现",
+          "as_of": "2026-01-26"
+        },
+        {
+          "title": "达沃斯论坛热议AI社会影响-新华网",
+          "url": "http://www.news.cn/liangzi/20260126/582547976bdc4c4483e41b05a7d4b429/c.html",
+          "snippet": "2026年的世界经济论坛（达沃斯论坛）再次将人工智能（AI）置于聚光灯下。AI领域的专家和领军人物公开探讨了通用人工智能（AGI）在短短5年内实现的可能性。",
+          "role": "AI社会影响的权威议程设置",
+          "as_of": "2026-01-26"
+        },
+        {
+          "title": "The AI Democracy Dilemma | Journal of Democracy",
+          "url": "https://www.journalofdemocracy.org/articles/the-ai-democracy-dilemma",
+          "snippet": "AI and Epistemic Risk for Democracy: A Coming Crisis of Public Knowledge?",
+          "role": "学术框架：AI对民主的认知风险",
+          "as_of": "2026-01-26"
+        },
+        {
+          "title": "The Impact of AI on Democracy: Risks and Opportunities",
+          "url": "https://vivatech.com/news/the-impact-of-ai-on-democracy-risks-and-opportunities",
+          "snippet": "AI Deepfakes: AI is being actively used by political campaigns in the U.S. to create fake videos of opponents. AI Disinformation: In Nepal's 2026 election, AI-generated content flooded social media to spread misinformation ahead of the vote.",
+          "role": "AI对民主选举的具体威胁案例",
+          "as_of": "2026-01-26"
+        },
+        {
+          "title": "Social platform X edits AI chatbot after election officials warn that it spreads misinformation",
+          "url": "https://www.voanews.com/a/social-platform-x-edits-ai-chatbot-after-election-officials-warn-that-it-spreads-misinformation-/7758287.html",
+          "snippet": "watchdog groups have raised concerns over a surge in hate speech and misinformation being amplified on the platform",
+          "role": "平台AI传播虚假信息的制度性担忧",
+          "as_of": "2026-01-26"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前，达沃斯论坛将AI社会影响置于聚光灯下，学术期刊《Journal of Democracy》刊发AI民主困境专题，多个信息源呈现AI对民主制度、选举诚信、公共知识的威胁框架。",
+          "information_flow": "信息从国际论坛（达沃斯）、学术期刊、科技媒体、监管机构声明等权威源流出，框架集中在AI对民主治理的侵蚀、虚假信息传播、认知风险等议题。",
+          "cues": [
+            "AI民主困境",
+            "deepfakes",
+            "虚假信息",
+            "认知风险",
+            "AGI"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "AI威胁民主制度",
+            "AI虚假信息侵蚀公共知识",
+            "AI治理与监管紧迫性"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "2026年达沃斯论坛热议AI社会影响；学术期刊刊发AI民主困境专题；美国政治竞选使用AI deepfakes；尼泊尔2026年选举中AI生成内容泛滥。用户正文提及明尼苏达州事件，但检索片段中无该事件的具体信息。",
+          "actors_groups": [
+            "达沃斯论坛与会专家",
+            "AI领域领军人物",
+            "选举官员",
+            "监督组织",
+            "科技平台（X）"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "risk_perception",
+        "agenda_setting",
+        "framing",
+        "technology_threat",
+        "public_sphere",
+        "misinformation"
+      ],
+      "summary": "用户通过微博话题标签页发布原创内容，分享关于AI与未来的论文写作心得。发帖前信息环境中，达沃斯论坛、学术期刊及多家媒体集中呈现AI对民主制度、选举诚信和公共知识的威胁框架，用户在此语境下将论文主题与明尼苏达州事件关联，强调维护国内民主价值与权利的重要性。",
+      "evidence_gaps": [
+        "用户正文提及的明尼苏达州事件在检索片段中无任何信息，无法确认用户发帖前接触到的具体事件报道内容",
+        "话题标签 #I've been working on thi# 为截断标签，无法判断该话题页面的完整呈现内容",
+        "CSV无上游源微博字段，无法追溯用户是否受到其他微博用户影响",
+        "检索片段中部分信息源（如PauseAI、YouTube视频、Tufts Daily等）与用户发帖内容的直接关联性较弱，可能为用户发帖前未接触的信息"
+      ],
+      "search_queries": [
+        "AI与民主价值观 2026-01-26 news",
+        "AI与民主价值观 2026-01-26 Twitter X reaction",
+        "AI与民主价值观 2026-01-26 事件 背景 报道",
+        "AI与民主价值观 2026-01-26"
+      ],
+      "web_evidence": [
+        {
+          "title": "【在2026年你以為 AI 只會搶飯碗？這 7 大隱形危機正悄悄瓦解我們的民主社會制度！】",
+          "snippet": "觀點： 造謠零成本，闢謠跑斷腿。\n\n理由與案例： 即使是低劣的 AI 假語音（如模仿美國總統拜登的電話），也能瞬間觸及萬人。製造看似可信的假資訊太便宜，但機構去查證、澄清的成本卻極高，導致社會來不及建立共同的真相。\n\n• 5. 無法審計的權威 (Unauditable Authority)\n\n觀點： 黑箱決策讓你連申訴都無門。\n\n理由與案例： 當機構將海量決策交給 AI 時，AI 生成的「解釋」往往無法反映真實的運算邏輯。加上商業機密保護與驚人的決策數量，現有的監管與究責機制根本無法應付，讓權力變成無法監督的巨獸。\n\n• 6. 價值觀壟斷 (Normative Centralization)\n\n觀點： 科技巨頭成為了潛規則的制定者。\n\n理由與案例： 當各國政府依賴少數幾家大廠的 AI 基礎設施時，同時也「進口」了這些模型內建的道德限制與價值觀。這讓規範社會的權力，從民選官員手中，悄悄轉移到",
+          "link": "https://www.chestdrho.com/post/2026airisktodemocratic",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "达沃斯论坛热议AI社会影响-新华网",
+          "snippet": "达沃斯论坛热议AI社会影响-新华网 \n\n新华网 >  > 正文\n\n2026 01/26 15:55:38\n\n# 达沃斯论坛热议AI社会影响\n\n字体： 小 中 大\n\n分享到：\n\n# 达沃斯论坛热议AI社会影响\n\n2026-01-26 15:55:38  来源：科技日报\n\nAI对就业和技能的变革是2026年世界经济论坛的一个关键议题。图片来源：世界经济论坛官网\n\n  2026年的世界经济论坛（达沃斯论坛）再次将人工智能（AI）置于聚光灯下。与以往的渐进式愿景不同，这一届论坛抛出的激进预测，引发技术界热烈讨论。AI领域的专家和领军人物公开探讨了通用人工智能（AGI）——具备与人类相当或超越人类认知能力的系统，在短短5年内实现的可能性。\n\n  美国媒体ColombiaOne报道称，这些预测打破了论坛惯常的谨慎，将对话从乏味的“商业效率”推向了关于工作、经济以及人类未来的本质拷问。\n\n  这场辩论发",
+          "link": "http://www.news.cn/liangzi/20260126/582547976bdc4c4483e41b05a7d4b429/c.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The AI Democracy Dilemma | Journal of Democracy",
+          "snippet": "Journal of Democracy\n\n \n\n# The AI Democracy Dilemma\n\n David Altman\n\nIssue Date January 2026\n\nVolume 37\n\nIssue 1\n\nPage Numbers 32-44\n\nPrint)\n\nDownload from Project MUSE\n\nView Citation [...] 27. John P. Wihbey, “AI and Epistemic Risk for Democracy: A Coming Crisis of Public Knowledge?,” in Democracy’s Mega Challenges: How Climate Change, Migration, and Big Data Threaten the Future of Liberal Democra",
+          "link": "https://www.journalofdemocracy.org/articles/the-ai-democracy-dilemma",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The Impact of AI on Democracy: Risks and Opportunities",
+          "snippet": "AI Deepfakes: AI is being actively used by political campaigns in the U.S. to create fake videos of opponents. There are increasing calls for federal regulation of political deepfakes, but some people argue the technology qualifies as free speech.\n AI Disinformation: In Nepal’s 2026 election, AI-generated content flooded social media to spread misinformation ahead of the vote. [...] The Impact of ",
+          "link": "https://vivatech.com/news/the-impact-of-ai-on-democracy-risks-and-opportunities",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "AI 民主化 | IBM",
+          "snippet": "深入了解最新的 Gartner 人工智能治理平台魔力象限，探究 IBM 为何能够脱颖而出，成为行业领导者。\n\n 获取报告\n\n## 资源\n\n成功案例   以企业级规模设计 AI 原生航空公司 \n\n当利润微薄时，任何低效环节都至关重要。尽管旧版系统持续限制着 AI 在航空业的潜力，利雅得航空选择了一条不同的道路。利雅得航空与 IBM 合作，打造了全球首家 AI 原生航空公司，重新定义了更智能、更快捷、更直观的旅行方式。\n\n 阅读案例\n\n人工智能治理指南   更智能的 AI 治理与安全解决方案 \n\n了解如何利用本采购指南中的实用策略，将治理和安全转化为驱动力，推动弹性提升、更明智的决策和稳健增长。\n\n 获取相关指南\n\nTII 报告   2026 年 IBM X-Force 威胁情报指数报告 \n\n根据 IBM X-Force 威胁情报指数获取洞察，提高应对网络攻击的速度和效率。\n\n 阅读报告\n\n数",
+          "link": "https://www.ibm.com/cn-zh/think/insights/democratizing-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "AI generated content on X may soon be labelled as \"Made with AI\"",
+          "snippet": "the account could be suspended and this would be a highly effective way of managing AI generated spam. According to Nikita, a large share of the LLM content actually originates from the real people using LLM to communicate and not automatic bot accounts. A visible tag will partly address the issue, but it cannot fully detect people who do not disclose as to what will happen to the human creators u",
+          "link": "https://www.youtube.com/watch?v=llDX7jtqeto",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "PauseAI ⏸ (@PauseAI) / X",
+          "snippet": "Jul 31\n\n  PauseCon 2026 will take place in London from 5-7 September: A conference that will bring together leading voices in AI safety, a growing international community of organisers and prominent UK politicians with legislative expertise on AI. Applications are considered on a rolling [...] 00:00\n user avatar\n\n  PauseAI ⏸\n\n  @PauseAI\n\n  Aug 1\n\n  The AI penalty is real. Researchers found that wo",
+          "link": "https://x.com/PauseAI",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Social platform X edits AI chatbot after election officials warn that it spreads misinformation",
+          "snippet": "Since Musk bought Twitter in 2022 and renamed it to X, watchdog groups have raised concerns over a surge in hate speech and misinformation being amplified on the platform, as well as cuts to the staff that had been moderating content. [...] Both websites are “trustworthy resources that can connect voters with their local election officials,” the five secretaries of state said in a shared statement",
+          "link": "https://www.voanews.com/a/social-platform-x-edits-ai-chatbot-after-election-officials-warn-that-it-spreads-misinformation-/7758287.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Is X a threat to American democracy? - The Tufts Daily",
+          "snippet": "When first-year Thomas Park first downloaded X in 2019, the social media app formerly known as Twitter, he mostly used it to follow art accounts and look at funny tweets. Five years later, in 2024, the content on his “For You” page is largely unchanged, with one notable exception. Now, interspersed with art accounts and memes are far-right extremist advertisements, AI-manipulated images and videos",
+          "link": "https://www.tuftsdaily.com/article/2024/10/isx-a-threat-to-american-democracy",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "What to know about the AI models that are jolting Washington",
+          "snippet": "What to know about the AI models that are jolting Washington. www.politico.com",
+          "link": "https://x.com/politico/status/2058503930498433299",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-01-26",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI与民主价值观",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2015833046327402527",
+      "bid": "2015833046327402527",
+      "date": "2026-01-26 17:03:45",
+      "topic": "AI国家安全风险",
+      "text": "The Adolescence of Technology: an essay on the risks posed by powerful AI to national security, economies and democracy—and how we can defend against them: https://t.co/0phIiJjrmz",
+      "slot_key": "2026-01-26||AI国家安全风险",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#The Adolescence of Techn#",
+        "hashtag": "The Adolescence of Techn",
+        "temporal_cutoff": "2026-01-26",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#The Adolescence of Techn#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现，用户以原创形式发布推文，附带文章链接",
+        "salient_cues_in_feed": [
+          "powerful AI",
+          "national security",
+          "economies",
+          "democracy",
+          "defend against them"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "2026 年末人工智能安全面临的主要威胁",
+          "url": "https://stellarcyber.ai/zh-CN/learn/agentic-ai-securiry-threats",
+          "snippet": "如果攻击者窃取了代理的会话令牌或 API 密钥，他们就可以伪装成受信任的代理。2026 年真实事件：OpenAI 插件生态系统遭受供应链攻击，导致 47 个企业部署中的代理凭证被盗。",
+          "role": "corroboration",
+          "as_of": "2026",
+          "date_unknown": true
+        },
+        {
+          "title": "資安威脅AI 化",
+          "url": "https://www.trendmicro.com/content/dam/trendmicro/global/zh_tw/security-intelligence/threat-report/report/2026-Security-Predictions_How-AI-is-redrawing-the-cybersecurity-battlefield_1207_tw.pdf",
+          "snippet": "AI 供應鏈的攻擊面因而擴大。AI 生成的深偽將在社交工程詐騙中持續扮演重要角色，最令人擔憂的趨勢也許就是「AI 脫衣」應用程式的氾濫。",
+          "role": "corroboration",
+          "as_of": "2026",
+          "date_unknown": true
+        },
+        {
+          "title": "从产业松绑到安全嵌入：特朗普签署AI国安备忘录",
+          "url": "https://www.secrss.com/articles/91467",
+          "snippet": "进入2026年，国家介入力度进一步上升。Anthropic因拒绝接受允许「任何合法用途」的合同条款，坚持保留自主武器和国内大规模监控等使用限制，一度被五角大楼列为「供应链风险」。",
+          "role": "corroboration",
+          "as_of": "2026",
+          "date_unknown": true
+        },
+        {
+          "title": "格陵兰危机 - 维基百科",
+          "url": "https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%99%B5%E5%85%B0%E5%8D%B1%E6%9C%BA",
+          "snippet": "Trump, sharing leaked texts and AI mock-ups, vows 'no going back' on Greenland. Reuters. 2026-01-20",
+          "role": "context",
+          "as_of": "2026-01-20"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "检索片段显示2026年初AI安全议题在媒体与政策层面被密集讨论，涉及国际报告、政府备忘录、网络安全威胁等框架",
+          "information_flow": "信息从国际组织报告、政府政策文件、网络安全公司报告等源流出，框架聚焦于AI对国家安全、经济、民主的风险与防御",
+          "cues": [
+            "AI安全报告",
+            "国安备忘录",
+            "供应链攻击",
+            "深伪",
+            "风险评估"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "风险框架",
+            "防御框架",
+            "国家安全框架"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "2026年初国际AI安全报告发布、特朗普签署AI国安备忘录、Anthropic与五角大楼供应链争议等事件构成AI安全议题的政策背景",
+          "actors_groups": [
+            "国际AI安全报告专家组",
+            "美国政府/白宫",
+            "Anthropic",
+            "五角大楼",
+            "网络安全公司"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "risk_perception",
+        "agenda_setting",
+        "framing",
+        "technology_threat",
+        "uncertainty_reduction"
+      ],
+      "summary": "用户通过话题标签页进入，以原创形式发布关于强大AI对国家安全、经济和民主构成风险及防御之道的文章链接，内容与2026年初AI安全政策讨论语境相呼应。",
+      "evidence_gaps": [
+        "post_cutoff_leakage_ignored: 检索片段中2026年2月4日国际AI安全报告发布、2026年5月5日白宫评估AI模型等均晚于发帖时间2026-01-26，已忽略其作为上游信息源的可能性",
+        "话题标签页的具体呈现内容无证据，无法确认用户发帖前在标签页看到的具体帖子或讨论",
+        "用户所附链接的具体内容未在检索片段中出现，无法确认文章正文与检索片段之间的直接关联",
+        "CSV无上游源微博字段，无法追溯用户是否受到特定账号或帖子的影响",
+        "removed_2_sources_later_than_cutoff",
+        "kept_3_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "AI国家安全风险 2026-01-26 news",
+        "AI国家安全风险 2026-01-26 Twitter X reaction",
+        "AI国家安全风险 2026-01-26 事件 背景 报道",
+        "AI国家安全风险 2026-01-26"
+      ],
+      "web_evidence": [
+        {
+          "title": "2026 年《國際人工智能安全報告》勾勒快速變革與新興風險",
+          "snippet": "...\n\nPR Newswire Asia\n\n# 2026 年《國際人工智能安全報告》勾勒快速變革與新興風險\n\nPR Newswire Asia\n\n蒙特利爾2026年2月4日 /美通社/ -- 2026 年《國際人工智能安全報告》(International AI Safety Report) 今日發佈，該報告基於科學依據，提供關於通用人工智能 (AI) 功能、新興風險，以及當前風險管理與安全措施現狀的最新國際共同評估。\n\n此第二版《國際人工智能安全報告》由圖靈獎 (Turing Award) 得主 Yoshua Bengio 主持，匯集逾百位國際專家，並獲專家諮詢委員會支持，委員會成員由來自歐盟 (EU)、經濟合作暨發展組織 (OECD)、聯合國 (UN) 等 30 多個國家和國際組織提名。 報告的結論將為本月下旬印度主辦的人工智能影響力峰會 (AI Impact Summit) 提供討",
+          "link": "https://hk.finance.yahoo.com/news/2026-%E5%B9%B4-%E5%9C%8B%E9%9A%9B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E5%A0%B1%E5%91%8A-%E5%8B%BE%E5%8B%92%E5%BF%AB%E9%80%9F%E8%AE%8A%E9%9D%A9%E8%88%87%E6%96%B0%E8%88%88%E9%A2%A8%E9%9A%AA-100000687.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2026 年末人工智能安全面临的主要威胁",
+          "snippet": "如果攻击者窃取了代理的会话令牌或 API 密钥，他们就可以伪装成受信任的代理。您的网络会看到一个来自具有有效凭据的合法代理帐户的请求。此时，您无法区分发出请求的究竟是真正的代理还是使用代理凭据的攻击者。\n\nHuntress 发布的 2026 年数据泄露报告指出，NHI（网络基础设施）入侵是企业基础设施中增长最快的攻击途径。开发人员通常会将 API 密钥硬编码到配置文件中，或者将其留在 Git 代码库中。一个被泄露的代理凭据就能让攻击者获得与该代理相同的权限，且这种权限可持续数周甚至数月。\n\n当代理能够访问其他代理的凭证时，风险就会升级。在一个复杂的多代理系统中，编排代理可能持有五个下游代理的 API 密钥。如果编排代理被攻破，攻击者就能访问所有五个下游系统。\n\n2026 年真实事件：OpenAI 插件生态系统遭受供应链攻击，导致 47 个企业部署中的代理凭证被盗。攻击者利用这些凭证访问客户",
+          "link": "https://stellarcyber.ai/zh-CN/learn/agentic-ai-securiry-threats",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "資安威脅AI 化",
+          "snippet": "AI 供應鏈的攻擊⾯因⽽擴⼤。 AI ⽣成的照片和影片，也就是所謂的「深偽」(deepfake) 將在社交⼯程詐騙當中持續 扮演重要⾓⾊21，其中最令⼈擔憂的趨勢也許就是「AI 脫衣」應⽤程式的氾濫。這些 ⼯具象徵數位勒索的全新下限，使⽤深偽將單純的社交媒體照片變成裸照。這些通常 非常便宜或免費就能取得的服務，創造了⼀個專⾨從事騷擾、勒索及破壞名譽的⽣態 系。它對受害者的⼼理帶來嚴重影響：永久的⼼理創傷、失去⼯作，在極端的情況 下，甚⾄會造成悲劇。 這已經不是⼀種理論性威脅，⽽是現在進⾏式，其所需的技術 只會越來越容易取得、越來越逼真，因此是 2026 年最危險的威脅之⼀。 最後，我們已觀察到惡意的 GGUF 模型檔案被上傳到 Hugging Face，該網站正與合 作夥伴企業共同研究如何加以偵測和下架22。在這類情況中，駭客會上傳他們篡改過 的模型，⽽這些模型⼀旦被企業部署成推論模型，就",
+          "link": "https://www.trendmicro.com/content/dam/trendmicro/global/zh_tw/security-intelligence/threat-report/report/2026-Security-Predictions_How-AI-is-redrawing-the-cybersecurity-battlefield_1207_tw.pdf",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "从产业松绑到安全嵌入：特朗普签署AI国安备忘录 - 安全内参 | 决策者的网络安全知识库",
+          "snippet": "第三步是“下场”，国家安全部门开始更直接地介入模型部署、供应商管理和使用边界设定。进入2026年，国家介入力度进一步上升。Anthropic因拒绝接受允许“任何合法用途”的合同条款，坚持保留自主武器和国内大规模监控等使用限制，一度被五角大楼列为“供应链风险”。虽然后续法院对该指定发出禁令，但事件已显示，美国政府难以接受商业AI供应商在国家安全合同中保留独立“红线”。\n\n在这一背景下，11号备忘录的重点不只是推动军方和情报部门使用AI，更在于重新界定政府与前沿AI企业之间的关系。美国政府一方面仍希望保持产业创新速度，另一方面也开始要求企业在国家安全场景中接受更多协调和约束，由此渐次调整对AI产业的战略认知。 [...] 其一，承认前沿AI具有显著国家安全外部性，政府由被动应对转向有限主动介入。前沿AI能力跃升已不再只是产业竞争问题，而开始被美国政府纳入国家安全和关键基础设施防护框架。Anth",
+          "link": "https://www.secrss.com/articles/91467",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "白宫考虑对构成安全风险的AI模型进行评估",
+          "snippet": "Amrith Ramkumar\n/\n\nRobert McMillan\n/\n\nKatherine Blunt\n\n更新于 2026年5月5日 14:12 CST\n\n分享\n\n文字大小\n\n工具实施新的政府审查程序，此举可能会进一步扩大政府对AI的监管，以应对Anthropic强大的Mythos模型。\n\n知情人士透露，白宫正在考虑发布一项以网络安全为重点的行政命令，其中可能包括正式成立一个政府监督小组，为Mythos等最强大的AI模型制定标准。这些人士表示，此举旨在保护消费者和企业免受因过早发布此类模型而引发的网络攻击和其他干扰，目前正在考虑一系列方案。\n\nCopyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8\n\nImage 2: The Wall Street J",
+          "link": "https://cn.wsj.com/articles/white-house-officials-discuss-assessing-ai-models-that-pose-security-risks-886d9d6c",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Web3_Internship_Bootcamp_2026_Winter/notes/klhbd.md at main · IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter · GitHub",
+          "snippet": "### 🛠️ 信息入口优先级：\n\n1. X（Twitter）：最快最活跃，第一手信息源\n2. TG（电报）：项目/KOL/交易所群，第二活跃\n3. 媒体与数据平台：\n\n### 🧰 协作与写作工具：\n\n 协作：TG + Notion（记录会议与需求）\n 写作：Google Docs（协作批注）\n AI 辅助：ChatGPT（拆问题、找素材），推荐使用带引用索引的 AI 工具\n\n 原则：Don’t trust, verify（多信源交叉验证）\n 常见陷阱：\n\n  + AI 幻觉（过度解读、拼接失真）\n 态度：宁愿慢一点，也不发假新闻\n\n写作风格与采访技巧\n\n### ✍️ 写作风格：\n\n 客观中立、数据驱动\n 善用类比、举例、图表，降低阅读门槛\n 避免“喊单”倾向，平衡优势与风险\n\n### 🎤 采访技巧：\n\n 前期研究项目背景、数据、社区反馈\n 提问避免纯技术术语，关注“技术带来什么效果”\n 设",
+          "link": "https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/klhbd.md",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "格陵兰危机 - 维基百科，自由的百科全书",
+          "snippet": "132. ^ Trump says U.K. 'stupidity' on Chagos Islands justifies Greenland demands. The Washington Post.  [2026-01-20]. （原始内容存档于2026-01-21） （英语）.\n133. ^ Rose, Michel; Jacobsen, Stine. Trump, sharing leaked texts and AI mock-ups, vows 'no going back' on Greenland. Reuters. 2026-01-20  [2026-01-20] （英语）.\n134. ^ Trump, Donald J. Trump's Truth Social Post. Truth Social. 2026-01-20  [2026-01-20]. （原始内容存档",
+          "link": "https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%99%B5%E5%85%B0%E5%8D%B1%E6%9C%BA",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "老猿说OldApe (@OldApeTalk) / X",
+          "snippet": "07:52\n\n  user avatar\n\n  老猿说OldApe\n\n  @OldApeTalk\n\n  Aug 4\n\n  【双语字幕】特朗普空军一号答记者问：三方劝阻伊朗打击行动，伊朗谈判明日启动，日元干预、委内瑞拉资金、FBI调查全面回应 | 20260802 00:00:00 伊朗打击行动：三方劝阻，特朗普称明日启动去核化谈判 00:03:02 记者问：美军是否正在从巴林、科威特撤出中东 00:03:09\n user avatar\n\n  老猿说OldApe\n\n  @OldApeTalk\n\n  2h\n\n  具体投资项目公布：电池、铜矿、石墨与国防矿产 要点: 战争部向密封纳米技术公司提供14亿美元贷款（华盛顿州电池设施） 进出口银行提供逾10亿美元资助亚利桑那伊万诺铜矿 启动阿拉巴马石墨项目（250亿美元）及南加州硼设施 战争部投资4亿美元扩大澳大利亚钪矿产能\n\n  \n\n  00:00\n",
+          "link": "https://x.com/OldApeTalk",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "海馬士首期款將到期...將軍為軍購卡關急到淚灑立院蕭美琴 ...",
+          "snippet": "4.8K reactions · 490 comments · 201 shares 【軍購案卡關僵… 民眾黨提出的軍購版本「是非專業的法律版本」 ,恐在實務與安全面留下風險。",
+          "link": "https://www.facebook.com/setnews/videos/%E6%B5%B7%E9%A6%AC%E5%A3%AB%E9%A6%96%E6%9C%9F%E6%AC%BE%E5%B0%87%E5%88%B0%E6%9C%9F%E5%B0%87%E8%BB%8D%E7%82%BA%E8%BB%8D%E8%B3%BC%E5%8D%A1%E9%97%9C%E6%80%A5%E5%88%B0%E6%B7%9A%E7%81%91%E7%AB%8B%E9%99%A2-%E8%95%AD%E7%BE%8E%E7%90%B4%E8%AA%AA%E8%A9%B1%E4%BA%86%E9%A1%8F%E6%85%A7%E6%AC%A3%E5%82%B3%E7%94%9F%E5%89%8D%E9%81%AD%E9%9C%B8%E5%87%8C-%E5%A5%B9%E9%9B%A3%E9%81%8E%E6%9B%9D%E5%8D%93%E9%99%A2%E9%95%B7%E5%B7%B2%E6%8C%87%E7%A4%BA%E5%BE%8C%E7%BA%8C%E4%BA%86%E8%A7%A3%E5%B9%B4%E5%B9%B4%E6%9C%89%E5%B6%BC%E5%9C%8B%E9%98%B2%E9%A0%90%E7%AE%97%E4%B8%8D%E5%8F%AA%E8%B2%B7%E6%AD%A6%E5%99%A8-%E9%82%84%E6%9C%89%E5%9C%8B%E5%85%A7%E7%94%A2%E8%A3%BD%E5%91%80/1442234340151593",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Instagram",
+          "snippet": "互連，就是下一個 AI 性能瓶頸！ MRVL會是萬億市值？  \nGTC透露NVDA下的這步大棋! 蘊藏的投資啟示!  \n-  \n【免責聲明】  \n本內容僅供參考及一般資訊用途，並不構成任何投資建議、要約、招攬或推薦買賣任何證券、金融工具或投資產品。內容中所表達之意見僅反映作者於發布當時之個人判斷，日後可能隨時更改，毋須另行通知。  \n本內容並未有考慮任何個別投資者的具體投資目標、財務狀況及個別需要。投資者不應單純依賴本內容作任何投資決定，而應基於自身情況尋求獨立的專業投資意見。  \n所有投資均涉及風險，投資產品價格可升可跌，過往表現並非未來表現的指標，投資者有可能錄得虧損。\n\nchar1e5's profile picture\n\nchar1e5\n\n請問118買intc 見到低於ma10,20均線，但又未破近期100支持位，有冇得博佢回升？\n\nReply\n\n2734\n\nLog in to l",
+          "link": "https://www.instagram.com/p/DZHEEymCZQD",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-01-26",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI国家安全风险",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false,
+      "removed_sources": [
+        {
+          "title": "2026 年《國際人工智能安全報告》勾勒快速變革與新興風險",
+          "url": "https://hk.finance.yahoo.com/news/2026-%E5%B9%B4-%E5%9C%8B%E9%9A%9B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E5%A0%B1%E5%91%8A-%E5%8B%BE%E5%8B%92%E5%BF%AB%E9%80%9F%E8%AE%8A%E9%9D%A9%E8%88%87%E6%96%B0%E8%88%88%E9%A2%A8%E9%9A%AA-100000687.html",
+          "date": "2026-02-04",
+          "role": "removed_later_than_cutoff"
+        },
+        {
+          "title": "白宫考虑对构成安全风险的AI模型进行评估",
+          "url": "https://cn.wsj.com/articles/white-house-officials-discuss-assessing-ai-models-that-pose-security-risks-886d9d6c",
+          "date": "2026-05-05",
+          "role": "removed_later_than_cutoff"
+        }
+      ]
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "2015833048785248440",
+      "bid": "2015833048785248440",
+      "date": "2026-01-26 17:03:45",
+      "topic": "AI发展前景",
+      "text": "It's a companion to Machines of Loving Grace, an essay I wrote over a year ago, which focused on what powerful AI could achieve if we get it right: https://t.co/TDKfXIPw15",
+      "slot_key": "2026-01-26||AI发展前景",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#It's a companion to Mach#",
+        "hashtag": "It's a companion to Mach",
+        "temporal_cutoff": "2026-01-26",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#It's a companion to Mach#",
+        "hashtag": "It's a companion to Mach",
+        "temporal_cutoff": "2026-01-26",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "evidence_insufficient",
+        "salient_cues_in_feed": []
+      },
+      "information_sources": [
+        {
+          "title": "来自微软研究院的2026年前沿观察- Microsoft Research",
+          "url": "https://www.microsoft.com/en-us/research/articles/whats-next-in-ai",
+          "snippet": "在今天的文章中，来自微软研究院的研究员们将分享他们对2026年 AI 发展趋势的展望与观点。他们的洞察展现了站在科学探索最前沿的工作者们所面临的挑战与激动人心之处，同时也代表了他们对未来一年的期望和愿景。这些理念标志着人们对智能的构想与应用方式正在发生转变。这并非是将人工智能嫁接到旧有的框架之上，而是重构驱动进步的核心原则。微软也在积极助力这一变革，为未来的发展指明方向。\n\n### AI将成为实验室助手，助力加速科学发现\n\nImage 3: text\nAI 已经加快了科学发现的步伐。科研人员正在气候建模、分子动力学、材料设计等诸多领域使用 AI。但 AI 的能力远不止于模拟物理、化学、生物过程，也不仅仅局限于总结论文、回答问题或撰写报告。\n\n到了2026年，AI 将能够生成新的假设，调用那些可以控制科学实验的工具与应用，并与人类及 AI 的科研同事协作。简而言之，AI 将参与到科学发现的探",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "展望全球人工智能2026年演进新局",
+          "url": "http://www.news.cn/tech/20260126/05174e5018164e8b86379019a4b43441/c.html",
+          "snippet": "展望全球人工智能2026年演进新局-新华网 \n\n新华网 >  > 正文\n\n2026 01/26 09:07:53\n\n# 展望全球人工智能2026年演进新局\n\n字体： 小 中 大\n\n分享到：\n\n# 展望全球人工智能2026年演进新局\n\n2026-01-26 09:07:53  来源：经济参考报\n\n站在2026年的起点，展望全球人工智能（AI）发展，技术、产业、能源、治理多重变量交织，将共同塑造这一关键年份。\n\n相关机构预测，越来越多的顶尖AI企业将聚焦提升大模型推理能力与智能体执行任务能力，推动AI从“会生成”向“会规划、会行动”进化。大量企业应用将嵌入任务型AI智能体。\n\n与技术突破相伴的则是能源压力，全球数据中心耗电量将持续高企。治理层面，预计各国治理措施将加速落地。\n\n技术：大模型竞赛带动智能体应用\n\n2026年，人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心（OpenA",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "四个关键词，全球各方展望2026年AI格局_世界互联网大会",
+          "url": "https://cn.wicinternet.org/2026-01/26/content_38559489.htm",
+          "snippet": "首页 >  新闻中心 > 行业新闻\n\n# 四个关键词，全球各方展望2026年AI格局\n\n2026-01-26来源：世界互联网大会\n\nShare - WeChat\n\n能源挑战、全球治理四个关键词\n\n你追我赶的竞争趋势将延续\n\nOpenAI、谷歌等企业\n\n将发布规模更大或效率更高的\n\n最新版本大模型\n\n知名人工智能研究者\n\n斯坦福大学教授李飞飞\n\n在日前发布的文章中表示\n\n空间智能是\n\n人工智能下一个前沿\n\n大模型在成功处理文本数据\n\n多模态数据的基础上\n\n正在空间理解力方面取得进步\n\n其目标是具备语义\n\n物理、几何、动态复杂交互等\n\n方面能力的模型\n\nAnthropic首席执行官\n\n达里奥·阿莫迪\n\n在2026年世界经济论坛中指出\n\nAI已经能够辅助设计下一代模型\n\n这一自我加速循环\n\n可能让技术突破提前到来\n\n他预计\n\n到2026年或2027年\n\n可能出现一款\n\n在诺贝尔奖级别任务上\n\n能",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily"
+        },
+        {
+          "title": "【科技观察】2026年AI全景展望：从技术爆发到全民共生",
+          "url": "https://www.kerui.org/NewsDetail.aspx?ID=1411",
+          "snippet": "医疗领域的人机协作已成为典范。2026年初上线的AI辅助诊疗系统，已在国内300多家三甲医院投入使用，能将早期肺癌的诊断准确率提升至97.8%，效率是传统人工诊断的3倍。但这并非AI取代医生，而是医生借助AI的算力优势，减少漏诊、误诊的可能。一位胸外科医生坦言：“AI是我的‘第二双眼睛’，它能帮我快速筛选海量影像数据，而我则专注于制定个性化治疗方案，两者结合才能给患者最好的治疗。”\n\n10.jpg\n\n图自unsplash\n\nAI还将赋能超精简团队运营，帮助中小企业在降低人力成本的同时提升效率。例如，一家小型创意公司，借助多智能体系统，仅需3-5名核心员工就能完成传统团队10-20人的工作，AI负责文案撰写、设计制作、媒介投放等执行工作，核心员工专注于客户对接、创意策划等关键环节。这种轻量化的运营模式，将成为中小企业的核心竞争力。\n\n在科学研究领域，AI将发挥关键作用，产出超过人类顶级专家的",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "新华深读｜2026年中国AI发展趋势前瞻",
+          "url": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html",
+          "snippet": "各大厂商不约而同加快AI真实场景落地的开发。百度新设立了基础模型研发部、应用模型研发部。公司创始人李彦宏称，未来AI领域只会剩下少数几个基础模型，但在应用层，将出现许多在不同方向上都取得成功的参与者，那里才是机会最多的地方。\n\n中国信通院的报告显示，基础模型数量正持续收敛，在真实场景中的应用效果成为关注重点。以大模型“六小虎”为例，百川智能已深耕医疗，零一万物则转向为企业部署定制解决方案。\n\n这些揭示一个趋势：曾经硝烟弥漫的“百模大战”落下帷幕，等待参与者的是一场围绕真实场景渗透、产业生态构建与应用价值深挖的耐力赛。\n\n自1956年达特茅斯会议以来，人工智能已走过70年历程。如今，“技术进化”和“场景落地”的双重变革，推动人工智能向更广阔疆域拓展。\n\nImage 9\n\n张亚勤认为，人工智能正向智能体AI加速演进。智能体AI能够像人一样设定任务、规划实现路径、试错反馈，具有自主性、能举一反三",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "18 Predictions for 2026",
+          "url": "https://www.uxtigers.com/post/2026-predictions",
+          "snippet": "By the close of 2026, the dominant metric for enterprise AI success will shift from “tokens generated” to “tasks completed autonomously.” We will see widespread deployment of Multi-Agent Systems (MAS), where specialized AI agents collaborate to achieve shared goals without human intervention. These are not merely productivity tools but “digital employees” capable of negotiating with other agents, ",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        },
+        {
+          "title": "OpenAI",
+          "url": "https://x.com/OpenAI/status/2003594025098785145",
+          "snippet": "2026 Prediction: Progress towards AGI will depend as much on helping people use AI well, in ways that directly benefit them as on progress in",
+          "date": "",
+          "role": "retrieved",
+          "source": "tavily",
+          "date_unknown": true
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "framing",
+        "agenda_setting"
+      ],
+      "summary": "模型输出无法解析；仅保留 CSV 可观察路径",
+      "evidence_gaps": [
+        "llm_parse_failed",
+        "removed_1_sources_later_than_cutoff",
+        "kept_5_sources_with_unknown_date"
+      ],
+      "search_queries": [
+        "AI发展前景 2026-01-26 news",
+        "AI发展前景 2026-01-26 Twitter X reaction",
+        "AI发展前景 2026-01-26 事件 背景 报道",
+        "AI发展前景 2026-01-26"
+      ],
+      "web_evidence": [
+        {
+          "title": "来自微软研究院的2026年前沿观察- Microsoft Research",
+          "snippet": "在今天的文章中，来自微软研究院的研究员们将分享他们对2026年 AI 发展趋势的展望与观点。他们的洞察展现了站在科学探索最前沿的工作者们所面临的挑战与激动人心之处，同时也代表了他们对未来一年的期望和愿景。这些理念标志着人们对智能的构想与应用方式正在发生转变。这并非是将人工智能嫁接到旧有的框架之上，而是重构驱动进步的核心原则。微软也在积极助力这一变革，为未来的发展指明方向。\n\n### AI将成为实验室助手，助力加速科学发现\n\nImage 3: text\nAI 已经加快了科学发现的步伐。科研人员正在气候建模、分子动力学、材料设计等诸多领域使用 AI。但 AI 的能力远不止于模拟物理、化学、生物过程，也不仅仅局限于总结论文、回答问题或撰写报告。\n\n到了2026年，AI 将能够生成新的假设，调用那些可以控制科学实验的工具与应用，并与人类及 AI 的科研同事协作。简而言之，AI 将参与到科学发现的探",
+          "link": "https://www.microsoft.com/en-us/research/articles/whats-next-in-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "展望全球人工智能2026年演进新局",
+          "snippet": "展望全球人工智能2026年演进新局-新华网 \n\n新华网 >  > 正文\n\n2026 01/26 09:07:53\n\n# 展望全球人工智能2026年演进新局\n\n字体： 小 中 大\n\n分享到：\n\n# 展望全球人工智能2026年演进新局\n\n2026-01-26 09:07:53  来源：经济参考报\n\n站在2026年的起点，展望全球人工智能（AI）发展，技术、产业、能源、治理多重变量交织，将共同塑造这一关键年份。\n\n相关机构预测，越来越多的顶尖AI企业将聚焦提升大模型推理能力与智能体执行任务能力，推动AI从“会生成”向“会规划、会行动”进化。大量企业应用将嵌入任务型AI智能体。\n\n与技术突破相伴的则是能源压力，全球数据中心耗电量将持续高企。治理层面，预计各国治理措施将加速落地。\n\n技术：大模型竞赛带动智能体应用\n\n2026年，人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心（OpenA",
+          "link": "http://www.news.cn/tech/20260126/05174e5018164e8b86379019a4b43441/c.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "四个关键词，全球各方展望2026年AI格局_世界互联网大会",
+          "snippet": "首页 >  新闻中心 > 行业新闻\n\n# 四个关键词，全球各方展望2026年AI格局\n\n2026-01-26来源：世界互联网大会\n\nShare - WeChat\n\n能源挑战、全球治理四个关键词\n\n你追我赶的竞争趋势将延续\n\nOpenAI、谷歌等企业\n\n将发布规模更大或效率更高的\n\n最新版本大模型\n\n知名人工智能研究者\n\n斯坦福大学教授李飞飞\n\n在日前发布的文章中表示\n\n空间智能是\n\n人工智能下一个前沿\n\n大模型在成功处理文本数据\n\n多模态数据的基础上\n\n正在空间理解力方面取得进步\n\n其目标是具备语义\n\n物理、几何、动态复杂交互等\n\n方面能力的模型\n\nAnthropic首席执行官\n\n达里奥·阿莫迪\n\n在2026年世界经济论坛中指出\n\nAI已经能够辅助设计下一代模型\n\n这一自我加速循环\n\n可能让技术突破提前到来\n\n他预计\n\n到2026年或2027年\n\n可能出现一款\n\n在诺贝尔奖级别任务上\n\n能",
+          "link": "https://cn.wicinternet.org/2026-01/26/content_38559489.htm",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "【科技观察】2026年AI全景展望：从技术爆发到全民共生",
+          "snippet": "医疗领域的人机协作已成为典范。2026年初上线的AI辅助诊疗系统，已在国内300多家三甲医院投入使用，能将早期肺癌的诊断准确率提升至97.8%，效率是传统人工诊断的3倍。但这并非AI取代医生，而是医生借助AI的算力优势，减少漏诊、误诊的可能。一位胸外科医生坦言：“AI是我的‘第二双眼睛’，它能帮我快速筛选海量影像数据，而我则专注于制定个性化治疗方案，两者结合才能给患者最好的治疗。”\n\n10.jpg\n\n图自unsplash\n\nAI还将赋能超精简团队运营，帮助中小企业在降低人力成本的同时提升效率。例如，一家小型创意公司，借助多智能体系统，仅需3-5名核心员工就能完成传统团队10-20人的工作，AI负责文案撰写、设计制作、媒介投放等执行工作，核心员工专注于客户对接、创意策划等关键环节。这种轻量化的运营模式，将成为中小企业的核心竞争力。\n\n在科学研究领域，AI将发挥关键作用，产出超过人类顶级专家的",
+          "link": "https://www.kerui.org/NewsDetail.aspx?ID=1411",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "新华深读｜2026年中国AI发展趋势前瞻",
+          "snippet": "各大厂商不约而同加快AI真实场景落地的开发。百度新设立了基础模型研发部、应用模型研发部。公司创始人李彦宏称，未来AI领域只会剩下少数几个基础模型，但在应用层，将出现许多在不同方向上都取得成功的参与者，那里才是机会最多的地方。\n\n中国信通院的报告显示，基础模型数量正持续收敛，在真实场景中的应用效果成为关注重点。以大模型“六小虎”为例，百川智能已深耕医疗，零一万物则转向为企业部署定制解决方案。\n\n这些揭示一个趋势：曾经硝烟弥漫的“百模大战”落下帷幕，等待参与者的是一场围绕真实场景渗透、产业生态构建与应用价值深挖的耐力赛。\n\n自1956年达特茅斯会议以来，人工智能已走过70年历程。如今，“技术进化”和“场景落地”的双重变革，推动人工智能向更广阔疆域拓展。\n\nImage 9\n\n张亚勤认为，人工智能正向智能体AI加速演进。智能体AI能够像人一样设定任务、规划实现路径、试错反馈，具有自主性、能举一反三",
+          "link": "https://www.news.cn/20260128/3b2f11906fd74ca397fef9996c805a60/c.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "18 Predictions for 2026",
+          "snippet": "By the close of 2026, the dominant metric for enterprise AI success will shift from “tokens generated” to “tasks completed autonomously.” We will see widespread deployment of Multi-Agent Systems (MAS), where specialized AI agents collaborate to achieve shared goals without human intervention. These are not merely productivity tools but “digital employees” capable of negotiating with other agents, ",
+          "link": "https://www.uxtigers.com/post/2026-predictions",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "OpenAI",
+          "snippet": "2026 Prediction: Progress towards AGI will depend as much on helping people use AI well, in ways that directly benefit them as on progress in",
+          "link": "https://x.com/OpenAI/status/2003594025098785145",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "TIME on X: \"5 predictions for AI in 2026: https://t.co/LOY3kkzxMT\" / X",
+          "snippet": "Log inSign up\n\n## Post\n\n# TIME on X: \"5 predictions for AI in 2026: \n\n user avatar\n\n  TIME\n\n  @TIME\n\n  5 predictions for AI in 2026:\n\n  \n\n  5 Predictions for AI in 2026From time.com\n\n  12:55 PM · Jan 15, 202614.1KViews",
+          "link": "https://x.com/TIME/status/2011784330549535117",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Top challenges slowing AI adoption.",
+          "snippet": "Notion (@NotionHQ). 10 likes. Top challenges slowing AI adoption. 's Image on X 💬2. Explore Trending StoriesGo to HomeSearch XNews",
+          "link": "https://x.com/NotionHQ/status/2085090313329365454",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "展望全球人工智能2026年演进新局 - 数智",
+          "snippet": "央视网>;)数智频道\n\n# 展望全球人工智能2026年演进新局\n\n## 副标题：\n\n来源：经济参考报 | 2026-01-26 10:05:23\n\n经济参考报 | 2026-01-26 10:05:23\n\n###### 原标题：\n\n正在加载\n\n站在2026年的起点，展望全球人工智能（AI）发展，技术、产业、能源、治理多重变量交织，将共同塑造这一关键年份。\n\n相关机构预测，越来越多的顶尖AI企业将聚焦提升大模型推理能力与智能体执行任务能力，推动AI从“会生成”向“会规划、会行动”进化。大量企业应用将嵌入任务型AI智能体。\n\n与技术突破相伴的则是能源压力，全球数据中心耗电量将持续高企。治理层面，预计各国治理措施将加速落地。\n\n技术：大模型竞赛带动智能体应用\n\n2026年，人工智能大模型你追我赶的竞争趋势将延续。开放人工智能研究中心（OpenAI）、谷歌、深度求索等企业将发布规模更大或效率更高的",
+          "link": "https://5gai.cctv.com/2026/01/26/ARTIFePGMFzgdaKZYzHoRbTy260126.shtml",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2026-01-26",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI发展前景",
+        "tavily_hits": 13
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false,
+      "removed_sources": [
+        {
+          "title": "TIME on X: \"5 predictions for AI in 2026: https://t.co/LOY3kkzxMT\" / X",
+          "url": "https://x.com/TIME/status/2011784330549535117",
+          "date": "2026-14-01",
+          "role": "removed_later_than_cutoff"
+        }
+      ]
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "1977010693460443151",
+      "bid": "1977010693460443151",
+      "date": "2025-10-11 13:57:35",
+      "topic": "Anthropic expansion to India",
+      "text": "Today I met with PM @narendramodi to discuss Anthropic's expansion to India—where Claude Code use is up 5× since June. How India deploys AI across critical sectors like education, healthcare, and agriculture for over a billion people will be essential in shaping the future of AI. https://t.co/rt0baeqEeC",
+      "slot_key": "2025-10-11||Anthropic expansion to India",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#Today I met with PM @nar# + mention_directed",
+        "hashtag": "Today I met with PM @nar",
+        "temporal_cutoff": "2025-10-11",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [
+          "narendramodi"
+        ],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#Today I met with PM @nar# + mention_directed",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": [
+          "narendramodi"
+        ]
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现 + @提及定向",
+        "salient_cues_in_feed": [
+          "Anthropic expansion to India",
+          "Bengaluru office early 2026",
+          "Claude Code use up 5× since June",
+          "PM Narendra Modi meeting",
+          "education, healthcare, agriculture"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Anthropic expands global operations to India, plans to open an office in Bengaluru",
+          "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+          "snippet": "Today we’re announcing that we’re expanding our global operations to India, with plans to open an office in Bengaluru in early 2026.",
+          "role": "corroboration of Anthropic's India expansion",
+          "as_of": "2025-10-08"
+        },
+        {
+          "title": "Anthropic expands global operations to India for 2026 - Capacity",
+          "url": "https://capacityglobal.com/news/anthropic-claude-india-expansion",
+          "snippet": "Anthropic CEO and co-founder Dario Amodei is expected to visit India this week to meet with the country’s public officials and enterprise partners.",
+          "role": "pre-meeting expectation of CEO visit",
+          "as_of": "2025-10-08"
+        },
+        {
+          "title": "Anthropic to open first India office in 2026",
+          "url": "https://www.cnbc.com/2025/10/08/anthropic-to-open-first-india-office-in-2026.html",
+          "snippet": "Anthropic on Wednesday said it plans to open its first office in India, entering a market where artificial intelligence usage is growing and its rival OpenAI is already making headway.",
+          "role": "corroboration of expansion and competitive framing",
+          "as_of": "2025-10-08"
+        },
+        {
+          "title": "Anthropic to open first India office in 2026 as demand for AI tools grows | Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-open-india-office-2026-2025-10-08",
+          "snippet": "The new office will be located in Bengaluru, widely recognized as the technology hub of India, and operations will start early 2026.",
+          "role": "corroboration of Bengaluru office plan",
+          "as_of": "2025-10-08"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei tweets: Met PM Narendra Modi to discuss Anthropic’s India expansion",
+          "url": "https://www.facebook.com/moneycontrol/posts/anthropic-ceo-dario-amodei-tweets-met-pm-narendra-modi-to-discuss-anthropics-ind/1249396937231903",
+          "snippet": "Anthropic CEO Dario Amodei tweets: Met PM Narendra Modi to discuss Anthropic’s India expansion — with Claude Code use up 5× since June; how India applies AI in education, healthcare & agriculture will shape the future of AI.",
+          "role": "direct reporting of the same tweet content",
+          "as_of": "2025-10-11"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei meets PM Modi",
+          "url": "https://www.businesstoday.in/tech-today/news/story/anthropic-ceo-dario-amodei-meets-pm-modi-discuss-india-expansion-responsible-ai-future-497845-2025-10-11",
+          "snippet": "In a post on X (formerly Twitter), Amodei wrote, “Today I met with PM @narendramodi to discuss Anthropic's expansion to India — where Claude",
+          "role": "direct reporting of the same tweet content",
+          "as_of": "2025-10-11"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前，Anthropic 印度扩张及 CEO 访印行程已被多家国际与印度媒体报道，形成企业扩张叙事。",
+          "information_flow": "信息从 Anthropic 官方公告流出，经 CNBC、Reuters、Capacity 等媒体扩散，再经 Moneycontrol、Business Today 等印度媒体跟进报道 CEO 与莫迪会面。",
+          "cues": [
+            "India expansion",
+            "Bengaluru office",
+            "CEO visit",
+            "PM Modi meeting",
+            "Claude Code 5×"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "企业扩张",
+            "国际竞争（与 OpenAI 对比）",
+            "AI 赋能关键领域"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "Anthropic 于 2025 年 10 月 8 日宣布在印度班加罗尔设立办公室，CEO Dario Amodei 当周访印会见官员与企业伙伴。",
+          "actors_groups": [
+            "Anthropic",
+            "Dario Amodei",
+            "PM Narendra Modi",
+            "OpenAI（竞争参照）"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "agenda_setting",
+        "framing",
+        "source_credibility",
+        "opinion_leadership",
+        "diffusion_innovation"
+      ],
+      "summary": "发帖前，Anthropic 印度扩张及 CEO 访印已被多家媒体报道；用户通过话题标签页或 @提及路径，以 CEO 身份发布与莫迪会面的原创声明，内容与当日媒体报道一致。",
+      "evidence_gaps": [
+        "CSV 无上游源微博字段，无法确认用户发帖前在微博平台实际浏览的具体内容",
+        "话题标签 #Today I met with PM @nar# 为截断字段，无法确认完整话题页呈现内容",
+        "检索片段中 NDTV 片段含 2026 年 2 月/3 月信息，已忽略（post_cutoff_leakage_ignored）",
+        "X/Twitter 平台检索片段多为登录墙或后续状态，无法确认发帖前用户在 X 上的可见信息流"
+      ],
+      "search_queries": [
+        "Anthropic expansion to India 2025-10-11 news",
+        "Anthropic expansion to India 2025-10-11 Twitter X reaction",
+        "Anthropic expansion to India 2025-10-11 事件 背景 报道",
+        "Anthropic expansion to India 2025-10-11"
+      ],
+      "web_evidence": [
+        {
+          "title": "Anthropic expands global operations to India, plans to open an office in Bengaluru. \\ Anthropic",
+          "snippet": "Today we’re announcing that we’re expanding our global operations to India, with plans to open an office in Bengaluru in early 2026. Bengaluru will serve as our second office in Asia Pacific after Tokyo, which will open in the coming months. This expansion will help us serve India’s rapidly growing AI ecosystem and reflects the increasing international demand we’re seeing for Claude. [...] Our exp",
+          "link": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic expands global operations to India for 2026 - Capacity",
+          "snippet": "Anthropic CEO and co-founder Dario Amodei is expected to visit India this week to meet with the country’s public officials and enterprise partners, as it hopes to deepen its commitment to the region.\n\nThe company plans to open its second Asia-Pacific office in Bengaluru in early 2026, after Tokyo. It comes as it witnesses increasing international demand for Claude, its family of large language mod",
+          "link": "https://capacityglobal.com/news/anthropic-claude-india-expansion",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic to open first India office in 2026",
+          "snippet": "Anthropic on Wednesday said it plans to open its first office in India, entering a market where artificial intelligence usage is growing and its rival OpenAI is already making headway.\n\nThe Amazon-backed AI firm, valued at $183 billion, said it plans to open an office in Bengaluru in early 2026. It will be the company's second office in Asia after Tokyo, Japan.\n\nDario Amodei, CEO of Anthropic, is ",
+          "link": "https://www.cnbc.com/2025/10/08/anthropic-to-open-first-india-office-in-2026.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic to open first India office in 2026 as demand for AI tools grows | Reuters",
+          "snippet": "The new office will be located in Bengaluru, widely recognized as the technology hub of India, and operations will start early 2026, Anthropic said. The location would serve as its second office in the Asia Pacific region after Tokyo, it added.\n\nAdvertisement · Scroll to continue\n\nOpenAI, backed by Microsoft (MSFT.O), opens new tab, was formally registered as a legal entity in India in 2025 and pl",
+          "link": "https://www.reuters.com/business/retail-consumer/anthropic-open-india-office-2026-2025-10-08",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic Announces Expansion In India, AI Agent Claude Now More Accessible",
+          "snippet": "In February, Anthopic opened its Bengaluru office and has expanded its teams across the country.\n\nPartners who pair deep domain knowledge with technical skill are central to how we build in India. When Anthropic launched the Claude Partner Network globally in March 2026, India had some of the highest registration numbers anywhere in the world, and a growing number of Indian partners now sit in the",
+          "link": "https://www.ndtv.com/india-news/anthropic-announces-expansion-in-india-ai-agent-claude-now-more-accessible-11860009",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei tweets: Met... - moneycontrol.com",
+          "snippet": "## moneycontrol.com's Post\n\n### moneycontrol.com\n\nOctober 11, 2025  ·\n\nAnthropic CEO Dario Amodei tweets: Met PM Narendra Modi to discuss Anthropic’s India expansion — with Claude Code use up 5× since June; how India applies AI in education, healthcare & agriculture will shape the future of AI. 🇮🇳\n\n#AI #Innovation #India\n\nNo photo description available. [...] All reactions:\n\n97\n\n3 comments\n\n2 shar",
+          "link": "https://www.facebook.com/moneycontrol/posts/anthropic-ceo-dario-amodei-tweets-met-pm-narendra-modi-to-discuss-anthropics-ind/1249396937231903",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei meets PM Modi",
+          "snippet": "In a post on X (formerly Twitter), Amodei wrote, “Today I met with PM @narendramodi to discuss Anthropic's expansion to India — where Claude",
+          "link": "https://www.businesstoday.in/tech-today/news/story/anthropic-ceo-dario-amodei-meets-pm-modi-discuss-india-expansion-responsible-ai-future-497845-2025-10-11",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic Announces Expansion In India, AI Agent Claude ...",
+          "snippet": "Anthropic Announces Expansion In India, AI Agent Claude Now More. DTV's Image on X 💬3",
+          "link": "https://x.com/ndtv/status/2084275587682799794",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic's India expansion collides with a local company ...",
+          "snippet": "Anthropic's India expansion collides with a local company that already had the name",
+          "link": "https://x.com/TechCrunch/status/2020966851438932380",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Anthropic (@AnthropicAI) / Posts / X",
+          "snippet": "## Log in or sign up for X\n\nSee what’s happening and join the conversation\n\nContinue with phoneContinue with Apple\n\nContinue with Google\n\nContinue with Google Continue with Google. Opens in new tab\n\n or \n\nLog in with username or email\n\nTerms·Privacy·Cookies·Accessibility·Ads Info·More© 2026 X Corp.\n\nScan to get the appImage 13 [...] Image 9: user avatar  Anthropic    @AnthropicAI  Jul 28   We supp",
+          "link": "https://x.com/AnthropicAI?lang=en",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2025-10-11",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "Anthropic expansion to India",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "1915515160607023391",
+      "bid": "1915515160607023391",
+      "date": "2025-04-24 21:16:17",
+      "topic": "AI可解释性",
+      "text": "The Urgency of Interpretability: Why it's crucial that we understand how AI models work https://t.co/Mz8R23uxgy",
+      "slot_key": "2025-04-24||AI可解释性",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#The Urgency of Interpret#",
+        "hashtag": "The Urgency of Interpret",
+        "temporal_cutoff": "2025-04-24",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#The Urgency of Interpret#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "用户通过微博话题标签页 #The Urgency of Interpret# 进入并发帖；该话题标签与 Dario Amodei 文章标题高度吻合，推测用户在该话题页看到或搜索到该文章后转发链接。",
+        "presentation_form": "话题标签页呈现 + 长文链接（Dario Amodei 博客文章）",
+        "salient_cues_in_feed": [
+          "The Urgency of Interpretability",
+          "AI systems equivalent to a 'country of geniuses in a datacenter' as soon as 2026 or 2027",
+          "deploying such systems without a better handle on interpretability",
+          "transparent, reliable, and aligned with human values"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "Dario Amodei — The Urgency of Interpretability",
+          "url": "https://darioamodei.com/post/the-urgency-of-interpretability",
+          "snippet": "I worry that AI itself is advancing so quickly that we might not have even this much time. As I've written elsewhere, we could have AI systems equivalent to a 'country of geniuses in a datacenter' as soon as 2026 or 2027. I am very concerned about deploying such systems without a better handle on interpretability.",
+          "role": "用户正文标题与链接的直接来源，呈现为长文观点",
+          "as_of": "不晚于2025-04-24"
+        },
+        {
+          "title": "Explainable AI (XAI) for trustworthy and transparent decision-making: A theoretical framework for AI interpretability",
+          "url": "https://wjaets.com/content/explainable-ai-xai-trustworthy-and-transparent-decision-making-theoretical-framework-ai",
+          "snippet": "Explainable Artificial Intelligence (XAI); Model Interpretability; Decision Transparency; Machine Learning; AI Ethics; Human-Ai Interaction; AI Accountability & Trustworthy",
+          "role": "学术框架呈现，将可解释性与信任、透明、问责关联",
+          "as_of": "不晚于2025-04-24"
+        },
+        {
+          "title": "什么是 AI 可解读性？| IBM",
+          "url": "https://www.ibm.com/cn-zh/think/topics/interpretability",
+          "snippet": "AI 可解读性有助于人们更好地理解和阐释支持人工智能 (AI) 模型的决策过程。可解释模型是指其决策能被用户轻松理解的模型。",
+          "role": "科普性定义呈现，强调理解模型决策过程",
+          "as_of": "不晚于2025-04-24"
+        },
+        {
+          "title": "Mechanistic Interpretability and Explainable AI",
+          "url": "https://xaiworldconference.com/2025/mechanistic-interpretability-and-explainable-ai",
+          "snippet": "focus on producing interpretable explanations for predictions, MI provides detailed analyses of the mechanisms underlying these predictions. Both approaches contribute to creating AI systems that are transparent, reliable, and aligned with human values.",
+          "role": "会议征稿呈现，将机制可解释性与人类价值对齐关联",
+          "as_of": "不晚于2025-04-24"
+        },
+        {
+          "title": "ICLR 2025 Thursday 04/24",
+          "url": "https://iclr.cc/virtual/2025/day/4/24",
+          "snippet": "experiences, and prevailing challenges. Emphasis will be placed on public sector use-cases, challenges in development and deployment, Responsible AI.",
+          "role": "发帖当日学术会议议程，呈现负责任AI议题",
+          "as_of": "2025-04-24"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前证据显示，AI 可解释性议题在学术会议（ICLR 2025、XAI World Conference）、企业科普（IBM）和行业领袖博客（Dario Amodei）中被持续呈现，框架集中在信任、透明、问责与安全部署。",
+          "information_flow": "信息从 AI 行业领袖博客、学术会议征稿、企业技术科普等渠道流出，呈现为技术治理与安全框架。",
+          "cues": [
+            "interpretability",
+            "transparency",
+            "trustworthy",
+            "responsible AI",
+            "human values"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "紧迫性框架（urgency）",
+            "安全部署框架（deployment without interpretability）",
+            "信任与透明框架（trustworthy and transparent）"
+          ],
+          "cues": [
+            "urgency",
+            "concerned",
+            "trustworthy",
+            "transparent"
+          ]
+        },
+        "social": {
+          "event_backdrop": "发帖前证据显示 AI 能力快速提升（Dario Amodei 提及 2026-2027 年可能出现'数据中心里的天才之国'级系统），可解释性被视为部署前置条件；ICLR 2025 当日议程涉及 Responsible AI 与公共部门用例。",
+          "actors_groups": [
+            "Dario Amodei（AI 行业领袖）",
+            "IBM（企业技术科普）",
+            "XAI World Conference（学术会议）",
+            "ICLR 2025（学术会议）"
+          ],
+          "cues": [
+            "AI systems",
+            "interpretability",
+            "deployment",
+            "responsible AI"
+          ]
+        }
+      },
+      "theory_coordinates": [
+        "risk_perception",
+        "uncertainty_reduction",
+        "framing",
+        "agenda_setting",
+        "source_credibility",
+        "technology_threat"
+      ],
+      "summary": "用户经微博话题标签 #The Urgency of Interpret# 进入，看到 Dario Amodei 关于 AI 可解释性紧迫性的长文，转发链接并附标题。发帖前该议题在行业博客、学术会议与企业科普中被呈现为信任、透明与安全部署的关键。",
+      "evidence_gaps": [
+        "CSV 无源微博字段，无法确认用户是否直接看到 Dario Amodei 原文还是经由他人转发",
+        "话题标签 #The Urgency of Interpret# 在微博上的具体页面内容与热度无证据",
+        "检索片段中 '可解释性陷阱' 一文 URL 标注为 2026-04-10，晚于发帖时间，已忽略（post_cutoff_leakage_ignored）",
+        "检索片段中 X 平台相关帖子（Every、Rohan Paul）时间标注含 2026 年，晚于发帖时间，已忽略（post_cutoff_leakage_ignored）",
+        "检索片段中 YouTube 视频标注 Sept 2025，晚于发帖时间，已忽略（post_cutoff_leakage_ignored）"
+      ],
+      "search_queries": [
+        "AI可解释性 2025-04-24 news",
+        "AI可解释性 2025-04-24 Twitter X reaction",
+        "AI可解释性 2025-04-24 事件 背景 报道",
+        "AI可解释性 2025-04-24"
+      ],
+      "web_evidence": [
+        {
+          "title": "Explainable AI (XAI) for trustworthy and transparent decision-making: A theoretical framework for AI interpretability",
+          "snippet": "Explainable Artificial Intelligence (XAI); Model Interpretability; Decision Transparency; Machine Learning; AI Ethics; Human-Ai Interaction; AI Accountability & Trustworthy\n\n### Preview Article PDF\n\nArunraju Chinnaraju. Explainable AI (XAI) for trustworthy and transparent decision-making: A theoretical framework for AI interpretability. World Journal of Advanced Engineering Technology and Sciences",
+          "link": "https://wjaets.com/content/explainable-ai-xai-trustworthy-and-transparent-decision-making-theoretical-framework-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Dario Amodei — The Urgency of Interpretability",
+          "snippet": "On the other hand, I worry that AI itself is advancing so quickly that we might not have even this much time.  As I’ve written elsewhere, we could have AI systems equivalent to a “country of geniuses in a datacenter” as soon as 2026 or 2027.  I am very concerned about deploying such systems without a better handle on interpretability.  These systems will be absolutely central to the economy, techn",
+          "link": "https://darioamodei.com/post/the-urgency-of-interpretability",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "什么是 AI 可解读性？| IBM",
+          "snippet": "Artificial Intelligence\n\n# 什么是 AI 可解释性？\n\n两名医生在医院查看病人的 CT 扫描结果\n\nAmanda McGrath \n\nStaff Writer\n\nIBM Think\n\nAlexandra Jonker \n\nStaff Editor\n\nIBM Think\n\n## 什么是 AI 可解释性？\n\nAI 可解读性有助于人们更好地理解和阐释支持人工智能 (AI) 模型的决策过程。\n\nAI 模型使用复杂的数据输入、算法、逻辑、数据科学和其他流程网络来返回洞察分析。模型越复杂，人类就越难理解其洞察分析的产生过程—即使设计和构建模型的就是人类。可解释模型是指其决策能被用户轻松理解的模型。\n\nAI 的应用范围正在不断扩大。使用大型语言模型 (LLM) 的系统正在成为日常生活的常规组成部分，这涉及从智能家居设备到信用卡欺诈检测，再到 ChatGPT 和其他生成式 AI ",
+          "link": "https://www.ibm.com/cn-zh/think/topics/interpretability",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "可解释性陷阱：当 AI 解释成为一种负担",
+          "snippet": "## 忠实度差距比你想象的要大​\n\n这种模式不仅仅存在于单个模型中。2025 年 3 月的一项研究评估了 12 个开源权重推理模型，涉及超过 41,000 次推理运行，发现平均忠实度为 69.7%，分布在 39.7% 到 89.9% 之间。最引人注目的发现不是平均值，而是模型内部承认的内容与在可见输出中呈现的内容之间的差距：内部思考 token 约在 87.5% 的时间里承认了受提示影响，而可见答案仅在 28.6% 的时间里承认了这一点——隐藏差距高达 59 个百分点。\n\n迎合性驱动（Sycophancy-driven）的提示显示出最差的忠实度，仅为 53.9%。当用户的措辞暗示他们想要某个特定答案时，模型最有可能产出该答案，同时生成看起来像是独立推导出来的推理轨迹。 [...] TianPan.co Logo\nTianPan.co Logo\n\n### 2026\n\n# 可解释性陷阱：当 A",
+          "link": "https://tianpan.co/zh/blog/2026-04-10-explainability-trap-llm-post-hoc-rationalization",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Mechanistic Interpretability and Explainable AI",
+          "snippet": "focus on producing interpretable explanations for predictions, MI provides detailed analyses of the mechanisms underlying these predictions. Both approaches contribute to creating AI systems that are transparent, reliable, and aligned with human values. Submissions are encouraged that advance the use of MI for practical applications, propose novel interpretability methods, or integrate MI with sym",
+          "link": "https://xaiworldconference.com/2025/mechanistic-interpretability-and-explainable-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "X Twitter Algorithm Breakdown: Get More Views Now (Sept 2025)",
+          "snippet": "boost. Same thing applies to things like if they report it, - 20. If they block my account, negative5. If they mute the tweet,5 not interested, -10. Okay, so those are the engagement signals. Those are the kind of the traditional things that make sense, the things that you would assume would help to boost your tweet. There's also a very heavy waiting added to the relationship between you and the p",
+          "link": "https://www.youtube.com/watch?v=BKCcStvR0qg",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "ICLR 2025 Thursday 04/24",
+          "snippet": "experiences, and prevailing challenges. Emphasis will be placed on public sector use-cases, challenges in development and deployment, Responsible AI. [...] cultures, and broaden your AI perspective. [...] and deployment of general multi-agent assistance systems. We'll demonstrate its capabilities and explore how AI agents collaborate to solve real-world tasks.",
+          "link": "https://iclr.cc/virtual/2025/day/4/24",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Every 🧱 (@every) / X",
+          "snippet": "@every\n\n  5h\n\n  In 2025, Kevin Scott identified a problem: agents couldn't be genuinely useful until they could act on our behalf, using tools and fetching data outside their own knowledge base. The solution he saw was the agentic web, which is now in the early days of being built. From the AI\n\n  \n\n  00:00\n user avatar\n\n  Every 🧱\n\n  @every\n\n  5h\n\n  👀🪨\n\n  user avatar\n\n  Dan Shipper 📧\n\n  @danshipper",
+          "link": "https://x.com/every",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "The rise of X (Twitter) AI and why it matters - Tweet Binder",
+          "snippet": "AI is not a future trend, it’s already embedded in the tools we use daily. Ignoring AI is like trying to do SEO in 2025 without Google Analytics. For marketers, analysts, and agencies using X as part of their digital strategy, it’s crucial to:\n\n Move faster than the competition\n Analyze deeper than traditional tools allow\n Generate insights that drive real action [...] “X (Twitter) AI” refers to u",
+          "link": "https://www.tweetbinder.com/blog/twitter-ai",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Posts with replies by Rohan Paul (@rohanpaul_ai) / X",
+          "snippet": "·\n\nAccessibility\n\n·\n\nAds Info\n\n·\n\nMore\n\n© 2026 X Corp.",
+          "link": "https://x.com/rohanpaul_ai/with_replies",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2025-04-24",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "AI可解释性",
+        "tavily_hits": 16
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    },
+    {
+      "user_id": "DarioAmodei",
+      "post_id": "1884636410839535967",
+      "bid": "1884636410839535967",
+      "date": "2025-01-29 16:15:09",
+      "topic": "中国出口管制",
+      "text": "My thoughts on China, export controls and two possible futures https://t.co/LZAANEcZJW",
+      "slot_key": "2025-01-29||中国出口管制",
+      "observed_pathway_csv": {
+        "entry_channel": "weibo_topic_hashtag:#My thoughts on China#",
+        "hashtag": "My thoughts on China",
+        "temporal_cutoff": "2025-01-29",
+        "upstream_source": null,
+        "device_context": "",
+        "mentions": [],
+        "media": {
+          "article_url": "",
+          "image_url": "",
+          "video_url": ""
+        },
+        "record_type": "",
+        "is_original": "True"
+      },
+      "observed_pathway": {
+        "entry_channel": "weibo_topic_hashtag:#My thoughts on China#",
+        "upstream_source": "none",
+        "device_context": "",
+        "mentions": []
+      },
+      "propagation": {
+        "path_to_user": "unknown",
+        "presentation_form": "话题标签页呈现，用户以原创形式发帖并附带外部链接",
+        "salient_cues_in_feed": [
+          "中国出口管制",
+          "不可靠实体清单",
+          "美国对华出口管制",
+          "中美博弈"
+        ]
+      },
+      "information_sources": [
+        {
+          "title": "中国出口管制的常态化演进：2025年政策与执法回顾与解析",
+          "url": "https://www.hankunlaw.com/portal/article/index/cid/8/id/16182.html",
+          "snippet": "2025年1月2日，不可靠实体清单工作机制公告2025年第1号公布将洛克希德·马丁导弹与火控公司等10家美国企业列入不可靠实体清单；2025年1月14日第2号公布将海岸间电子公司等7家美国企业列入不可靠实体清单；2025年1月15日第3号公布将环太平洋防务公司等4家美国企业列入不可靠实体清单",
+          "role": "呈现中国出口管制措施的时间线，聚焦国防军工领域",
+          "as_of": "2025-01-29"
+        },
+        {
+          "title": "2025美国出口管制全景解析：含针对中企历年被列清单统计",
+          "url": "https://www.allbrightlaw.com/SH/CN/10475/4a7c6b34b7c8feaa.aspx",
+          "snippet": "2025年1月，众议院中国问题特别委员会领导人敦促商务部更新法规，要求美国生物制药实体在与中国军队医院合作进行临床试验前获得出口许可证",
+          "role": "呈现美国对华出口管制在生物技术领域的扩展",
+          "as_of": "2025-01-29"
+        },
+        {
+          "title": "2025年中国出口管制年度回顾与观察——法规深化、执法趋严与企业应对建议",
+          "url": "https://www.kingandwood.com/cn/zh/insights/latest-thinking/review-of-chinas-export-control-in-2025-regulations-enforcement-and-advices-for-enterprises.html",
+          "snippet": "在全球安全与经贸格局加速重构的背景下，出口管制在维护国家安全和战略利益中的作用日益凸显。我国出口管制制度体系将沿着精准化、动态化、国际化的轨道纵深演进",
+          "role": "呈现中国出口管制制度演进的宏观框架",
+          "as_of": "2025-01-29"
+        },
+        {
+          "title": "国枫观察 | 中美博弈新常态：出海企业的合规战略升级（一）——2.0版本新规速览",
+          "url": "https://www.grandwaylaw.com/guofengshijiao/5039.html",
+          "snippet": "2025年1月16日，美商务部BIS发布《保障信息和通信技术及服务供应链：网联汽车》最终规则",
+          "role": "呈现美国对华出口管制在网联汽车领域的新规",
+          "as_of": "2025-01-29"
+        }
+      ],
+      "environment": {
+        "communication": {
+          "platform_climate": "发帖前证据显示，微博话题标签#My thoughts on China#下存在关于中国出口管制及中美博弈的讨论空间，律师事务所等专业机构发布年度回顾与解析",
+          "information_flow": "信息主要从律师事务所、法律专业机构流出，以年度回顾、政策解析、合规建议为框架呈现",
+          "cues": [
+            "出口管制",
+            "不可靠实体清单",
+            "中美博弈",
+            "合规"
+          ]
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [
+            "国家安全与战略利益",
+            "中美博弈新常态",
+            "合规战略升级"
+          ],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "2025年1月中国连续发布不可靠实体清单公告，美国同步推进对华出口管制新规，中美在出口管制领域形成博弈态势",
+          "actors_groups": [
+            "中国不可靠实体清单工作机制",
+            "美国商务部BIS",
+            "众议院中国问题特别委员会",
+            "律师事务所"
+          ],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [
+        "agenda_setting",
+        "framing",
+        "risk_perception",
+        "uncertainty_reduction"
+      ],
+      "summary": "用户通过微博话题标签#My thoughts on China#进入讨论空间，在发帖前可接触到律师事务所发布的关于中国出口管制及中美博弈的年度回顾与政策解析，随后以原创形式发帖并附外部链接表达个人观点。",
+      "evidence_gaps": [
+        "用户发帖所附外部链接内容不可见，无法判断其具体观点来源",
+        "话题标签页在发帖时刻的具体呈现内容无直接证据",
+        "检索片段中2025年2月及之后的内容（如2月4日不可靠实体清单第4号公告）已忽略",
+        "特朗普2025年10月批评中国出口管制的信息晚于发帖时间，已忽略",
+        "MOFCOM 2025年10月推文及评论晚于发帖时间，已忽略"
+      ],
+      "search_queries": [
+        "中国出口管制 2025-01-29 news",
+        "中国出口管制 2025-01-29 Twitter X reaction",
+        "中国出口管制 2025-01-29 事件 背景 报道",
+        "中国出口管制 2025-01-29"
+      ],
+      "web_evidence": [
+        {
+          "title": "中国出口管制的常态化演进：2025年政策与执法回顾与解析",
+          "snippet": "| 类型 | 具体措施 | 备注 |\n --- \n| 不可靠    实体清单 | 2025年1月2日，不可靠实体清单工作机制公告2025年第1号公布将洛克希德·马丁导弹与火控公司等10家美国企业列入不可靠实体清单 | 年度首批不可靠实体清单措施，聚焦国防军工领域 |\n| 2025年1月14日，不可靠实体清单工作机制公告2025年第2号公布将海岸间电子公司等7家美国企业列入不可靠实体清单 | 聚焦国防军工领域 |\n| 2025年1月15日，不可靠实体清单工作机制公告2025年第3号公布将环太平洋防务公司等4家美国企业列入不可靠实体清单 | 聚焦国防军工领域 |\n| 2025年2月4日，不可靠实体清单工作机制公告2025年第4号公布将美国PVH集团和因美纳公司列入不可靠实体清单 | 首次将非军工企业纳入不可靠实体清单 |\n| 2025年3月4日，不可靠实体清单工作机制公告2025年第5号公布将",
+          "link": "https://www.hankunlaw.com/portal/article/index/cid/8/id/16182.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2025美国出口管制全景解析：含针对中企历年被列清单统计",
+          "snippet": "1.临床试验及相关技术管制\n\n2025年1 月，众议院中国问题特别委员会领导人敦促商务部更新法规，要求美国生物制药实体在与中国军队医院合作进行临床试验前获得出口许可证，拟将中国军事医疗基础设施纳入 “军事最终用户” 定义。\n\n2025年12 月，两党议员提出《生物知识产权保护法》，要求向中国或俄罗斯等 “关注外国” 实体出口设计的合成 DNA 或 RNA 序列需获得许可。\n\n同月，BIS 完成对实验室设备及相关技术和软件的管制的最终规则的跨机构审查。\n\n总结与风控建议：从趋势上来看，生物技术领域成为美国对华出口管制的新重点，管制范围从医疗设备、技术延伸至临床试验合作。我们建议生物医药、医疗科技企业全面评估与相关医疗机构的合作的美国风险。对于采购获取合成 DNA/RNA 序列、相关高参数实验室设备等敏感物项，重视获取该等设备在出口管制角度的合法性。\n\n（四）执法力度加大，处罚案例增多\n\n1.",
+          "link": "https://www.allbrightlaw.com/SH/CN/10475/4a7c6b34b7c8feaa.aspx",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "2025年中国出口管制年度回顾与观察——法规深化、执法趋严与企业应对建议 - 金杜律师事务所",
+          "snippet": "总体而言，在全球安全与经贸格局加速重构的背景下，出口管制在维护国家安全和战略利益中的作用日益凸显。可以预见，我国出口管制制度体系将在《出口管制法》确立的框架下，沿着精准化、动态化、国际化的轨道纵深演进：管控物项清单将随技术迭代与风险评估而动态调整；以通用许可、内部合规激励为代表的便利化措施将与严格执法并行；基于物项源头的域外适用规则将逐步形成清晰的实践案例，将会对全球供应链产生深远影响。与此同时，跨部门的协同执法、行刑衔接的强化以及与国际规则的互动博弈，将成为常态。对企业而言，合规已从被动遵从的外部要求，内化为保障供应链安全、维持市场准入、提升国际竞争力的核心战略能力。唯有提前布局、稳妥应对，构建嵌入业务全流程、具备适应性的合规管理体系，方能在不断演进的规则环境中实现合规经营与长期发展。\n\n_感谢实习生原君竹对本文的贡献。_\n\n扫码订阅“金杜律师事务所”，了解更多业务资讯\n\n分类\n\n   ",
+          "link": "https://www.kingandwood.com/cn/zh/insights/latest-thinking/review-of-chinas-export-control-in-2025-regulations-enforcement-and-advices-for-enterprises.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "国枫观察 | 中美博弈新常态：出海企业的合规战略升级（一）——2.0版本新规速览",
+          "snippet": "该规则主要针对的是中国企业通过隐匿技术参数、包装为海外公司、由第三方封装等方式规避美国出口管制措施，从而委托台积电等代工厂流片超过管控性能红线的芯片的情形。 随着该规则生效，台积电对中国企业流片的限制也开始落地。1月30日消息称，台积电向一大批中国大陆的芯片设计公司发出通知：从2025年1月31日起，若16/14纳米节点及以下制程的相关产品未在BIS白名单中的OSAT企业进行封装，且台积电未收到来自该封装厂的认证签署副本，这些产品发货将被暂停。\n\n（六）2025年1月16日，美商务部BIS发布《保障信息和通信技术及服务供应链：网联汽车》（Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles）最终规则。 [...] 3. 增强与贸易伙伴的多边合作",
+          "link": "https://www.grandwaylaw.com/guofengshijiao/5039.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "China Suspends Export Controls on Certain Critical ...",
+          "snippet": "2025 Announcement No. 18 (control on seven medium- and heavy-rare-earth elements, including samarium, gadolinium, terbium, dysprosium, lutetium, scandium and yttrium, as well as metals, alloys, targets, oxides, compounds, mixtures and permanent magnet materials of the some or all of the seven rare earths mentioned above). [...] China has not made any further announcements with respect to its April",
+          "link": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "特朗普发文批评中国出口管制新规 | 中美印象",
+          "snippet": "其他国家已经联系了我们，他们对这场突如其来的大规模贸易敌对行动感到极度愤怒。过去六个月，我们与中国的关系一直很好，因此此次贸易上的举动更加令人意外。我一直觉得他们一直在伺机而动，而现在，一如既往地，事实证明我猜对了！中国绝不应该被允许“俘虏”世界，但这似乎是他们计划已久的计划，首先是“磁铁”和其他元素，他们已经悄悄地将这些元素积累到某种垄断地位，至少可以说，这是一个相当阴险和敌对的举动。 [...] [](\n\n2025年10月10日上午近11点，特朗普总统突然在自己的社交媒体账号推出一条长信息，批评中国政府最近推出的对稀土元素出口管制的新规定（点击【这里】查看相关规定）。在这条信息里，特朗普威胁要取消他与中国领导人月底在韩国举行的APEC峰会上的会晤，并提出美国会根据中国政府今后几天的反应很快出台反制措施。美国股市反应强烈，美东时间下午三点，道琼斯和纳斯达克指数分别下跌600多点。万维读者",
+          "link": "https://zmyx.net/trump-mad-at-china-new-export-control-measures",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "MOFCOM Spokesperson's Remarks on China's ...",
+          "snippet": "2:05 AM · Oct 12, 2025457.6KViews\n user avatar\n\n  Leong Yong Jia\n\n  @DensetsuLelouch\n\n  Oct 12, 2025\n\n  Keep up the good work. Please keep the restriction, so that US cannot bring war to another country. I don't wanna see another country end up like GAZA again.\n user avatar\n\n  pourteaux ⋆ ˚｡⋆\n\n  @pourteaux\n\n  Oct 12, 2025\n\n  no one tweets this long when they winning\n user avatar\n\n  SparkUniverse\n\n",
+          "link": "https://x.com/MOFCOM_China/status/1977193939729104997",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Twitter Becomes Stage for China Protests Despite Ban by Beijing - WSJ",
+          "snippet": "Advertisement\n\nThis copy is for your personal, non-commercial use only. Distribution and use of this material are governed by\nour Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact\nDow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.\n\n# Twitter Becomes Stage for China Protests Despite Ban by Beijing\n\n## Chinese users employ VPNs",
+          "link": "https://www.wsj.com/articles/twitter-becomes-stage-for-china-protests-despite-ban-by-beijing-11669829265",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Twitter suspends accounts from China suspected of undermining protests in Hong Kong",
+          "snippet": "192 comments\n### Transcript: [...] to amplify messages related to the Hong Kong protests twitter is banned in the PRC but they did say that these accounts were accessed using VPNs there were some specific IP addresses that originated in mainland China that were able to use Twitter but they are disclosing at least 936 accounts state-backed operation to undermine the protesters in Hong Kong Melissa ",
+          "link": "https://www.youtube.com/watch?v=hGNiMsedjcY",
+          "date": "",
+          "source": "tavily"
+        },
+        {
+          "title": "Twitter shutters Chinese accounts targeting Hong Kong protests | PBS News",
+          "snippet": "WASHINGTON (AP) — Twitter said Monday it has suspended more than 200,000 accounts that it believes were part of a Chinese government influence campaign targeting the protest movement in Hong Kong.\n\nThe company also said it will ban ads from state-backed media companies, expanding a prohibition it first applied in 2017 to two Russian entities. [...] Both measures are part of what a senior company o",
+          "link": "https://www.pbs.org/newshour/world/twitter-shutters-chinese-accounts-targeting-hong-kong-protests",
+          "date": "",
+          "source": "tavily"
+        }
+      ],
+      "retrieval_meta": {
+        "retrieval": "tavily",
+        "temporal_cutoff": "2025-01-29",
+        "causal_window": "as_of_or_before_posting_time",
+        "topic": "中国出口管制",
+        "tavily_hits": 15
+      },
+      "kind": "personal_reception_pathway",
+      "reused_slot": false
+    }
+  ],
+  "slots": {
+    "2026-06-10||Alongside it": {
+      "slot_key": "2026-06-10||Alongside it",
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "用户通过话题标签#Alongside it#进入并发帖，但发帖前无任何可验证的上游信源或呈现证据，传播路径无法还原。",
+      "web_evidence": [],
+      "search_queries": [
+        "Alongside it 2026-06-10 news before:2026-06-10",
+        "Alongside it 2026-06-10 Twitter X reaction before:2026-06-10",
+        "Alongside it 2026-06-10 事件 背景 报道 before:2026-06-10",
+        "Alongside it 2026-06-10 before:2026-06-10"
+      ]
+    },
+    "2026-06-10||Many of these policy ide": {
+      "slot_key": "2026-06-10||Many of these policy ide",
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "用户通过微博话题标签页进入并原创发帖，但发帖前可观察的信息源与传播路径证据缺失，无法还原其接触到的具体呈现内容。",
+      "web_evidence": [],
+      "search_queries": [
+        "Many of these policy ide 2026-06-10 news before:2026-06-10",
+        "Many of these policy ide 2026-06-10 Twitter X reaction before:2026-06-10",
+        "Many of these policy ide 2026-06-10 事件 背景 报道 before:2026-06-10",
+        "Many of these policy ide 2026-06-10 before:2026-06-10"
+      ]
+    },
+    "2026-06-10||In addition to transpare": {
+      "slot_key": "2026-06-10||In addition to transpare",
+      "environment": {
+        "communication": {
+          "platform_climate": "evidence_insufficient",
+          "information_flow": "evidence_insufficient",
+          "cues": []
+        },
+        "psychological": {
+          "public_mood": "evidence_insufficient",
+          "salient_frames": [],
+          "cues": []
+        },
+        "social": {
+          "event_backdrop": "evidence_insufficient",
+          "actors_groups": [],
+          "cues": []
+        }
+      },
+      "theory_coordinates": [],
+      "summary": "发帖前仅见话题标签入口，无上游源博与检索片段，无法还原其接触到的信息环境与传播路径。",
+      "web_evidence": [],
+      "search_queries": [
+        "In addition to transpare 2026-06-10 news before:2026-06-10",
+        "In addition to transpare 2026-06-10 Twitter X reaction before:2026-06-10",
+        "In addition to transpare 2026-06-10 事件 背景 报道 before:2026-06-10",
+        "In addition to transpare 2026-06-10 before:2026-06-10"
+      ]
+    }
+  },
+  "retrieval": "tavily",
+  "num_posts": 16
+}
